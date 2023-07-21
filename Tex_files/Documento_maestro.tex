@@ -9,9 +9,10 @@
 \usepackage{lscape}
 \usepackage{amssymb}
 \usepackage[none]{hyphenat}
-\usepackage{makeidx}
+\usepackage{titlesec}
 \usepackage{enumerate}
 \usepackage{graphicx}
+\usepackage{fancyhdr}
 \usepackage{fontenc}
 \usepackage[T1]{fontenc}
 \usepackage{helvet}
@@ -22,9 +23,48 @@
 \usepackage{microtype}
 \spacing{1.5}
 
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\nouppercase{\leftmark}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection.\ #1}}
+\fancyfoot[R]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+\titleformat*{\section}{\fontsize{14pt}{0pt}\selectfont}
+\titleformat*{\subsection}{\fontsize{12pt}{0pt}\selectfont\bfseries}
+\titleformat*{\subsubsection}{\fontsize{12pt}{0pt}\selectfont\bfseries}
+
 \begin{document}
 	\begin{titlepage}
 		\setlength{\parskip}{1.5cm}
 		\include{Portada}
 	\end{titlepage}
+	\tableofcontents
+	\thispagestyle{empty}
+	\clearpage
+	\addcontentsline{toc}{section}{Índice de figuras}
+	\listoffigures
+	\setcounter{page}{1}
+	\pagenumbering{roman}
+	\clearpage
+	\addcontentsline{toc}{section}{Índice de cuadros}
+	\listoftables
+	\clearpage
+	\include{Resumen}
+	\addtocounter{page}{1}
+	\pagenumbering{arabic}
+	\include{Introduccion}
+	\include{Antecedentes}
+	\include{Planteamiento}
+	\include{Justificacion}
+	\include{Objetivos}
+	\include{Materiales}
+	\include{Resultados}
+	\include{Discusion}
+	\include{Conclusiones}
+	\include{Perspectivas}
+	\bibliography{apacite}
+	\include{Anexos}
+	\include{Glosario}
 \end{document}

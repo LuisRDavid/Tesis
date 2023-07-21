@@ -1,0 +1,16 @@
+\babel@toc {english}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{Índice de figuras}{\es@scroman {i}}{}%
+\contentsline {section}{Índice de cuadros}{\es@scroman {ii}}{}%
+\contentsline {section}{\numberline {1}Introducción}{1}{}%
+\contentsline {section}{\numberline {2}Antecedentes}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Lodos Activados}{2}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Flóculos}{2}{}%
+\contentsline {section}{\numberline {3}Planteamiento del problema}{3}{}%
+\contentsline {section}{\numberline {4}Justficación}{4}{}%
+\contentsline {section}{\numberline {5}Objetivos}{5}{}%
+\contentsline {subsection}{\numberline {5.1}Objetivo general}{5}{}%
+\contentsline {subsection}{\numberline {5.2}Objetivos particulares}{5}{}%
