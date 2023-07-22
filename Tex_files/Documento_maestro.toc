@@ -5,6 +5,7 @@
 \babel@toc {spanish}{}\relax 
 \contentsline {section}{Índice de figuras}{\es@scroman {i}}{}%
 \contentsline {section}{Índice de cuadros}{\es@scroman {ii}}{}%
+\contentsline {section}{Resumen}{\es@scroman {iii}}{}%
 \contentsline {section}{\numberline {1}Introducción}{1}{}%
 \contentsline {section}{\numberline {2}Antecedentes}{2}{}%
 \contentsline {subsection}{\numberline {2.1}Lodos Activados}{2}{}%
@@ -14,3 +15,8 @@
 \contentsline {section}{\numberline {5}Objetivos}{5}{}%
 \contentsline {subsection}{\numberline {5.1}Objetivo general}{5}{}%
 \contentsline {subsection}{\numberline {5.2}Objetivos particulares}{5}{}%
+\contentsline {section}{\numberline {6}Materiales}{6}{}%
+\contentsline {section}{\numberline {7}Resultados}{7}{}%
+\contentsline {section}{\numberline {8}Discusión}{8}{}%
+\contentsline {section}{\numberline {9}Conclusiones}{9}{}%
+\contentsline {section}{\numberline {10}Perspectivas}{10}{}%

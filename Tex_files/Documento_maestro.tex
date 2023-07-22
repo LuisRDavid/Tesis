@@ -23,13 +23,37 @@
 \usepackage{microtype}
 \spacing{1.5}
 
+\fancypagestyle{Anexos}{%
+	\fancyhf{}% clear all header and footer fields
+	\fancyhead[R]{{ANEXOS}}
+	\fancyfoot[R]{\thepage}
+	\renewcommand{\headrulewidth}{0.4pt}
+	\renewcommand{\footrulewidth}{0.4pt}
+}
+
+\fancypagestyle{Glosario}{%
+	\fancyhf{}% clear all header and footer fields
+	\fancyhead[R]{{GLOSARIO}}
+	\fancyfoot[R]{\thepage}
+	\renewcommand{\headrulewidth}{0.4pt}
+	\renewcommand{\footrulewidth}{0.4pt}
+}
+
+\fancypagestyle{Resumen}{%
+	\fancyhf{}% clear all header and footer fields
+	\fancyhead[R]{{RESUMEN}}
+	\fancyfoot[R]{\thepage}
+	\renewcommand{\headrulewidth}{0.4pt}
+	\renewcommand{\footrulewidth}{0.4pt}
+}
+
 \pagestyle{fancy}
 \fancyhf{}
-\fancyhead[R]{\nouppercase{\leftmark}}
-\renewcommand{\sectionmark}[1]{\markright{\thesection.\ #1}}
+\fancyhead[R]{\uppercase{\hfill\leftmark}}
 \fancyfoot[R]{\thepage}
 \renewcommand{\headrulewidth}{0.4pt}
 \renewcommand{\footrulewidth}{0.4pt}
+
 
 \titleformat*{\section}{\fontsize{14pt}{0pt}\selectfont}
 \titleformat*{\subsection}{\fontsize{12pt}{0pt}\selectfont\bfseries}
@@ -51,6 +75,7 @@
 	\addcontentsline{toc}{section}{Índice de cuadros}
 	\listoftables
 	\clearpage
+	\thispagestyle{Resumen}
 	\include{Resumen}
 	\addtocounter{page}{1}
 	\pagenumbering{arabic}
@@ -65,6 +90,8 @@
 	\include{Conclusiones}
 	\include{Perspectivas}
 	\bibliography{apacite}
+	\pagestyle{Anexos}
 	\include{Anexos}
+	\pagestyle{Glosario}
 	\include{Glosario}
 \end{document}
