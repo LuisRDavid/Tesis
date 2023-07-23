@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.7.21)  21 JUL 2023 23:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.7.21)  22 JUL 2023 16:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -837,17 +837,17 @@ LaTeX Info: Redefining \% on input line 9.
 ### semi simple group (level 1) entered at line 24 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 10452 strings out of 476331
- 177156 string characters out of 5787765
- 1854660 words of memory out of 5000000
+ 10455 strings out of 476331
+ 177183 string characters out of 5787765
+ 1855660 words of memory out of 5000000
  30536 multiletter control sequences out of 15000+600000
- 546795 words of font info for 117 fonts, out of 8000000 for 9000
+ 546920 words of font info for 119 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,68p,1016b,1855s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,11n,68p,1016b,1867s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/luisr/AppData/Local/Programs/MiKTeX/fonts/type1/urw/h
 elvetic/uhvb8a.pfb><C:/Users/luisr/AppData/Local/Programs/MiKTeX/fonts/type1/ur
 w/helvetic/uhvr8a.pfb>
-Output written on Documento_maestro.pdf (18 pages, 83629 bytes).
+Output written on Documento_maestro.pdf (18 pages, 84226 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

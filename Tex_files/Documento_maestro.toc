@@ -8,8 +8,11 @@
 \contentsline {section}{Resumen}{\es@scroman {iii}}{}%
 \contentsline {section}{\numberline {1}Introducción}{1}{}%
 \contentsline {section}{\numberline {2}Antecedentes}{2}{}%
-\contentsline {subsection}{\numberline {2.1}Lodos Activados}{2}{}%
-\contentsline {subsubsection}{\numberline {2.1.1}Flóculos}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Aguas residuales}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Lodos Activados}{2}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Organismos presentes en los lodos activados}{2}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}Flóculos}{2}{}%
+\contentsline {subsubsection}{\numberline {2.2.3}Bulking filamentoso}{2}{}%
 \contentsline {section}{\numberline {3}Planteamiento del problema}{3}{}%
 \contentsline {section}{\numberline {4}Justficación}{4}{}%
 \contentsline {section}{\numberline {5}Objetivos}{5}{}%
