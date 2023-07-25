@@ -1,14 +1,16 @@
 \babel@toc {english}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
 \babel@toc {spanish}{}\relax 
-\babel@toc {spanish}{}\relax 
-\contentsline {section}{Índice de figuras}{\es@scroman {i}}{}%
-\contentsline {section}{Índice de cuadros}{\es@scroman {ii}}{}%
-\contentsline {section}{Resumen}{\es@scroman {iii}}{}%
+\contentsline {section}{Índice de figuras}{i}{}%
+\contentsline {section}{Índice de cuadros}{ii}{}%
+\contentsline {section}{Resumen}{iii}{}%
 \contentsline {section}{\numberline {1}Introducción}{1}{}%
 \contentsline {section}{\numberline {2}Antecedentes}{2}{}%
 \contentsline {subsection}{\numberline {2.1}Aguas residuales}{2}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Características Físicas}{2}{}%
 \contentsline {subsection}{\numberline {2.2}Lodos Activados}{2}{}%
 \contentsline {subsubsection}{\numberline {2.2.1}Organismos presentes en los lodos activados}{2}{}%
 \contentsline {subsubsection}{\numberline {2.2.2}Flóculos}{2}{}%
@@ -23,3 +25,5 @@
 \contentsline {section}{\numberline {8}Discusión}{8}{}%
 \contentsline {section}{\numberline {9}Conclusiones}{9}{}%
 \contentsline {section}{\numberline {10}Perspectivas}{10}{}%
+\contentsline {section}{Anexos}{A}{}%
+\contentsline {section}{Glosario}{C}{}%

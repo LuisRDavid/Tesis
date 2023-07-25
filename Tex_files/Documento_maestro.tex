@@ -1,7 +1,8 @@
 \documentclass[12pt,letterpaper]{article}
 \usepackage[utf8]{inputenc}
-\usepackage[english, spanish]{babel}
+\usepackage[spanish, english]{babel}
 \usepackage[font={small,bf},tableposition=top]{caption}
+\usepackage[round]{natbib}
 \usepackage{url}
 \usepackage{amsmath}
 \usepackage{array}
@@ -21,12 +22,12 @@
 \usepackage{setspace}
 \usepackage{etoolbox}
 \usepackage{microtype}
-\spacing{1.5}
+\onehalfspacing
 
 \fancypagestyle{Anexos}{%
 	\fancyhf{}% clear all header and footer fields
 	\fancyhead[R]{{ANEXOS}}
-	\fancyfoot[R]{\thepage}
+	\fancyfoot[LR]{ANEXOS\hfill\thepage}
 	\renewcommand{\headrulewidth}{0.4pt}
 	\renewcommand{\footrulewidth}{0.4pt}
 }
@@ -34,7 +35,7 @@
 \fancypagestyle{Glosario}{%
 	\fancyhf{}% clear all header and footer fields
 	\fancyhead[R]{{GLOSARIO}}
-	\fancyfoot[R]{\thepage}
+	\fancyfoot[LR]{GLOSARIO\hfill\thepage}
 	\renewcommand{\headrulewidth}{0.4pt}
 	\renewcommand{\footrulewidth}{0.4pt}
 }
@@ -64,6 +65,8 @@
 		\setlength{\parskip}{1.5cm}
 		\include{Portada}
 	\end{titlepage}
+	\selectlanguage{spanish}
+	\thispagestyle{empty}
 	\tableofcontents
 	\thispagestyle{empty}
 	\clearpage
@@ -89,9 +92,15 @@
 	\include{Discusion}
 	\include{Conclusiones}
 	\include{Perspectivas}
-	\bibliography{apacite}
+	\bibliographystyle{apalike}
+	\bibliography{../Bibliografia/References.bib}
+	\clearpage
+	\addcontentsline{toc}{section}{Anexos}
+	\addtocounter{page}{1}
+	\pagenumbering{Alph}
 	\pagestyle{Anexos}
 	\include{Anexos}
+	\addcontentsline{toc}{section}{Glosario}
 	\pagestyle{Glosario}
 	\include{Glosario}
 \end{document}
