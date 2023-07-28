@@ -1,15 +1,19 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/CVE-2023-32700 patched) (preloaded format=pdflatex 2023.7.16)  27 JUL 2023 18:10
+=======
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.7.27)  27 JUL 2023 18:02
+>>>>>>> 90934604b6a5ec33d61c0ea828b823c771b07ef5
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Documento_maestro.tex
-(./Documento_maestro.tex
-LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-12-17>
-(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+**./Documento_maestro.tex
+(Documento_maestro.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-03-30>
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -19,71 +23,69 @@ File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \c@subparagraph=\count190
 \c@figure=\count191
 \c@table=\count192
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
 )
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2022/12/26 3.84 The Babel package
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2023/07/15 v3.92 The Babel package
 \babel@savecnt=\count193
 \U@D=\dimen141
-\l@unhyphenated=\language3
+\l@unhyphenated=\language79
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count194
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.l
+df
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
-
-
-Package babel Warning: No hyphenation patterns were preloaded for
-(babel)                the language 'Spanish' into the format.
-(babel)                Please, configure your TeX system to add them and
-(babel)                rebuild the format. Now I will use the patterns
-(babel)                preloaded for \language=0 instead on input line 51.
-
-Package babel Info: Hyphen rules for 'spanish' set to \l@english
-(babel)             (\language0). Reported on input line 52.
 \es@quottoks=\toks18
 \es@quotdepth=\count195
 Package babel Info: Making " an active character on input line 570.
 Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
 Package babel Info: Making > an active character on input line 722.
-) (/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+)
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+df
 Language: english 2017/06/06 v3.3r English support from the babel system
-Package babel Info: Hyphen rules for 'british' set to \l@english
-(babel)             (\language0). Reported on input line 82.
-Package babel Info: Hyphen rules for 'UKenglish' set to \l@english
-(babel)             (\language0). Reported on input line 83.
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
-Package babel Info: Hyphen rules for 'australian' set to \l@english
-(babel)             (\language0). Reported on input line 105.
-Package babel Info: Hyphen rules for 'newzealand' set to \l@english
-(babel)             (\language0). Reported on input line 108.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
 ))
-(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel
+-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/es/babel-spanish.tex
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel
+-spanish.tex
 Package babel Info: Importing font and identification data for spanish
 (babel)             from babel-es.ini. Reported on input line 11.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
@@ -100,35 +102,35 @@ Package caption Info: Standard document class detected.
 \c@caption@flags=\count196
 \c@continuedfloat=\count197
 )
-(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip49
-\bibsep=\skip50
+\bibhang=\skip50
+\bibsep=\skip51
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count198
 )
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2022/04/08 v2.17n AMS math features
-\@mathmargin=\skip51
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip52
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks20
 \ex@=\dimen150
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen151
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count199
@@ -173,35 +175,35 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \totwidth@=\dimen157
 \lineht@=\dimen158
 \@envbody=\toks23
-\multlinegap=\skip52
-\multlinetaggap=\skip53
+\multlinegap=\skip53
+\multlinetaggap=\skip54
 \mathdisplay@stack=\toks24
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen159
 \ar@mcellbox=\box53
 \extrarowheight=\dimen160
 \NC@list=\toks25
-\extratabsurround=\skip54
-\backup@length=\skip55
+\extratabsurround=\skip55
+\backup@length=\skip56
 \ar@cellbox=\box54
 )
-(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Package option `usenames' ignored on input line 218.
 Package xcolor Info: Driver file: pdftex.def on input line 227.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
 Package xcolor Info: Model `RGB' extended on input line 1369.
@@ -211,96 +213,93 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+)) (C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.st
+y
 Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
 \everycr=\toks26
-\minrowclearance=\skip56
+\minrowclearance=\skip57
 \rownum=\count277
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+) (C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-(/usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+)) (C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/hyphenat\hyphenat.st
+y
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
-\langwohyphens=\language4
+\langwohyphens=\language80
 LaTeX Info: Redefining \_ on input line 43.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+) (C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box55
-\beforetitleunit=\skip57
-\aftertitleunit=\skip58
+\beforetitleunit=\skip58
+\aftertitleunit=\skip59
 \ttl@plus=\dimen161
 \ttl@minus=\dimen162
 \ttl@toksa=\toks27
 \titlewidth=\dimen163
 \titlewidthlast=\dimen164
 \titlewidthfirst=\dimen165
-)
-(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+) (C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks28
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 \Gin@req@height=\dimen166
 \Gin@req@width=\dimen167
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 
-\f@nch@headwidth=\skip59
-\f@nch@O@elh=\skip60
-\f@nch@O@erh=\skip61
-\f@nch@O@olh=\skip62
-\f@nch@O@orh=\skip63
-\f@nch@O@elf=\skip64
-\f@nch@O@erf=\skip65
-\f@nch@O@olf=\skip66
-\f@nch@O@orf=\skip67
+\f@nch@headwidth=\skip60
+\f@nch@O@elh=\skip61
+\f@nch@O@erh=\skip62
+\f@nch@O@olh=\skip63
+\f@nch@O@orh=\skip64
+\f@nch@O@elf=\skip65
+\f@nch@O@erf=\skip66
+\f@nch@O@olf=\skip67
+\f@nch@O@orf=\skip68
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
 Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
 )
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count278
@@ -315,60 +314,62 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen174
 \Gm@layoutvoffset=\dimen175
 \Gm@dimlist=\toks29
-)
-(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count281
 )
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2022/06/23 v3.0f Micro-typographical refinements (RS)
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
 \MT@toks=\toks30
 \MT@tempbox=\box56
 \MT@count=\count282
-LaTeX Info: Redefining \noprotrusionifhmode on input line 1045.
-LaTeX Info: Redefining \leftprotrusion on input line 1046.
-LaTeX Info: Redefining \rightprotrusion on input line 1056.
-LaTeX Info: Redefining \textls on input line 1234.
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
+LaTeX Info: Redefining \leftprotrusion on input line 1060.
+\MT@prot@toks=\toks31
+LaTeX Info: Redefining \rightprotrusion on input line 1078.
+LaTeX Info: Redefining \textls on input line 1368.
 \MT@outer@kern=\dimen176
-LaTeX Info: Redefining \textmicrotypecontext on input line 1858.
+LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
 \MT@listname@count=\count283
 
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
-File: microtype-pdftex.def 2022/06/23 v3.0f Definitions specific to pdftex (RS)
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
+tex.def
+File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
 
-LaTeX Info: Redefining \lsstyle on input line 900.
-LaTeX Info: Redefining \lslig on input line 900.
-\MT@outer@space=\skip68
+LaTeX Info: Redefining \lsstyle on input line 902.
+LaTeX Info: Redefining \lslig on input line 902.
+\MT@outer@space=\skip69
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2022/06/23 v3.0f microtype main configuration file (RS)
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
 ))
 LaTeX Font Info:    Trying to load font information for T1+phv on input line 63
 .
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
+ (C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count284
 \l__pdf_internal_box=\box57
-)
-(./Documento_maestro.aux (./Portada.aux
+) (Documento_maestro.aux (Portada.aux
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
 )
 LaTeX Info: Redefining \. on input line 10.
 LaTeX Info: Redefining \% on input line 10.
- (./Resumen.aux) (./Introduccion.aux)
-(./Antecedentes.aux) (./Planteamiento.aux) (./Justificacion.aux)
-(./Objetivos.aux) (./Materiales.aux) (./Resultados.aux) (./Discusion.aux)
-(./Conclusiones.aux) (./Perspectivas.aux) (./Anexos.aux) (./Glosario.aux))
+ (Resumen.aux) (Introduccion.aux)
+(Antecedentes.aux) (Planteamiento.aux) (Justificacion.aux) (Objetivos.aux)
+(Materiales.aux) (Resultados.aux) (Discusion.aux) (Conclusiones.aux)
+(Perspectivas.aux) (Anexos.aux) (Glosario.aux))
 \openout1 = `Documento_maestro.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
@@ -388,27 +389,30 @@ LaTeX Font Info:    ... okay on input line 63.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count285
 \scratchdimen=\dimen177
 \scratchbox=\box58
 \nofMPsegments=\count286
 \nofMParguments=\count287
-\everyMPshowfont=\toks31
+\everyMPshowfont=\toks32
 \MPscratchCnt=\count288
 \MPscratchDim=\dimen178
 \MPnumerator=\count289
 \makeMPintoPDFobject=\count290
-\everyMPtoPDFconversion=\toks32
-) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+\everyMPtoPDFconversion=\toks33
+)
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -449,6 +453,7 @@ Package microtype Info: Applying patch `item' on input line 63.
 Package microtype Info: Applying patch `toc' on input line 63.
 Package microtype Info: Applying patch `eqnum' on input line 63.
 Package microtype Info: Applying patch `footnote' on input line 63.
+Package microtype Info: Applying patch `verbatim' on input line 63.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -465,7 +470,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 \openout2 = `Portada.aux'.
 
-(./Portada.tex
+(Portada.tex
 <../Images/logo_udeg.png, id=1, 278.4804pt x 394.5942pt>
 File: ../Images/logo_udeg.png Graphic file (type png)
 <use ../Images/logo_udeg.png>
@@ -476,45 +481,47 @@ LaTeX Info: Redefining \% on input line 23.
  [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../Images/logo_udeg.png>])
+{C:/Users/luisr/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/luis
+r/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <../Images/logo_ud
+eg.png>])
 LaTeX Info: Redefining \. on input line 68.
 LaTeX Info: Redefining \% on input line 68.
- (./Documento_maestro.toc
+ (Documento_maestro.toc
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
 
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
 
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ))
 \tf@toc=\write3
 \openout3 = `Documento_maestro.toc'.
 
- [1
+
+[1
 
 
-]
-(./Documento_maestro.lof
+] (Documento_maestro.lof
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
 LaTeX Info: Redefining \. on input line 6.
@@ -536,7 +543,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [1
 
-] (./Documento_maestro.lot
+] (Documento_maestro.lot
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
 LaTeX Info: Redefining \. on input line 6.
@@ -561,7 +568,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 \openout2 = `Resumen.aux'.
 
- (./Resumen.tex)
+ (Resumen.tex)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -576,7 +583,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 \openout2 = `Introduccion.aux'.
 
- (./Introduccion.tex)
+ (Introduccion.tex)
 LaTeX Info: Redefining \. on input line 85.
 LaTeX Info: Redefining \% on input line 85.
 
@@ -595,7 +602,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 \openout2 = `Antecedentes.aux'.
 
- (./Antecedentes.tex)
+ (Antecedentes.tex
+
+! LaTeX Error: Unicode character ̃ (U+0303)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...a población en general~\citep{Carreno2016}
+                                                  .\par
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+)
 LaTeX Info: Redefining \. on input line 86.
 LaTeX Info: Redefining \% on input line 86.
 
@@ -614,7 +635,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 \openout2 = `Planteamiento.aux'.
 
- (./Planteamiento.tex)
+ (Planteamiento.tex)
 LaTeX Info: Redefining \. on input line 87.
 LaTeX Info: Redefining \% on input line 87.
 
@@ -633,7 +654,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 \openout2 = `Justificacion.aux'.
 
- (./Justificacion.tex)
+ (Justificacion.tex)
 LaTeX Info: Redefining \. on input line 88.
 LaTeX Info: Redefining \% on input line 88.
 
@@ -652,10 +673,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 \openout2 = `Objetivos.aux'.
 
- (./Objetivos.tex
+ (Objetivos.tex
 LaTeX Font Info:    Trying to load font information for TS1+phv on input line 8
 .
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1phv.fd
+
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
 Package microtype Info: Loading generic protrusion settings for font family
@@ -681,7 +703,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 \openout2 = `Materiales.aux'.
 
- (./Materiales.tex)
+ (Materiales.tex)
 LaTeX Info: Redefining \. on input line 90.
 LaTeX Info: Redefining \% on input line 90.
 
@@ -700,7 +722,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 \openout2 = `Resultados.aux'.
 
- (./Resultados.tex)
+ (Resultados.tex)
 LaTeX Info: Redefining \. on input line 91.
 LaTeX Info: Redefining \% on input line 91.
 
@@ -719,7 +741,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 \openout2 = `Discusion.aux'.
 
- (./Discusion.tex)
+ (Discusion.tex)
 LaTeX Info: Redefining \. on input line 92.
 LaTeX Info: Redefining \% on input line 92.
 
@@ -738,7 +760,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 \openout2 = `Conclusiones.aux'.
 
- (./Conclusiones.tex)
+ (Conclusiones.tex)
 LaTeX Info: Redefining \. on input line 93.
 LaTeX Info: Redefining \% on input line 93.
 
@@ -757,7 +779,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 \openout2 = `Perspectivas.aux'.
 
- (./Perspectivas.tex)
+ (Perspectivas.tex)
 LaTeX Info: Redefining \. on input line 94.
 LaTeX Info: Redefining \% on input line 94.
 
@@ -773,9 +795,145 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 
-] (./Documento_maestro.bbl
+] (Documento_maestro.bbl
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 5.
+
+
+! LaTeX Error: Unicode character ̃ (U+0303)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...Tratamiento de aguas residuales en pequeñ
+                                                  as poblaciones}.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Undefined control sequence.
+l.6 ... McGraw-Hill Interamericana, S.A., Santaf\�
+                                                  �́e de Bogot\´a, 1a
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Invalid UTF-8 byte "B4.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...McGraw-Hill Interamericana, S.A., Santaf\´
+                                                  ́e de Bogot\´a, 1a
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Unicode character ́ (U+0301)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...Graw-Hill Interamericana, S.A., Santaf\´́
+                                                  e de Bogot\´a, 1a
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Undefined control sequence.
+l.6 ...teramericana, S.A., Santaf\´́e de Bogot\�
+                                                  �a, 1a
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Invalid UTF-8 byte "B4.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...eramericana, S.A., Santaf\´́e de Bogot\´
+                                                  a, 1a
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Unicode character ̃ (U+0303)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 {Lazcano Carreñ
+                      o}, C.~A. (2016).
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Undefined control sequence.
+l.11 \newblock {\em Biotecnolog\�
+                                 �ia ambiental de aguas y aguas residuales}.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Invalid UTF-8 byte "B4.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \newblock {\em Biotecnolog\´
+                                  ia ambiental de aguas y aguas residuales}.
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+! Undefined control sequence.
+l.12 \newblock Ecoe Ediciones, Lima, Per\�
+                                          �u, 2da edition.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Invalid UTF-8 byte "B4.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \newblock Ecoe Ediciones, Lima, Per\´
+                                           u, 2da edition.
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
 )
 LaTeX Info: Redefining \. on input line 97.
 LaTeX Info: Redefining \% on input line 97.
@@ -794,7 +952,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 \openout2 = `Anexos.aux'.
 
- (./Anexos.tex
+ (Anexos.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -818,7 +976,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [2]
 \openout2 = `Glosario.aux'.
 
- (./Glosario.tex)
+ (Glosario.tex)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -831,33 +989,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 
-] (./Documento_maestro.aux (./Portada.aux
+] (Documento_maestro.aux (Portada.aux
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
 )
 LaTeX Info: Redefining \. on input line 10.
 LaTeX Info: Redefining \% on input line 10.
- (./Resumen.aux)
-(./Introduccion.aux) (./Antecedentes.aux) (./Planteamiento.aux)
-(./Justificacion.aux) (./Objetivos.aux) (./Materiales.aux) (./Resultados.aux)
-(./Discusion.aux) (./Conclusiones.aux) (./Perspectivas.aux) (./Anexos.aux)
-(./Glosario.aux)) ) 
+ (Resumen.aux) (Introduccion.aux)
+(Antecedentes.aux) (Planteamiento.aux) (Justificacion.aux) (Objetivos.aux)
+(Materiales.aux) (Resultados.aux) (Discusion.aux) (Conclusiones.aux)
+(Perspectivas.aux) (Anexos.aux) (Glosario.aux)) ) 
 Here is how much of TeX's memory you used:
- 10599 strings out of 478126
- 175110 string characters out of 5842787
- 1855793 words of memory out of 6000000
- 30305 multiletter control sequences out of 15000+600000
- 539887 words of font info for 116 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 55i,11n,66p,1014b,432s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}<
-/usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf
--dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on Documento_maestro.pdf (19 pages, 87100 bytes).
+ 10845 strings out of 476331
+ 182535 string characters out of 5787765
+ 1856660 words of memory out of 5000000
+ 30916 multiletter control sequences out of 15000+600000
+ 540513 words of font info for 124 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,11n,68p,1016b,440s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/luisr/AppData/Local/
+Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/luisr/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/luisr/AppData/
+Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on Documento_maestro.pdf (19 pages, 94037 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 55 compressed objects within 1 object stream
+ 83 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  34822 words of extra memory for PDF output out of 35830 (max. 10000000)
 
