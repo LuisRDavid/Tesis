@@ -1,3 +1,5 @@
+@comment{x-kbibtex-encoding=utf-8}
+
 @Book{Delgadillo1999,
   author    = {Sergio Alejandro {Martínez Delgadillo}},
   publisher = {Universidad Autónoma Metropolitana, Unidad Azcapotzalco, División de Ciencias Básicas e Ingeniería, Departamento de Energía},
@@ -9,7 +11,7 @@
 }
 
 @Book{Delgadillo2005,
-  author    = {S. A. M. Delgadillo and M. G. R. Rosales},
+  author    = {S. A. {Martínez Delgadillo} and M. G. {Rodríguez Rosales}},
   publisher = {Editorial Reverte},
   title     = {Tratamiento de aguas residuales con Matlab},
   year      = {2005},
@@ -26,11 +28,11 @@
 }
 
 @Book{Carreno2016,
-  author    = {César Augusto {Lazcano Carreño}},
+  author    = {César Augusto {Lazcano Carreño}},
   publisher = {Ecoe Ediciones},
-  title     = {Biotecnología ambiental de aguas y aguas residuales},
+  title     = {Biotecnología ambiental de aguas y aguas residuales},
   year      = {2016},
-  address   = {Lima, Perú},
+  address   = {Lima, Perú},
   edition   = {2da},
   isbn      = {9587713443},
 }
@@ -40,10 +42,8 @@
   publisher = {McGraw-Hill Interamericana, S.A.},
   title     = {Tratamiento de aguas residuales en pequeñas poblaciones},
   year      = {2000},
-  address   = {Santafé de Bogotá},
+  address   = {Santafé de Bogotá},
   edition   = {1a},
   isbn      = {9584100424; 9789584100429},
   language  = {spa},
 }
-
-@Comment{jabref-meta: databaseType:bibtex;}

@@ -1,14 +1,21 @@
 \begin{thebibliography}{}
 
-\bibitem[Crites and Tchobanoglous, 2000]{Crites2000}
-Crites, R. and Tchobanoglous, G. (2000).
-\newblock {\em Tratamiento de aguas residuales en pequeñas poblaciones}.
-\newblock McGraw-Hill Interamericana, S.A., Santaf\´́e de Bogot\´a, 1a
-  edition.
+\bibitem[Crites y Tchobanoglous, 2000]{crites2000}
+Crites, R. y Tchobanoglous, G. (2000).
+\newblock {\em Tratamiento de aguas residuales en pequeñas poblaciones}.
+\newblock McGraw-Hill Interamericana, S.A.
 
-\bibitem[{Lazcano Carreño}, 2016]{Carreno2016}
-{Lazcano Carreño}, C.~A. (2016).
-\newblock {\em Biotecnolog\´ia ambiental de aguas y aguas residuales}.
-\newblock Ecoe Ediciones, Lima, Per\´u, 2da edition.
+\bibitem[{Lazcano Carreño}, 2016]{lazcano2016}
+{Lazcano Carreño}, C.~A. (2016).
+\newblock {\em Biotecnología ambiental de aguas y aguas residuales}.
+\newblock Ecoe Ediciones.
+
+\bibitem[{von Sperling}, 2007]{marcos2007}
+{von Sperling}, M. (2007).
+\newblock {\em Wastewater characteristics treatment and disposal}, volumen~1 de
+  {\em Biological Wastewater Treatment}.
+\newblock IWA Publishing.
+\newblock
+  \url{https://www.gob.mx/cms/uploads/attachment/file/135611/Wastwater.pdf}.
 
 \end{thebibliography}
