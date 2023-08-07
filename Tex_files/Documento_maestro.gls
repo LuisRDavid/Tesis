@@ -1,0 +1,22 @@
+\glossarysection[\glossarytoctitle]{\glossarytitle}\glossarypreamble
+\begin{theglossary}\glossaryheader
+\glsgroupheading{D}\relax \glsresetentrylist %
+\glossentry{gls-DBO}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{B}}}%
+\glossentry{gls-DQO}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{3}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{B}}}\glsgroupskip
+\glsgroupheading{M}\relax \glsresetentrylist %
+\glossentry{masacons}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{D}}}\glsgroupskip
+\glsgroupheading{P}\relax \glsresetentrylist %
+\glossentry{gls-PTAR}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{B}}}%
+\glossentry{gls-pH}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{B}}}\glsgroupskip
+\glsgroupheading{S}\relax \glsresetentrylist %
+\glossentry{gls-SST}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{B}}}%
+\glossentry{gls-SSV}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{B}}}%
+\end{theglossary}\glossarypostamble

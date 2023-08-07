@@ -24,6 +24,7 @@
 \usepackage{microtype}
 \usepackage[bookmarksnumbered,bookmarksopen=false]{hyperref}
 \usepackage{bookmark}
+\usepackage[acronyms]{glossaries}
 \onehalfspacing
 
 \fancypagestyle{Anexos}{%
@@ -57,10 +58,20 @@
 \renewcommand{\headrulewidth}{0.4pt}
 \renewcommand{\footrulewidth}{0.4pt}
 
+\usepackage{xparse}
+\DeclareDocumentCommand{\newdualentry}{ O{} O{} m m m m } {
+	\newglossaryentry{gls-#3}{name={#5},text={#5\glsadd{#3}},
+		description={#6},#1
+	}
+	\makeglossaries
+	\newacronym[see={[Glosario:]{gls-#3}},#2]{#3}{#4}{#5\glsadd{gls-#3}}
+}
 
 \titleformat*{\section}{\fontsize{14pt}{0pt}\selectfont}
 \titleformat*{\subsection}{\fontsize{12pt}{0pt}\selectfont\bfseries}
 \titleformat*{\subsubsection}{\fontsize{12pt}{0pt}\selectfont\bfseries}
+
+\input{Glosario}
 
 \begin{document}
 	\begin{titlepage}
@@ -95,14 +106,23 @@
 	\include{Conclusiones}
 	\include{Perspectivas}
 	\bibliographystyle{apalike}
+	\phantomsection
+	\addcontentsline{toc}{section}{Referencias}
 	\bibliography{../Bibliografia/References.bib}
 	\clearpage
+	\cleardoublepage
+	\phantomsection
 	\addcontentsline{toc}{section}{Anexos}
 	\addtocounter{page}{1}
 	\pagenumbering{Alph}
 	\pagestyle{Anexos}
 	\include{Anexos}
+	\phantomsection
+	\addcontentsline{toc}{section}{Siglas}
+	\printglossary[type=\acronymtype]
+	\clearpage
+	\phantomsection
 	\addcontentsline{toc}{section}{Glosario}
-	\pagestyle{Glosario}
-	\include{Glosario}
+	\setglossarystyle{altlistgroup}
+	\printglossary
 \end{document}

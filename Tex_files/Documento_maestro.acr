@@ -1,0 +1,22 @@
+\glossarysection[\glossarytoctitle]{\glossarytitle}\glossarypreamble
+\begin{theglossary}\glossaryheader
+\glsgroupheading{D}\relax \glsresetentrylist %
+\glossentry{DBO}{\glossaryentrynumbers{\relax 
+		\glsseeformat[Glosario:]{gls-DBO}{Z}}}%
+\glossentry{DQO}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{3}\delimN 
+		\glsseeformat[Glosario:]{gls-DQO}{Z}}}\glsgroupskip
+\glsgroupheading{P}\relax \glsresetentrylist %
+\glossentry{pH}{\glossaryentrynumbers{\relax 
+		\glsseeformat[Glosario:]{gls-pH}{Z}}}%
+\glossentry{PTAR}{\glossaryentrynumbers{\relax 
+		\glsseeformat[Glosario:]{gls-PTAR}{Z}}}\glsgroupskip
+\glsgroupheading{S}\relax \glsresetentrylist %
+\glossentry{SST}{\glossaryentrynumbers{\relax 
+		\glsseeformat[Glosario:]{gls-SST}{Z}}}%
+\glossentry{SSV}{\glossaryentrynumbers{\relax 
+		\glsseeformat[Glosario:]{gls-SSV}{Z}}}\glsgroupskip
+\glsgroupheading{V}\relax \glsresetentrylist %
+\glossentry{VUO}{\glossaryentrynumbers{\relax 
+		\glsseeformat[Glosario:]{gls-VUO}{Z}}}%
+\end{theglossary}\glossarypostamble
