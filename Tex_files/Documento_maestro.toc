@@ -10,23 +10,23 @@
 \contentsline {section}{\numberline {1}Introducción}{1}{section.1}%
 \contentsline {section}{\numberline {2}Antecedentes}{2}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Aguas residuales}{2}{subsection.2.1}%
-\contentsline {subsubsection}{\numberline {2.1.1}Características Físicas}{3}{subsubsection.2.1.1}%
-\contentsline {subsection}{\numberline {2.2}Muestreo}{3}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Lodos Activados}{3}{subsection.2.3}%
-\contentsline {subsubsection}{\numberline {2.3.1}Organismos presentes en los lodos activados}{3}{subsubsection.2.3.1}%
-\contentsline {subsubsection}{\numberline {2.3.2}Flóculos}{3}{subsubsection.2.3.2}%
-\contentsline {subsubsection}{\numberline {2.3.3}Bulking filamentoso}{3}{subsubsection.2.3.3}%
-\contentsline {section}{\numberline {3}Planteamiento del problema}{4}{section.3}%
-\contentsline {section}{\numberline {4}Justficación}{5}{section.4}%
-\contentsline {section}{\numberline {5}Objetivos}{6}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Objetivo general}{6}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Objetivos particulares}{6}{subsection.5.2}%
-\contentsline {section}{\numberline {6}Materiales}{7}{section.6}%
-\contentsline {section}{\numberline {7}Resultados}{8}{section.7}%
-\contentsline {section}{\numberline {8}Discusión}{9}{section.8}%
-\contentsline {section}{\numberline {9}Conclusiones}{10}{section.9}%
-\contentsline {section}{\numberline {10}Perspectivas}{11}{section.10}%
-\contentsline {section}{Referencias}{12}{section*.2}%
+\contentsline {subsubsection}{\numberline {2.1.1}Características Físicas}{4}{subsubsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.2}Muestreo}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Lodos Activados}{4}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Organismos presentes en los lodos activados}{4}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Flóculos}{4}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Bulking filamentoso}{4}{subsubsection.2.3.3}%
+\contentsline {section}{\numberline {3}Planteamiento del problema}{5}{section.3}%
+\contentsline {section}{\numberline {4}Justficación}{6}{section.4}%
+\contentsline {section}{\numberline {5}Objetivos}{7}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Objetivo general}{7}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Objetivos particulares}{7}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Materiales}{8}{section.6}%
+\contentsline {section}{\numberline {7}Resultados}{9}{section.7}%
+\contentsline {section}{\numberline {8}Discusión}{10}{section.8}%
+\contentsline {section}{\numberline {9}Conclusiones}{11}{section.9}%
+\contentsline {section}{\numberline {10}Perspectivas}{12}{section.10}%
+\contentsline {section}{Referencias}{13}{section*.2}%
 \contentsline {section}{Anexos}{A}{section*.3}%
 \contentsline {section}{Siglas}{B}{section*.4}%
 \contentsline {section}{Glosario}{C}{section*.6}%

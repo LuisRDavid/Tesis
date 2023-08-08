@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.7.27)  7 AUG 2023 12:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.7.27)  8 AUG 2023 11:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1453,7 +1453,19 @@ l.12 ...subsection*{Aguas residuales industriales}
 
 
 
-])
+]
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3])
 LaTeX Info: Redefining \. on input line 99.
 LaTeX Info: Redefining \% on input line 99.
 
@@ -1465,7 +1477,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3]
+[4]
 \openout2 = `Planteamiento.aux'.
 
  (Planteamiento.tex)
@@ -1480,7 +1492,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4
+[5
 
 
 
@@ -1499,7 +1511,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-3.57593pt}.
 
-[5
+[6
 
 
 
@@ -1529,7 +1541,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[6
+[7
 
 
 
@@ -1548,7 +1560,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[7
+[8
 
 
 
@@ -1567,7 +1579,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[8
+[9
 
 
 
@@ -1586,7 +1598,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-3.57593pt}.
 
-[9
+[10
 
 
 
@@ -1605,7 +1617,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[10
+[11
 
 
 
@@ -1624,7 +1636,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[11
+[12
 
 
 
@@ -1643,7 +1655,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[12
+[13
 
 
 ]
@@ -1710,8 +1722,8 @@ LaTeX Info: Redefining \% on input line 32.
 (Materiales.aux) (Resultados.aux) (Discusion.aux) (Conclusiones.aux)
 (Perspectivas.aux) (Anexos.aux)) ) 
 Here is how much of TeX's memory you used:
- 24562 strings out of 476331
- 430489 string characters out of 5787765
+ 24563 strings out of 476331
+ 430496 string characters out of 5787765
  1858660 words of memory out of 5000000
  44285 multiletter control sequences out of 15000+600000
  541791 words of font info for 145 fonts, out of 8000000 for 9000
@@ -1731,9 +1743,9 @@ onts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/luisr/AppData/Local/Programs
 Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/luisr/AppData/Loc
 al/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/luisr/AppData/
 Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on Documento_maestro.pdf (22 pages, 190737 bytes).
+Output written on Documento_maestro.pdf (23 pages, 193137 bytes).
 PDF statistics:
- 344 PDF objects out of 1000 (max. 8388607)
- 68 named destinations out of 1000 (max. 500000)
+ 352 PDF objects out of 1000 (max. 8388607)
+ 69 named destinations out of 1000 (max. 500000)
  35030 words of extra memory for PDF output out of 35830 (max. 10000000)
 
