@@ -4,8 +4,10 @@
 \glossentry{gls-DBO}{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{B}}}%
 \glossentry{gls-DQO}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{3}\delimN 
 		\setentrycounter[]{page}\glsnumberformat{B}}}\glsgroupskip
+\glsgroupheading{E}\relax \glsresetentrylist %
+\glossentry{efluente}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{3}}}\glsgroupskip
 \glsgroupheading{M}\relax \glsresetentrylist %
 \glossentry{masacons}{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{D}}}\glsgroupskip
@@ -18,5 +20,8 @@
 \glossentry{gls-SST}{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{B}}}%
 \glossentry{gls-SSV}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{B}}}\glsgroupskip
+\glsgroupheading{V}\relax \glsresetentrylist %
+\glossentry{gls-VUO}{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{B}}}%
 \end{theglossary}\glossarypostamble

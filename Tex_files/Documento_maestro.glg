@@ -1,10 +1,7 @@
 This is makeindex, version 2.16 [MiKTeX 23.4].
 Scanning style file ./Documento_maestro.ist...........................done (27 attributes redefined, 0 ignored).
-Scanning input file Documento_maestro.glo....
-!! Input index error (file = Documento_maestro.glo, line = 8):
-   -- Illegal null field.
-done (8 entries accepted, 1 rejected).
-Sorting entries....done (25 comparisons).
-Generating output file Documento_maestro.gls....done (22 lines written, 0 warnings).
+Scanning input file Documento_maestro.glo....done (9 entries accepted, 0 rejected).
+Sorting entries....done (29 comparisons).
+Generating output file Documento_maestro.gls....done (27 lines written, 0 warnings).
 Output written in Documento_maestro.gls.
 Transcript written in Documento_maestro.glg.

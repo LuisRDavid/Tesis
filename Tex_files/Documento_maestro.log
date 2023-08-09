@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.7.27)  8 AUG 2023 11:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.7.27)  8 AUG 2023 21:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1325,7 +1325,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.31 ...tentsline {section}{Siglas}{B}{section*.4}
+l.31 ...tentsline {section}{Anexos}{A}{section*.3}
                                                   % [1
 
 
@@ -1454,8 +1454,8 @@ l.12 ...subsection*{Aguas residuales industriales}
 
 
 ]
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1687,7 +1687,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ] (Documento_maestro.gls
-Overfull \hbox (3.57477pt too wide) in paragraph at lines 5--8
+Overfull \hbox (3.57477pt too wide) in paragraph at lines 5--7
 \T1/phv/m/n/12 (-20) Es una es-ti-ma-ción de la can-ti-dad de oxí-geno que se r
 e-quie-re una po-bla-ción mi-cro-bia-na
  []
@@ -1722,30 +1722,27 @@ LaTeX Info: Redefining \% on input line 32.
 (Materiales.aux) (Resultados.aux) (Discusion.aux) (Conclusiones.aux)
 (Perspectivas.aux) (Anexos.aux)) ) 
 Here is how much of TeX's memory you used:
- 24563 strings out of 476331
- 430496 string characters out of 5787765
+ 24596 strings out of 476331
+ 431106 string characters out of 5787765
  1858660 words of memory out of 5000000
- 44285 multiletter control sequences out of 15000+600000
+ 44316 multiletter control sequences out of 15000+600000
  541791 words of font info for 145 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,11n,90p,2263b,791s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{glo:gls-VUO} has been referenced but does not exist
-, replaced by a fixed one
-
-<C:/Users/luisr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-mi12.pfb><C:/Users/luisr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmmi8.pfb><C:/Users/luisr/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmr12.pfb><C:/Users/luisr/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmr8.pfb><C:/Users/luisr/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/luisr/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/luisr/AppData/Local/
-Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/luisr/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/luisr/AppData/
-Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on Documento_maestro.pdf (23 pages, 193137 bytes).
+<C:/Users/luisr/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/luisr/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/luisr/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/luisr/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/lui
+sr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
+Users/luisr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.
+pfb><C:/Users/luisr/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb
+8a.pfb><C:/Users/luisr/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/u
+hvr8a.pfb><C:/Users/luisr/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helveti
+c/uhvro8a.pfb>
+Output written on Documento_maestro.pdf (23 pages, 195839 bytes).
 PDF statistics:
- 352 PDF objects out of 1000 (max. 8388607)
- 69 named destinations out of 1000 (max. 500000)
- 35030 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 362 PDF objects out of 1000 (max. 8388607)
+ 71 named destinations out of 1000 (max. 500000)
+ 35038 words of extra memory for PDF output out of 35830 (max. 10000000)
 
