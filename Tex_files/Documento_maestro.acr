@@ -5,6 +5,9 @@
 		\glsseeformat[Glosario:]{gls-DBO}{Z}}}%
 \glossentry{DQO}{\glossaryentrynumbers{\relax 
 		\glsseeformat[Glosario:]{gls-DQO}{Z}}}\glsgroupskip
+\glsgroupheading{M}\relax \glsresetentrylist %
+\glossentry{mo}{\glossaryentrynumbers{\relax 
+		\glsseeformat[Glosario:]{gls-mo}{Z}}}\glsgroupskip
 \glsgroupheading{P}\relax \glsresetentrylist %
 \glossentry{pH}{\glossaryentrynumbers{\relax 
 		\glsseeformat[Glosario:]{gls-pH}{Z}}}%
