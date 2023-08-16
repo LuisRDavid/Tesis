@@ -11,6 +11,7 @@
 \usepackage{amssymb}
 \usepackage[none]{hyphenat}
 \usepackage{titlesec}
+\usepackage{pdfpages}
 \usepackage{enumerate}
 \usepackage{graphicx}
 \usepackage{fancyhdr}
@@ -30,15 +31,23 @@
 \fancypagestyle{Anexos}{%
 	\fancyhf{}% clear all header and footer fields
 	\fancyhead[R]{{ANEXOS}}
-	\fancyfoot[LR]{ANEXOS\hfill\thepage}
+	\fancyfoot[R]{\thepage}
 	\renewcommand{\headrulewidth}{0.4pt}
-	\renewcommand{\footrulewidth}{0.4pt}
+	\renewcommand{\footrulewidth}{0pt}
 }
 
 \fancypagestyle{Glosario}{%
 	\fancyhf{}% clear all header and footer fields
 	\fancyhead[R]{{GLOSARIO}}
 	\fancyfoot[LR]{GLOSARIO\hfill\thepage}
+	\renewcommand{\headrulewidth}{0.4pt}
+	\renewcommand{\footrulewidth}{0.4pt}
+}
+
+\fancypagestyle{Sigla}{%
+	\fancyhf{}% clear all header and footer fields
+	\fancyhead[R]{{SIGLAS}}
+	\fancyfoot[LR]{SIGLAS\hfill\thepage}
 	\renewcommand{\headrulewidth}{0.4pt}
 	\renewcommand{\footrulewidth}{0.4pt}
 }
@@ -114,14 +123,17 @@
 	\phantomsection
 	\addcontentsline{toc}{section}{Anexos}
 	\addtocounter{page}{1}
-	\pagenumbering{Alph}
+	\pagenumbering{Roman}
 	\pagestyle{Anexos}
 	\include{Anexos}
+	\clearpage
 	\phantomsection
+	\pagestyle{Sigla}
 	\addcontentsline{toc}{section}{Siglas}
 	\printglossary[type=\acronymtype]
 	\clearpage
 	\phantomsection
+	\pagestyle{Glosario}
 	\addcontentsline{toc}{section}{Glosario}
 	\setglossarystyle{altlistgroup}
 	\printglossary
