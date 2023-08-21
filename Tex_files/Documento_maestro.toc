@@ -32,5 +32,5 @@
 \contentsline {section}{\numberline {10}Perspectivas}{13}{section.10}%
 \contentsline {section}{Referencias}{14}{section*.2}%
 \contentsline {section}{Anexos}{I}{section*.3}%
-\contentsline {section}{Siglas}{XXXII}{section*.5}%
-\contentsline {section}{Glosario}{XXXIII}{section*.7}%
+\contentsline {section}{Siglas}{LIII}{section*.7}%
+\contentsline {section}{Glosario}{LIV}{section*.9}%
