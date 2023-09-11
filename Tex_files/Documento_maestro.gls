@@ -7,7 +7,9 @@
 		\setentrycounter[]{page}\glsnumberformat{LIII}}}\glsgroupskip
 \glsgroupheading{E}\relax \glsresetentrylist %
 \glossentry{efluente}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{3}}}\glsgroupskip
+		\setentrycounter[]{page}\glsnumberformat{3}}}%
+\glossentry{gls-ECA}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{2}}}\glsgroupskip
 \glsgroupheading{M}\relax \glsresetentrylist %
 \glossentry{masacons}{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{LV}}}%

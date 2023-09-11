@@ -17,6 +17,14 @@ Crites, R. y Tchobanoglous, G. (2000).
 \newblock Universidad Autónoma Metropolitana, Unidad Azcapotzalco, División
   de Ciencias Básicas e Ingeniería, Departamento de Energía, 1a edición.
 
+\bibitem[{Secretaría de Economía}, 2015]{Economia2015}
+{Secretaría de Economía} (2015).
+\newblock {\em Norma Mexicana NMX-AA-034-SCFI-2015 - Medición de sólidos y
+  sales disueltas en aguas naturales, residuales y tratadas.}
+\newblock Gobierno de México.
+\newblock Disponible en:
+  \url{https://www.gob.mx/cms/uploads/attachment/file/166146/nmx-aa-034-scfi-2015.pdf}.
+
 \bibitem[Tchobanoglous et~al., 2003]{metcalf2003}
 Tchobanoglous, G., Burton, F.~L., y Stensel, H.~D. (2003).
 \newblock {\em Wastewater Engineering Treatment \& Reuse}.

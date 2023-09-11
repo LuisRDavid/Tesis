@@ -12,11 +12,11 @@
 \contentsline {subsection}{\numberline {2.1}Aguas residuales}{2}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Características de las aguas residuales}{4}{subsection.2.2}%
 \contentsline {subsubsection}{\numberline {2.2.1}Características Físicas}{4}{subsubsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.2}Características Químicas}{4}{subsubsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.3}Muestreo}{4}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Tratamiento de aguas residuales}{4}{subsection.2.4}%
-\contentsline {subsubsection}{\numberline {2.4.1}Tratamientos biológicos}{4}{subsubsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.5}Lodos Activados}{4}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.2.2}Características Químicas}{5}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}Muestreo}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Tratamiento de aguas residuales}{5}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Tratamientos biológicos}{5}{subsubsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.5}Lodos Activados}{5}{subsection.2.5}%
 \contentsline {subsubsection}{\numberline {2.5.1}Organismos presentes en los lodos activados}{5}{subsubsection.2.5.1}%
 \contentsline {subsubsection}{\numberline {2.5.2}Flóculos}{5}{subsubsection.2.5.2}%
 \contentsline {subsubsection}{\numberline {2.5.3}Bulking filamentoso}{5}{subsubsection.2.5.3}%

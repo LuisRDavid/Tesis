@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.7.27)  21 AUG 2023 11:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.7.27)  23 AUG 2023 22:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -767,6 +767,9 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@olf=\skip70
 \f@nch@O@orf=\skip71
 )
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
 (C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
@@ -1185,7 +1188,7 @@ ine 4.
 Package glossaries Info: Writing glossary file Documento_maestro.acn on input l
 ine 4.
 )
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 85
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 86
 .
 
 (C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
@@ -1203,24 +1206,24 @@ LaTeX Info: Redefining \% on input line 32.
 (Perspectivas.aux) (Anexos.aux))
 \openout1 = `Documento_maestro.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
@@ -1299,19 +1302,19 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 85.
-Package microtype Info: Applying patch `item' on input line 85.
-Package microtype Info: Applying patch `toc' on input line 85.
-Package microtype Info: Applying patch `eqnum' on input line 85.
-Package microtype Info: Applying patch `footnote' on input line 85.
-Package microtype Info: Applying patch `verbatim' on input line 85.
+LaTeX Info: Redefining \microtypecontext on input line 86.
+Package microtype Info: Applying patch `item' on input line 86.
+Package microtype Info: Applying patch `toc' on input line 86.
+Package microtype Info: Applying patch `eqnum' on input line 86.
+Package microtype Info: Applying patch `footnote' on input line 86.
+Package microtype Info: Applying patch `verbatim' on input line 86.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 85.
+LaTeX Info: Redefining \showhyphens on input line 86.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1319,7 +1322,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-Package hyperref Info: Link coloring OFF on input line 85.
+Package hyperref Info: Link coloring OFF on input line 86.
 \openout2 = `Portada.aux'.
 
 (Portada.tex
@@ -1338,8 +1341,8 @@ LaTeX Info: Redefining \% on input line 23.
 {C:/Users/luisr/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/luis
 r/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <../Images/logo_ud
 eg.png>])
-LaTeX Info: Redefining \. on input line 90.
-LaTeX Info: Redefining \% on input line 90.
+LaTeX Info: Redefining \. on input line 91.
+LaTeX Info: Redefining \% on input line 91.
  (Documento_maestro.toc
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
@@ -1390,8 +1393,8 @@ LaTeX Info: Redefining \% on input line 6.
 \tf@lof=\write7
 \openout7 = `Documento_maestro.lof'.
 
-LaTeX Info: Redefining \. on input line 99.
-LaTeX Info: Redefining \% on input line 99.
+LaTeX Info: Redefining \. on input line 100.
+LaTeX Info: Redefining \% on input line 100.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1412,8 +1415,8 @@ LaTeX Info: Redefining \% on input line 6.
 \tf@lot=\write8
 \openout8 = `Documento_maestro.lot'.
 
-LaTeX Info: Redefining \. on input line 102.
-LaTeX Info: Redefining \% on input line 102.
+LaTeX Info: Redefining \. on input line 103.
+LaTeX Info: Redefining \% on input line 103.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1444,8 +1447,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout2 = `Introduccion.aux'.
 
  (Introduccion.tex)
-LaTeX Info: Redefining \. on input line 107.
-LaTeX Info: Redefining \% on input line 107.
+LaTeX Info: Redefining \. on input line 108.
+LaTeX Info: Redefining \% on input line 108.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1460,7 +1463,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.107 	\include{Introduccion}
+l.108 	\include{Introduccion}
                               [1
 
 
@@ -1501,9 +1504,19 @@ l.12 ...subsection*{Aguas residuales industriales}
 
 
 ]
+Overfull \hbox (2.57545pt too wide) in paragraph at lines 15--16
+\T1/phv/m/n/12 (-20) pe-cua-ria. Se en-cuen-tran cons-ti-tui-das por una gran c
+an-ti-dad de ma-te-ria or-gá-ni-ca pro-ve-nien-te
+ []
+
+
+Overfull \hbox (1.36348pt too wide) in paragraph at lines 15--16
+\T1/phv/m/n/12 (-20) del es-tiér-col y pu-ri-nes de los ani-ma-les, re-si-duos 
+de-ri-va-dos del uso de pes-ti-ci-das, fer-ti-li-zan-tes
+ []
+
 LaTeX Info: Redefining \. on input line 20.
 LaTeX Info: Redefining \% on input line 20.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1513,8 +1526,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [3]
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 3
-0.
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 2
+7.
  (C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
@@ -1522,10 +1535,14 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-)
-LaTeX Info: Redefining \. on input line 108.
-LaTeX Info: Redefining \% on input line 108.
 
+Overfull \hbox (1.707pt too wide) in paragraph at lines 31--32
+[]\T1/phv/m/n/12 (-20) Cantidad de ma-te-ria or-gá-ni-ca e inor-gá-ni-ca que se
+ vo-la-ti-li-za por efec-to de la cal-ci-na-ción
+ []
+
+LaTeX Info: Redefining \. on input line 36.
+LaTeX Info: Redefining \% on input line 36.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1534,9 +1551,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4]
-LaTeX Info: Redefining \. on input line 108.
-LaTeX Info: Redefining \% on input line 108.
+[4])
+LaTeX Info: Redefining \. on input line 109.
+LaTeX Info: Redefining \% on input line 109.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1550,8 +1567,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout2 = `Planteamiento.aux'.
 
  (Planteamiento.tex)
-LaTeX Info: Redefining \. on input line 109.
-LaTeX Info: Redefining \% on input line 109.
+LaTeX Info: Redefining \. on input line 110.
+LaTeX Info: Redefining \% on input line 110.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1569,8 +1586,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout2 = `Justificacion.aux'.
 
  (Justificacion.tex)
-LaTeX Info: Redefining \. on input line 110.
-LaTeX Info: Redefining \% on input line 110.
+LaTeX Info: Redefining \. on input line 111.
+LaTeX Info: Redefining \% on input line 111.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1588,8 +1605,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout2 = `Objetivos.aux'.
 
  (Objetivos.tex)
-LaTeX Info: Redefining \. on input line 111.
-LaTeX Info: Redefining \% on input line 111.
+LaTeX Info: Redefining \. on input line 112.
+LaTeX Info: Redefining \% on input line 112.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1607,8 +1624,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout2 = `Materiales.aux'.
 
  (Materiales.tex)
-LaTeX Info: Redefining \. on input line 112.
-LaTeX Info: Redefining \% on input line 112.
+LaTeX Info: Redefining \. on input line 113.
+LaTeX Info: Redefining \% on input line 113.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1626,8 +1643,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout2 = `Resultados.aux'.
 
  (Resultados.tex)
-LaTeX Info: Redefining \. on input line 113.
-LaTeX Info: Redefining \% on input line 113.
+LaTeX Info: Redefining \. on input line 114.
+LaTeX Info: Redefining \% on input line 114.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1645,8 +1662,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout2 = `Discusion.aux'.
 
  (Discusion.tex)
-LaTeX Info: Redefining \. on input line 114.
-LaTeX Info: Redefining \% on input line 114.
+LaTeX Info: Redefining \. on input line 115.
+LaTeX Info: Redefining \% on input line 115.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1664,8 +1681,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout2 = `Conclusiones.aux'.
 
  (Conclusiones.tex)
-LaTeX Info: Redefining \. on input line 115.
-LaTeX Info: Redefining \% on input line 115.
+LaTeX Info: Redefining \. on input line 116.
+LaTeX Info: Redefining \% on input line 116.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1683,8 +1700,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout2 = `Perspectivas.aux'.
 
  (Perspectivas.tex)
-LaTeX Info: Redefining \. on input line 116.
-LaTeX Info: Redefining \% on input line 116.
+LaTeX Info: Redefining \. on input line 117.
+LaTeX Info: Redefining \% on input line 117.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1701,9 +1718,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ] (Documento_maestro.bbl
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 5.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
+6.
+
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-LaTeX Info: Redefining \. on input line 121.
-LaTeX Info: Redefining \% on input line 121.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+)
+LaTeX Info: Redefining \. on input line 122.
+LaTeX Info: Redefining \% on input line 122.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1720,7 +1747,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout2 = `Anexos.aux'.
 
  (Anexos.tex
-<../Images/nmx-aa-008-scfi-2016_page-0001.jpg, id=178, 614.7768pt x 607.068pt>
+<../Images/nmx-aa-008-scfi-2016_page-0001.jpg, id=200, 614.7768pt x 607.068pt>
 File: ../Images/nmx-aa-008-scfi-2016_page-0001.jpg Graphic file (type jpg)
 <use ../Images/nmx-aa-008-scfi-2016_page-0001.jpg>
 Package pdftex.def Info: ../Images/nmx-aa-008-scfi-2016_page-0001.jpg  used on 
@@ -1740,7 +1767,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
  <../Images/nmx-aa-008-scfi-2016_page-0001.jpg>]
-<../Documents/nmx-aa-008-scfi-2016.pdf, id=186, 614.41545pt x 795.09044pt>
+<../Documents/nmx-aa-008-scfi-2016.pdf, id=208, 614.41545pt x 795.09044pt>
 File: ../Documents/nmx-aa-008-scfi-2016.pdf Graphic file (type pdf)
 <use ../Documents/nmx-aa-008-scfi-2016.pdf>
 Package pdftex.def Info: ../Documents/nmx-aa-008-scfi-2016.pdf  used on input l
@@ -1751,7 +1778,7 @@ File: ../Documents/nmx-aa-008-scfi-2016.pdf Graphic file (type pdf)
 Package pdftex.def Info: ../Documents/nmx-aa-008-scfi-2016.pdf  used on input l
 ine 9.
 (pdftex.def)             Requested size: 614.41396pt x 795.08849pt.
-<../Documents/nmx-aa-008-scfi-2016.pdf, id=189, page=6, 614.41545pt x 795.09044
+<../Documents/nmx-aa-008-scfi-2016.pdf, id=211, page=6, 614.41545pt x 795.09044
 pt>
 File: ../Documents/nmx-aa-008-scfi-2016.pdf Graphic file (type pdf)
 <use ../Documents/nmx-aa-008-scfi-2016.pdf, page 6>
@@ -1790,7 +1817,7 @@ input line 9.
 [2
 
  <../Documents/nmx-aa-008-scfi-2016.pdf>]
-<../Documents/nmx-aa-008-scfi-2016.pdf, id=229, page=7, 614.41545pt x 795.09044
+<../Documents/nmx-aa-008-scfi-2016.pdf, id=251, page=7, 614.41545pt x 795.09044
 pt>
 File: ../Documents/nmx-aa-008-scfi-2016.pdf Graphic file (type pdf)
 <use ../Documents/nmx-aa-008-scfi-2016.pdf, page 7>
@@ -1817,7 +1844,7 @@ Package pdftex.def Info: ../Documents/nmx-aa-008-scfi-2016.pdf , page7 used on
 input line 9.
 (pdftex.def)             Requested size: 614.38582pt x 795.05208pt.
 [3 <../Documents/nmx-aa-008-scfi-2016.pdf>]
-<../Documents/nmx-aa-008-scfi-2016.pdf, id=242, page=8, 614.41545pt x 795.09044
+<../Documents/nmx-aa-008-scfi-2016.pdf, id=264, page=8, 614.41545pt x 795.09044
 pt>
 File: ../Documents/nmx-aa-008-scfi-2016.pdf Graphic file (type pdf)
 <use ../Documents/nmx-aa-008-scfi-2016.pdf, page 8>
@@ -1844,7 +1871,7 @@ Package pdftex.def Info: ../Documents/nmx-aa-008-scfi-2016.pdf , page8 used on
 input line 9.
 (pdftex.def)             Requested size: 614.38582pt x 795.05208pt.
 [4 <../Documents/nmx-aa-008-scfi-2016.pdf>]
-<../Documents/nmx-aa-008-scfi-2016.pdf, id=260, page=9, 614.41545pt x 795.09044
+<../Documents/nmx-aa-008-scfi-2016.pdf, id=282, page=9, 614.41545pt x 795.09044
 pt>
 File: ../Documents/nmx-aa-008-scfi-2016.pdf Graphic file (type pdf)
 <use ../Documents/nmx-aa-008-scfi-2016.pdf, page 9>
@@ -1871,7 +1898,7 @@ Package pdftex.def Info: ../Documents/nmx-aa-008-scfi-2016.pdf , page9 used on
 input line 9.
 (pdftex.def)             Requested size: 614.38582pt x 795.05208pt.
 [5 <../Documents/nmx-aa-008-scfi-2016.pdf>]
-<../Documents/nmx-aa-008-scfi-2016.pdf, id=267, page=10, 614.41545pt x 795.0904
+<../Documents/nmx-aa-008-scfi-2016.pdf, id=289, page=10, 614.41545pt x 795.0904
 4pt>
 File: ../Documents/nmx-aa-008-scfi-2016.pdf Graphic file (type pdf)
 <use ../Documents/nmx-aa-008-scfi-2016.pdf, page 10>
@@ -1898,7 +1925,7 @@ Package pdftex.def Info: ../Documents/nmx-aa-008-scfi-2016.pdf , page10 used on
  input line 9.
 (pdftex.def)             Requested size: 614.38582pt x 795.05208pt.
 [6 <../Documents/nmx-aa-008-scfi-2016.pdf>]
-<../Documents/nmx-aa-008-scfi-2016.pdf, id=273, page=11, 614.41545pt x 795.0904
+<../Documents/nmx-aa-008-scfi-2016.pdf, id=295, page=11, 614.41545pt x 795.0904
 4pt>
 File: ../Documents/nmx-aa-008-scfi-2016.pdf Graphic file (type pdf)
 <use ../Documents/nmx-aa-008-scfi-2016.pdf, page 11>
@@ -1925,7 +1952,7 @@ Package pdftex.def Info: ../Documents/nmx-aa-008-scfi-2016.pdf , page11 used on
  input line 9.
 (pdftex.def)             Requested size: 614.38582pt x 795.05208pt.
 [7 <../Documents/nmx-aa-008-scfi-2016.pdf>]
-<../Documents/nmx-aa-008-scfi-2016.pdf, id=279, page=12, 614.41545pt x 795.0904
+<../Documents/nmx-aa-008-scfi-2016.pdf, id=301, page=12, 614.41545pt x 795.0904
 4pt>
 File: ../Documents/nmx-aa-008-scfi-2016.pdf Graphic file (type pdf)
 <use ../Documents/nmx-aa-008-scfi-2016.pdf, page 12>
@@ -1952,7 +1979,7 @@ Package pdftex.def Info: ../Documents/nmx-aa-008-scfi-2016.pdf , page12 used on
  input line 9.
 (pdftex.def)             Requested size: 614.38582pt x 795.05208pt.
 [8 <../Documents/nmx-aa-008-scfi-2016.pdf>]
-<../Documents/nmx-aa-008-scfi-2016.pdf, id=285, page=13, 614.41545pt x 795.0904
+<../Documents/nmx-aa-008-scfi-2016.pdf, id=307, page=13, 614.41545pt x 795.0904
 4pt>
 File: ../Documents/nmx-aa-008-scfi-2016.pdf Graphic file (type pdf)
 <use ../Documents/nmx-aa-008-scfi-2016.pdf, page 13>
@@ -1979,7 +2006,7 @@ Package pdftex.def Info: ../Documents/nmx-aa-008-scfi-2016.pdf , page13 used on
  input line 9.
 (pdftex.def)             Requested size: 614.38582pt x 795.05208pt.
 [9 <../Documents/nmx-aa-008-scfi-2016.pdf>]
-<../Documents/nmx-aa-008-scfi-2016.pdf, id=291, page=14, 614.41545pt x 795.0904
+<../Documents/nmx-aa-008-scfi-2016.pdf, id=313, page=14, 614.41545pt x 795.0904
 4pt>
 File: ../Documents/nmx-aa-008-scfi-2016.pdf Graphic file (type pdf)
 <use ../Documents/nmx-aa-008-scfi-2016.pdf, page 14>
@@ -2006,7 +2033,7 @@ Package pdftex.def Info: ../Documents/nmx-aa-008-scfi-2016.pdf , page14 used on
  input line 9.
 (pdftex.def)             Requested size: 614.38582pt x 795.05208pt.
 [10 <../Documents/nmx-aa-008-scfi-2016.pdf>]
-<../Documents/nmx-aa-008-scfi-2016.pdf, id=297, page=15, 614.41545pt x 795.0904
+<../Documents/nmx-aa-008-scfi-2016.pdf, id=319, page=15, 614.41545pt x 795.0904
 4pt>
 File: ../Documents/nmx-aa-008-scfi-2016.pdf Graphic file (type pdf)
 <use ../Documents/nmx-aa-008-scfi-2016.pdf, page 15>
@@ -2033,7 +2060,7 @@ Package pdftex.def Info: ../Documents/nmx-aa-008-scfi-2016.pdf , page15 used on
  input line 9.
 (pdftex.def)             Requested size: 614.38582pt x 795.05208pt.
 [11 <../Documents/nmx-aa-008-scfi-2016.pdf>]
-<../Documents/nmx-aa-008-scfi-2016.pdf, id=304, page=16, 614.41545pt x 795.0904
+<../Documents/nmx-aa-008-scfi-2016.pdf, id=326, page=16, 614.41545pt x 795.0904
 4pt>
 File: ../Documents/nmx-aa-008-scfi-2016.pdf Graphic file (type pdf)
 <use ../Documents/nmx-aa-008-scfi-2016.pdf, page 16>
@@ -2060,7 +2087,7 @@ Package pdftex.def Info: ../Documents/nmx-aa-008-scfi-2016.pdf , page16 used on
  input line 9.
 (pdftex.def)             Requested size: 614.38582pt x 795.05208pt.
 [12 <../Documents/nmx-aa-008-scfi-2016.pdf>]
-<../Documents/nmx-aa-008-scfi-2016.pdf, id=310, page=17, 614.41545pt x 795.0904
+<../Documents/nmx-aa-008-scfi-2016.pdf, id=332, page=17, 614.41545pt x 795.0904
 4pt>
 File: ../Documents/nmx-aa-008-scfi-2016.pdf Graphic file (type pdf)
 <use ../Documents/nmx-aa-008-scfi-2016.pdf, page 17>
@@ -2087,7 +2114,7 @@ Package pdftex.def Info: ../Documents/nmx-aa-008-scfi-2016.pdf , page17 used on
  input line 9.
 (pdftex.def)             Requested size: 614.38582pt x 795.05208pt.
 [13 <../Documents/nmx-aa-008-scfi-2016.pdf>]
-<../Documents/nmx-aa-008-scfi-2016.pdf, id=327, page=18, 614.41545pt x 795.0904
+<../Documents/nmx-aa-008-scfi-2016.pdf, id=349, page=18, 614.41545pt x 795.0904
 4pt>
 File: ../Documents/nmx-aa-008-scfi-2016.pdf Graphic file (type pdf)
 <use ../Documents/nmx-aa-008-scfi-2016.pdf, page 18>
@@ -2114,7 +2141,7 @@ Package pdftex.def Info: ../Documents/nmx-aa-008-scfi-2016.pdf , page18 used on
  input line 9.
 (pdftex.def)             Requested size: 614.38582pt x 795.05208pt.
 [14 <../Documents/nmx-aa-008-scfi-2016.pdf>]
-<../Documents/nmx-aa-008-scfi-2016.pdf, id=333, page=19, 614.41545pt x 795.0904
+<../Documents/nmx-aa-008-scfi-2016.pdf, id=355, page=19, 614.41545pt x 795.0904
 4pt>
 File: ../Documents/nmx-aa-008-scfi-2016.pdf Graphic file (type pdf)
 <use ../Documents/nmx-aa-008-scfi-2016.pdf, page 19>
@@ -2141,7 +2168,7 @@ Package pdftex.def Info: ../Documents/nmx-aa-008-scfi-2016.pdf , page19 used on
  input line 9.
 (pdftex.def)             Requested size: 614.38582pt x 795.05208pt.
 [15 <../Documents/nmx-aa-008-scfi-2016.pdf>]
-<../Documents/nmx-aa-008-scfi-2016.pdf, id=339, page=20, 614.41545pt x 795.0904
+<../Documents/nmx-aa-008-scfi-2016.pdf, id=361, page=20, 614.41545pt x 795.0904
 4pt>
 File: ../Documents/nmx-aa-008-scfi-2016.pdf Graphic file (type pdf)
 <use ../Documents/nmx-aa-008-scfi-2016.pdf, page 20>
@@ -2168,7 +2195,7 @@ Package pdftex.def Info: ../Documents/nmx-aa-008-scfi-2016.pdf , page20 used on
  input line 9.
 (pdftex.def)             Requested size: 614.38582pt x 795.05208pt.
 [16 <../Documents/nmx-aa-008-scfi-2016.pdf>]
-<../Documents/nmx-aa-008-scfi-2016.pdf, id=345, page=21, 614.41545pt x 795.0904
+<../Documents/nmx-aa-008-scfi-2016.pdf, id=367, page=21, 614.41545pt x 795.0904
 4pt>
 File: ../Documents/nmx-aa-008-scfi-2016.pdf Graphic file (type pdf)
 <use ../Documents/nmx-aa-008-scfi-2016.pdf, page 21>
@@ -2195,7 +2222,7 @@ Package pdftex.def Info: ../Documents/nmx-aa-008-scfi-2016.pdf , page21 used on
  input line 9.
 (pdftex.def)             Requested size: 614.38582pt x 795.05208pt.
 [17 <../Documents/nmx-aa-008-scfi-2016.pdf>]
-<../Images/NMX-AA-034-SCFI-2015_page-0001.jpg, id=352, 614.7768pt x 564.1878pt>
+<../Images/NMX-AA-034-SCFI-2015_page-0001.jpg, id=374, 614.7768pt x 564.1878pt>
 
 File: ../Images/NMX-AA-034-SCFI-2015_page-0001.jpg Graphic file (type jpg)
 <use ../Images/NMX-AA-034-SCFI-2015_page-0001.jpg>
@@ -2215,7 +2242,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 pdfTeX warning: pdflatex.exe (file ../Documents/NMx-AA-034-SCFI-2015.pdf): PDF 
 inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Documents/NMx-AA-034-SCFI-2015.pdf, id=360, 614.41545pt x 795.09044pt>
+<../Documents/NMx-AA-034-SCFI-2015.pdf, id=382, 614.41545pt x 795.09044pt>
 File: ../Documents/NMx-AA-034-SCFI-2015.pdf Graphic file (type pdf)
 <use ../Documents/NMx-AA-034-SCFI-2015.pdf>
 Package pdftex.def Info: ../Documents/NMx-AA-034-SCFI-2015.pdf  used on input l
@@ -2238,7 +2265,7 @@ inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex.exe (file ../Documents/NMx-AA-034-SCFI-2015.pdf): PDF 
 inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Documents/NMx-AA-034-SCFI-2015.pdf, id=363, page=5, 614.41545pt x 795.09044
+<../Documents/NMx-AA-034-SCFI-2015.pdf, id=385, page=5, 614.41545pt x 795.09044
 pt>
 File: ../Documents/NMx-AA-034-SCFI-2015.pdf Graphic file (type pdf)
 <use ../Documents/NMx-AA-034-SCFI-2015.pdf, page 5>
@@ -2279,7 +2306,7 @@ input line 17.
 
 pdfTeX warning: pdflatex.exe (file ../Documents/NMx-AA-034-SCFI-2015.pdf): PDF 
 inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Documents/NMx-AA-034-SCFI-2015.pdf, id=404, page=6, 614.41545pt x 795.09044
+<../Documents/NMx-AA-034-SCFI-2015.pdf, id=426, page=6, 614.41545pt x 795.09044
 pt>
 File: ../Documents/NMx-AA-034-SCFI-2015.pdf Graphic file (type pdf)
 <use ../Documents/NMx-AA-034-SCFI-2015.pdf, page 6>
@@ -2308,7 +2335,7 @@ input line 17.
 
 pdfTeX warning: pdflatex.exe (file ../Documents/NMx-AA-034-SCFI-2015.pdf): PDF 
 inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Documents/NMx-AA-034-SCFI-2015.pdf, id=418, page=7, 614.41545pt x 795.09044
+<../Documents/NMx-AA-034-SCFI-2015.pdf, id=440, page=7, 614.41545pt x 795.09044
 pt>
 File: ../Documents/NMx-AA-034-SCFI-2015.pdf Graphic file (type pdf)
 <use ../Documents/NMx-AA-034-SCFI-2015.pdf, page 7>
@@ -2337,7 +2364,7 @@ input line 17.
 
 pdfTeX warning: pdflatex.exe (file ../Documents/NMx-AA-034-SCFI-2015.pdf): PDF 
 inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Documents/NMx-AA-034-SCFI-2015.pdf, id=425, page=8, 614.41545pt x 795.09044
+<../Documents/NMx-AA-034-SCFI-2015.pdf, id=447, page=8, 614.41545pt x 795.09044
 pt>
 File: ../Documents/NMx-AA-034-SCFI-2015.pdf Graphic file (type pdf)
 <use ../Documents/NMx-AA-034-SCFI-2015.pdf, page 8>
@@ -2366,7 +2393,7 @@ input line 17.
 
 pdfTeX warning: pdflatex.exe (file ../Documents/NMx-AA-034-SCFI-2015.pdf): PDF 
 inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Documents/NMx-AA-034-SCFI-2015.pdf, id=442, page=9, 614.41545pt x 795.09044
+<../Documents/NMx-AA-034-SCFI-2015.pdf, id=464, page=9, 614.41545pt x 795.09044
 pt>
 File: ../Documents/NMx-AA-034-SCFI-2015.pdf Graphic file (type pdf)
 <use ../Documents/NMx-AA-034-SCFI-2015.pdf, page 9>
@@ -2395,7 +2422,7 @@ input line 17.
 
 pdfTeX warning: pdflatex.exe (file ../Documents/NMx-AA-034-SCFI-2015.pdf): PDF 
 inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Documents/NMx-AA-034-SCFI-2015.pdf, id=449, page=10, 614.41545pt x 795.0904
+<../Documents/NMx-AA-034-SCFI-2015.pdf, id=471, page=10, 614.41545pt x 795.0904
 4pt>
 File: ../Documents/NMx-AA-034-SCFI-2015.pdf Graphic file (type pdf)
 <use ../Documents/NMx-AA-034-SCFI-2015.pdf, page 10>
@@ -2424,7 +2451,7 @@ Package pdftex.def Info: ../Documents/NMx-AA-034-SCFI-2015.pdf , page10 used on
 
 pdfTeX warning: pdflatex.exe (file ../Documents/NMx-AA-034-SCFI-2015.pdf): PDF 
 inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Documents/NMx-AA-034-SCFI-2015.pdf, id=455, page=11, 614.41545pt x 795.0904
+<../Documents/NMx-AA-034-SCFI-2015.pdf, id=477, page=11, 614.41545pt x 795.0904
 4pt>
 File: ../Documents/NMx-AA-034-SCFI-2015.pdf Graphic file (type pdf)
 <use ../Documents/NMx-AA-034-SCFI-2015.pdf, page 11>
@@ -2453,7 +2480,7 @@ Package pdftex.def Info: ../Documents/NMx-AA-034-SCFI-2015.pdf , page11 used on
 
 pdfTeX warning: pdflatex.exe (file ../Documents/NMx-AA-034-SCFI-2015.pdf): PDF 
 inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Documents/NMx-AA-034-SCFI-2015.pdf, id=461, page=12, 614.41545pt x 795.0904
+<../Documents/NMx-AA-034-SCFI-2015.pdf, id=483, page=12, 614.41545pt x 795.0904
 4pt>
 File: ../Documents/NMx-AA-034-SCFI-2015.pdf Graphic file (type pdf)
 <use ../Documents/NMx-AA-034-SCFI-2015.pdf, page 12>
@@ -2482,7 +2509,7 @@ Package pdftex.def Info: ../Documents/NMx-AA-034-SCFI-2015.pdf , page12 used on
 
 pdfTeX warning: pdflatex.exe (file ../Documents/NMx-AA-034-SCFI-2015.pdf): PDF 
 inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Documents/NMx-AA-034-SCFI-2015.pdf, id=467, page=13, 614.41545pt x 795.0904
+<../Documents/NMx-AA-034-SCFI-2015.pdf, id=489, page=13, 614.41545pt x 795.0904
 4pt>
 File: ../Documents/NMx-AA-034-SCFI-2015.pdf Graphic file (type pdf)
 <use ../Documents/NMx-AA-034-SCFI-2015.pdf, page 13>
@@ -2511,7 +2538,7 @@ Package pdftex.def Info: ../Documents/NMx-AA-034-SCFI-2015.pdf , page13 used on
 
 pdfTeX warning: pdflatex.exe (file ../Documents/NMx-AA-034-SCFI-2015.pdf): PDF 
 inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Documents/NMx-AA-034-SCFI-2015.pdf, id=485, page=14, 614.41545pt x 795.0904
+<../Documents/NMx-AA-034-SCFI-2015.pdf, id=507, page=14, 614.41545pt x 795.0904
 4pt>
 File: ../Documents/NMx-AA-034-SCFI-2015.pdf Graphic file (type pdf)
 <use ../Documents/NMx-AA-034-SCFI-2015.pdf, page 14>
@@ -2540,7 +2567,7 @@ Package pdftex.def Info: ../Documents/NMx-AA-034-SCFI-2015.pdf , page14 used on
 
 pdfTeX warning: pdflatex.exe (file ../Documents/NMx-AA-034-SCFI-2015.pdf): PDF 
 inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Documents/NMx-AA-034-SCFI-2015.pdf, id=494, page=15, 614.41545pt x 795.0904
+<../Documents/NMx-AA-034-SCFI-2015.pdf, id=516, page=15, 614.41545pt x 795.0904
 4pt>
 File: ../Documents/NMx-AA-034-SCFI-2015.pdf Graphic file (type pdf)
 <use ../Documents/NMx-AA-034-SCFI-2015.pdf, page 15>
@@ -2569,7 +2596,7 @@ Package pdftex.def Info: ../Documents/NMx-AA-034-SCFI-2015.pdf , page15 used on
 
 pdfTeX warning: pdflatex.exe (file ../Documents/NMx-AA-034-SCFI-2015.pdf): PDF 
 inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Documents/NMx-AA-034-SCFI-2015.pdf, id=504, page=16, 614.41545pt x 795.0904
+<../Documents/NMx-AA-034-SCFI-2015.pdf, id=526, page=16, 614.41545pt x 795.0904
 4pt>
 File: ../Documents/NMx-AA-034-SCFI-2015.pdf Graphic file (type pdf)
 <use ../Documents/NMx-AA-034-SCFI-2015.pdf, page 16>
@@ -2598,7 +2625,7 @@ Package pdftex.def Info: ../Documents/NMx-AA-034-SCFI-2015.pdf , page16 used on
 
 pdfTeX warning: pdflatex.exe (file ../Documents/NMx-AA-034-SCFI-2015.pdf): PDF 
 inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Documents/NMx-AA-034-SCFI-2015.pdf, id=513, page=17, 614.41545pt x 795.0904
+<../Documents/NMx-AA-034-SCFI-2015.pdf, id=535, page=17, 614.41545pt x 795.0904
 4pt>
 File: ../Documents/NMx-AA-034-SCFI-2015.pdf Graphic file (type pdf)
 <use ../Documents/NMx-AA-034-SCFI-2015.pdf, page 17>
@@ -2627,7 +2654,7 @@ Package pdftex.def Info: ../Documents/NMx-AA-034-SCFI-2015.pdf , page17 used on
 
 pdfTeX warning: pdflatex.exe (file ../Documents/NMx-AA-034-SCFI-2015.pdf): PDF 
 inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Documents/NMx-AA-034-SCFI-2015.pdf, id=519, page=18, 614.41545pt x 795.0904
+<../Documents/NMx-AA-034-SCFI-2015.pdf, id=541, page=18, 614.41545pt x 795.0904
 4pt>
 File: ../Documents/NMx-AA-034-SCFI-2015.pdf Graphic file (type pdf)
 <use ../Documents/NMx-AA-034-SCFI-2015.pdf, page 18>
@@ -2653,7 +2680,7 @@ Package pdftex.def Info: ../Documents/NMx-AA-034-SCFI-2015.pdf , page18 used on
  input line 17.
 (pdftex.def)             Requested size: 614.38582pt x 795.05208pt.
 [32 <../Documents/NMx-AA-034-SCFI-2015.pdf>]
-<../Images/NMX-AA-028-SCFI-2001(DBO5)_page-0020.jpg, id=526, 614.295pt x 399.41
+<../Images/NMX-AA-028-SCFI-2001(DBO5)_page-0020.jpg, id=548, 614.295pt x 399.41
 22pt>
 File: ../Images/NMX-AA-028-SCFI-2001(DBO5)_page-0020.jpg Graphic file (type jpg
 )
@@ -2675,7 +2702,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [33 <../Images/NMX-AA-028-SCFI-2001(DBO5)_page-0020.jpg>]
-<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=534, 614.295pt x 794.97pt>
+<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=556, 614.295pt x 794.97pt>
 File: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf Graphic file (type pdf)
 <use ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf>
 Package pdftex.def Info: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf  used on i
@@ -2686,7 +2713,7 @@ File: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf Graphic file (type pdf)
 Package pdftex.def Info: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf  used on i
 nput line 25.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=537, page=1, 614.295pt x 794.9
+<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=559, page=1, 614.295pt x 794.9
 7pt>
 File: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf Graphic file (type pdf)
 <use ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, page 1>
@@ -2725,7 +2752,7 @@ ed on input line 25.
 [34
 
  <../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf>]
-<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=558, page=2, 614.295pt x 794.9
+<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=580, page=2, 614.295pt x 794.9
 7pt>
 File: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf Graphic file (type pdf)
 <use ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, page 2>
@@ -2752,7 +2779,7 @@ Package pdftex.def Info: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf , page2 us
 ed on input line 25.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [35 <../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf>]
-<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=567, page=3, 614.295pt x 794.9
+<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=589, page=3, 614.295pt x 794.9
 7pt>
 File: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf Graphic file (type pdf)
 <use ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, page 3>
@@ -2779,7 +2806,7 @@ Package pdftex.def Info: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf , page3 us
 ed on input line 25.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [36 <../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf>]
-<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=583, page=4, 614.295pt x 794.9
+<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=605, page=4, 614.295pt x 794.9
 7pt>
 File: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf Graphic file (type pdf)
 <use ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, page 4>
@@ -2806,7 +2833,7 @@ Package pdftex.def Info: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf , page4 us
 ed on input line 25.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [37 <../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf>]
-<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=588, page=5, 614.295pt x 794.9
+<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=610, page=5, 614.295pt x 794.9
 7pt>
 File: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf Graphic file (type pdf)
 <use ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, page 5>
@@ -2833,7 +2860,7 @@ Package pdftex.def Info: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf , page5 us
 ed on input line 25.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [38 <../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf>]
-<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=593, page=6, 614.295pt x 794.9
+<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=615, page=6, 614.295pt x 794.9
 7pt>
 File: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf Graphic file (type pdf)
 <use ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, page 6>
@@ -2860,7 +2887,7 @@ Package pdftex.def Info: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf , page6 us
 ed on input line 25.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [39 <../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf>]
-<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=598, page=7, 614.295pt x 794.9
+<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=620, page=7, 614.295pt x 794.9
 7pt>
 File: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf Graphic file (type pdf)
 <use ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, page 7>
@@ -2887,7 +2914,7 @@ Package pdftex.def Info: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf , page7 us
 ed on input line 25.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [40 <../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf>]
-<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=603, page=8, 614.295pt x 794.9
+<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=625, page=8, 614.295pt x 794.9
 7pt>
 File: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf Graphic file (type pdf)
 <use ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, page 8>
@@ -2914,7 +2941,7 @@ Package pdftex.def Info: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf , page8 us
 ed on input line 25.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [41 <../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf>]
-<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=609, page=9, 614.295pt x 794.9
+<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=631, page=9, 614.295pt x 794.9
 7pt>
 File: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf Graphic file (type pdf)
 <use ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, page 9>
@@ -2941,7 +2968,7 @@ Package pdftex.def Info: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf , page9 us
 ed on input line 25.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [42 <../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf>]
-<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=614, page=10, 614.295pt x 794.
+<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=636, page=10, 614.295pt x 794.
 97pt>
 File: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf Graphic file (type pdf)
 <use ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, page 10>
@@ -2968,7 +2995,7 @@ Package pdftex.def Info: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf , page10 u
 sed on input line 25.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [43 <../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf>]
-<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=619, page=11, 614.295pt x 794.
+<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=641, page=11, 614.295pt x 794.
 97pt>
 File: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf Graphic file (type pdf)
 <use ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, page 11>
@@ -2995,7 +3022,7 @@ Package pdftex.def Info: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf , page11 u
 sed on input line 25.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [44 <../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf>]
-<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=624, page=12, 614.295pt x 794.
+<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=646, page=12, 614.295pt x 794.
 97pt>
 File: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf Graphic file (type pdf)
 <use ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, page 12>
@@ -3022,7 +3049,7 @@ Package pdftex.def Info: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf , page12 u
 sed on input line 25.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [45 <../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf>]
-<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=629, page=13, 614.295pt x 794.
+<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=651, page=13, 614.295pt x 794.
 97pt>
 File: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf Graphic file (type pdf)
 <use ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, page 13>
@@ -3049,7 +3076,7 @@ Package pdftex.def Info: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf , page13 u
 sed on input line 25.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [46 <../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf>]
-<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=634, page=14, 614.295pt x 794.
+<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=656, page=14, 614.295pt x 794.
 97pt>
 File: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf Graphic file (type pdf)
 <use ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, page 14>
@@ -3076,7 +3103,7 @@ Package pdftex.def Info: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf , page14 u
 sed on input line 25.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [47 <../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf>]
-<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=640, page=15, 614.295pt x 794.
+<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=662, page=15, 614.295pt x 794.
 97pt>
 File: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf Graphic file (type pdf)
 <use ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, page 15>
@@ -3103,7 +3130,7 @@ Package pdftex.def Info: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf , page15 u
 sed on input line 25.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [48 <../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf>]
-<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=645, page=16, 614.295pt x 794.
+<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=667, page=16, 614.295pt x 794.
 97pt>
 File: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf Graphic file (type pdf)
 <use ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, page 16>
@@ -3130,7 +3157,7 @@ Package pdftex.def Info: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf , page16 u
 sed on input line 25.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [49 <../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf>]
-<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=650, page=17, 614.295pt x 794.
+<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=672, page=17, 614.295pt x 794.
 97pt>
 File: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf Graphic file (type pdf)
 <use ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, page 17>
@@ -3157,7 +3184,7 @@ Package pdftex.def Info: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf , page17 u
 sed on input line 25.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [50 <../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf>]
-<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=655, page=18, 614.295pt x 794.
+<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=677, page=18, 614.295pt x 794.
 97pt>
 File: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf Graphic file (type pdf)
 <use ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, page 18>
@@ -3184,7 +3211,7 @@ Package pdftex.def Info: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf , page18 u
 sed on input line 25.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [51 <../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf>]
-<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=660, page=19, 614.295pt x 794.
+<../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, id=682, page=19, 614.295pt x 794.
 97pt>
 File: ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf Graphic file (type pdf)
 <use ../Documents/NMX-AA-028-SCFI-2001(DBO5).pdf, page 19>
@@ -3226,8 +3253,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 ] (Documento_maestro.gls
 Overfull \hbox (3.57477pt too wide) in paragraph at lines 5--7
-\T1/phv/m/n/12 (-20) Es una es-ti-ma-ción de la can-ti-dad de oxí-geno que se r
-e-quie-re una po-bla-ción mi-cro-bia-na
+[]\T1/phv/m/n/12 (-20) Es una es-ti-ma-ción de la can-ti-dad de oxí-geno que se
+ re-quie-re una po-bla-ción mi-cro-bia-na
  []
 
 
@@ -3260,27 +3287,28 @@ LaTeX Info: Redefining \% on input line 32.
 (Materiales.aux) (Resultados.aux) (Discusion.aux) (Conclusiones.aux)
 (Perspectivas.aux) (Anexos.aux)) ) 
 Here is how much of TeX's memory you used:
- 25766 strings out of 476331
- 458682 string characters out of 5787765
+ 26007 strings out of 476331
+ 463030 string characters out of 5787765
  1859660 words of memory out of 5000000
- 45396 multiletter control sequences out of 15000+600000
- 541791 words of font info for 145 fonts, out of 8000000 for 9000
+ 45596 multiletter control sequences out of 15000+600000
+ 543034 words of font info for 162 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,17n,90p,2263b,793s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/luisr/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/luisr/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/luisr/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/luisr/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/lui
-sr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
-Users/luisr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.
-pfb><C:/Users/luisr/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb
-8a.pfb><C:/Users/luisr/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/u
-hvr8a.pfb><C:/Users/luisr/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helveti
-c/uhvro8a.pfb>
-Output written on Documento_maestro.pdf (75 pages, 1549665 bytes).
+ <C:\Users\luisr\AppData\Local\MiKTeX\fonts/p
+k/ljfour/jknappen/ec/dpi600\ectt1200.pk><C:/Users/luisr/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/luisr/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/luisr/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/luis
+r/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Use
+rs/luisr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b><C:/Users/luisr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmsy8.pfb><C:/Users/luisr/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helveti
+c/uhvb8a.pfb><C:/Users/luisr/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helv
+etic/uhvr8a.pfb><C:/Users/luisr/AppData/Local/Programs/MiKTeX/fonts/type1/urw/h
+elvetic/uhvro8a.pfb>
+Output written on Documento_maestro.pdf (75 pages, 1569053 bytes).
 PDF statistics:
- 884 PDF objects out of 1000 (max. 8388607)
- 131 named destinations out of 1000 (max. 500000)
- 35385 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 945 PDF objects out of 1000 (max. 8388607)
+ 140 named destinations out of 1000 (max. 500000)
+ 35897 words of extra memory for PDF output out of 42996 (max. 10000000)
 

@@ -1,7 +1,7 @@
-This is makeindex, version 2.16 [TeX Live 2022] (kpathsea + Thai support).
+This is makeindex, version 2.16 [MiKTeX 23.4].
 Scanning style file ./Documento_maestro.ist...........................done (27 attributes redefined, 0 ignored).
-Scanning input file Documento_maestro.glo....done (10 entries accepted, 0 rejected).
-Sorting entries....done (35 comparisons).
-Generating output file Documento_maestro.gls....done (29 lines written, 0 warnings).
+Scanning input file Documento_maestro.glo....done (11 entries accepted, 0 rejected).
+Sorting entries....done (40 comparisons).
+Generating output file Documento_maestro.gls....done (31 lines written, 0 warnings).
 Output written in Documento_maestro.gls.
 Transcript written in Documento_maestro.glg.

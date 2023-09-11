@@ -1,0 +1,109 @@
+@comment{x-kbibtex-encoding=utf-8}
+
+@book{martinez1999,
+	author = {Sergio Alejandro {Martínez Delgadillo}},
+	isbn = {970-654-243-4},
+	location = {México, D.F},
+	publisher = {Universidad Autónoma Metropolitana, Unidad Azcapotzalco, División de Ciencias Básicas e Ingeniería, Departamento de Energía},
+	edition = {1a},
+	risfield_1_m1 = {Book, Whole},
+	title = {Parámetros de diseños de sistemas de tratamiento de aguas residuales: métodos experimentales},
+	year = {1999}
+}
+
+@book{delgadillo2005,
+	author = {S. A. {Martínez Delgadillo} and M. G. {Rodríguez Rosales}},
+	isbn = {9789686708578},
+	publisher = {Editorial Reverte},
+	risfield_0_m1 = {Book, Whole},
+	title = {Tratamiento de aguas residuales con Matlab},
+	year = {2005}
+}
+
+@book{ferrer2008,
+	author = {José {Ferrer Polo} and Aurora {Seco Torrecillas}},
+	isbn = {8413960169},
+	location = {Valencia},
+	publisher = {Universitat Politècnica de València},
+	risfield_0_m1 = {Book, Whole},
+	title = {Tratamientos biológicos de aguas residuales},
+	year = {2008}
+}
+
+@book{lazcano2016,
+	author = {César Augusto {Lazcano Carreño}},
+	isbn = {9587713443},
+	location = {Lima, Perú},
+	publisher = {Ecoe Ediciones},
+	risfield_0_t2 = {Ingeniería y salud en el trabajo. Ingeniería ambiental},
+	edition = {2da},
+	risfield_2_m1 = {Book, Whole},
+	title = {Biotecnología ambiental de aguas y aguas residuales},
+	year = {2016}
+}
+
+@book{crites2000,
+	author = {Ron Crites and George Tchobanoglous},
+	isbn = {9584100424; 9789584100429},
+	location = {Santafé de Bogotá},
+	publisher = {McGraw-Hill Interamericana, S.A.},
+	edition = {1a},
+	risfield_1_la = {spa},
+	risfield_2_m1 = {Book, Whole},
+	title = {Tratamiento de aguas residuales en pequeñas poblaciones},
+	year = {2000}
+}
+
+@book{metcalf2003,
+	author = {George Tchobanoglous and Franklin L. Burton and H. David Stensel},
+	edition = {6ta},
+	location = {Boston, Massachusetts},
+	publisher = {McGraw-Hill},
+	series = {McGraw-Hill Series in Civil and Environmental Engineering},
+	title = {Wastewater Engineering Treatment \& Reuse},
+	year = {2003}
+}
+
+@book{marcos2007,
+	author = {Marcos {von Sperling}},
+	location = {Londres, U.K.},
+	note = {Disponible en: \url{https://www.gob.mx/cms/uploads/attachment/file/135611/Wastwater.pdf}},
+	publisher = {IWA Publishing},
+	series = {Biological Wastewater Treatment},
+	title = {Wastewater characteristics treatment and disposal},
+	url = {https://www.gob.mx/cms/uploads/attachment/file/135611/Wastwater.pdf},
+	volume = {1},
+	year = {2007}
+}
+
+@InProceedings{AmbrizSepulveda2022,
+  author    = {{Ambriz Sep{\'u}lveda}, Valeria and {Cach Junco}, {Ivar Oswaldo} and {Lankenau Vela}, {Nancy Guillermina} and {Ochoa Garza}, {Jes{\'u}s Adri{\'a}n} and {Paredes Figueroa}, {Mar{\'i}a Guadalupe}},
+  booktitle = {Asociaci{\'o}n Interamericana de Ingenier{\'i}a Sanitaria y Ambiental (AIDIS)},
+  title     = {Gesti{\'o}n Integral del sector de tratamiento de aguas residuales municipales en M{\'e}xico bajo un enfoque de econom{\'i}a circular.},
+  year      = {2022},
+  month     = nov,
+  pages     = {640--648},
+  abstract  = {In recent years, Nuevo Le{\'o}n, Mexico has presented hydric stress that, over time, has increased. Currently, the main bodies of water present a low level of this resource never before recorded. Due to the increase in freshwater, wastewater treatments must be proactive and sustainable to increase the circularity of water cycles. In this context, it is essential to replace the current approach based on a linear cycle towards a circular economy concept, in which waste is seen as a resource and with this implement strategies for the use of the different by-products in the wastewater treatment sector. . This project takes place in the Wastewater Treatment Plant (WWTP) Monterrey (Mty) in Nuevo Leon, M{\'e}xico, which is considered the largest volume treated at the state level. Throughout its operation process, it generates different potential by-products. Four proposals were developed under a circular economy approach, which are: treated water for the industrial sector, residual sludge as organic fertilizer, cogeneration of energy from biogas, and sand and gravel as an aggregate of asphalt mixture. These proposals have the potential to generate benefits in the three pillars of sustainability. Resulting in a closed cycle in the wastewater treatment sector at national level.},
+  day       = {17},
+  language  = {Spanish},
+}
+
+@Misc{GobiernoPeru2019,
+  author    = {{Gobierno de Perú}},
+  month     = oct,
+  note      = {Disponible en: \url{https://www.gob.pe/institucion/minam/informes-publicaciones/308391-estandar-de-calidad-ambiental}},
+  title     = {Estándar de Calidad Ambiental},
+  year      = {2019},
+  timestamp = {2023-08-21},
+  url       = {https://www.gob.pe/institucion/minam/informes-publicaciones/308391-estandar-de-calidad-ambiental},
+}
+
+@Manual{Economia2015,
+  title        = {Norma Mexicana NMX-AA-034-SCFI-2015 - Medición de sólidos y sales disueltas en aguas naturales, residuales y tratadas.},
+  author       = {{Secretaría de Economía}},
+  note         = {Disponible en: \url{https://www.gob.mx/cms/uploads/attachment/file/166146/nmx-aa-034-scfi-2015.pdf}},
+  organization = {Gobierno de México},
+  year         = {2015},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
