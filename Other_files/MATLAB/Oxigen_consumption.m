@@ -1,10 +1,13 @@
-% File: Coefficient of oxigen consuption
+% File: Coefficient of oxigen consumption
 % Author: Luis David Rodriguez Centeno
 % License: MIT
 
 % Experimental values
 q = [0.235 0.179 0.143];
-RO2 = [0.382 0.232 0.086];
+VUO = [0.1837 0.1038 0.0383];
+VUO2 = VUO * 1440;
+Xva = [692 644 635];
+RO2 = VUO2./Xva;
 
 % Experimental data graph
 plot(q,RO2,'+')

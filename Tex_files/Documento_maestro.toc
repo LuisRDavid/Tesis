@@ -17,20 +17,20 @@
 \contentsline {subsection}{\numberline {2.4}Tratamiento de aguas residuales}{5}{subsection.2.4}%
 \contentsline {subsubsection}{\numberline {2.4.1}Tratamientos biológicos}{5}{subsubsection.2.4.1}%
 \contentsline {subsection}{\numberline {2.5}Lodos Activados}{5}{subsection.2.5}%
-\contentsline {subsubsection}{\numberline {2.5.1}Organismos presentes en los lodos activados}{5}{subsubsection.2.5.1}%
-\contentsline {subsubsection}{\numberline {2.5.2}Flóculos}{5}{subsubsection.2.5.2}%
-\contentsline {subsubsection}{\numberline {2.5.3}Bulking filamentoso}{5}{subsubsection.2.5.3}%
-\contentsline {section}{\numberline {3}Planteamiento del problema}{6}{section.3}%
-\contentsline {section}{\numberline {4}Justficación}{7}{section.4}%
-\contentsline {section}{\numberline {5}Objetivos}{8}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Objetivo general}{8}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Objetivos particulares}{8}{subsection.5.2}%
-\contentsline {section}{\numberline {6}Materiales}{9}{section.6}%
-\contentsline {section}{\numberline {7}Resultados}{10}{section.7}%
-\contentsline {section}{\numberline {8}Discusión}{11}{section.8}%
-\contentsline {section}{\numberline {9}Conclusiones}{12}{section.9}%
-\contentsline {section}{\numberline {10}Perspectivas}{13}{section.10}%
-\contentsline {section}{Referencias}{14}{section*.2}%
+\contentsline {subsubsection}{\numberline {2.5.1}Organismos presentes en los lodos activados}{6}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Flóculos}{6}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.3}Bulking filamentoso}{6}{subsubsection.2.5.3}%
+\contentsline {section}{\numberline {3}Planteamiento del problema}{7}{section.3}%
+\contentsline {section}{\numberline {4}Justficación}{8}{section.4}%
+\contentsline {section}{\numberline {5}Objetivos}{9}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Objetivo general}{9}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Objetivos particulares}{9}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Materiales}{10}{section.6}%
+\contentsline {section}{\numberline {7}Resultados}{11}{section.7}%
+\contentsline {section}{\numberline {8}Discusión}{12}{section.8}%
+\contentsline {section}{\numberline {9}Conclusiones}{13}{section.9}%
+\contentsline {section}{\numberline {10}Perspectivas}{14}{section.10}%
+\contentsline {section}{Referencias}{15}{section*.2}%
 \contentsline {section}{Anexos}{I}{section*.3}%
-\contentsline {section}{Siglas}{LIII}{section*.7}%
-\contentsline {section}{Glosario}{LIV}{section*.9}%
+\contentsline {section}{Siglas}{XXVII}{section*.7}%
+\contentsline {section}{Glosario}{XXVIII}{section*.9}%
