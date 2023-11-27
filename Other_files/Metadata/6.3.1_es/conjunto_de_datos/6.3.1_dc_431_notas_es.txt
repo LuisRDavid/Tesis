@@ -1,0 +1,5 @@
+﻿"Nota: En el año 2020, se realizó una revisión del indicador y se actualizaron los nombres de las variables y los respectivos valores. Se consideró la información de los registros
+administrativos de las Subdirecciones Generales Técnica y de Agua Potable, Drenaje y Saneamiento de la Comisión Nacional del Agua que se integran en el Sistema
+Nacional de Información del Agua (SINA).  Se revisaron los valores del año 2021 de las variables.  Sistema Nacional de Información del Agua (SINA). "
+"Fuente: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional del Agua (CONAGUA). Gerencia de Planificación Hídrica. Sistema Nacional de Información
+del Agua (SINA). Sistema Nacional de Información del Agua (SINA). "

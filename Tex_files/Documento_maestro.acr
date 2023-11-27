@@ -1,5 +1,8 @@
 \glossarysection[\glossarytoctitle]{\glossarytitle}\glossarypreamble
 \begin{theglossary}\glossaryheader
+\glsgroupheading{C}\relax \glsresetentrylist %
+\glossentry{CONAGUA}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{2}}}\glsgroupskip
 \glsgroupheading{D}\relax \glsresetentrylist %
 \glossentry{DBO}{\glossaryentrynumbers{\relax 
 		\glsseeformat[Glosario:]{gls-DBO}{Z}}}%
@@ -17,6 +20,9 @@
 		\glsseeformat[Glosario:]{gls-pH}{Z}}}%
 \glossentry{PTAR}{\glossaryentrynumbers{\relax 
 		\glsseeformat[Glosario:]{gls-PTAR}{Z}}}\glsgroupskip
+\glsgroupheading{R}\relax \glsresetentrylist %
+\glossentry{RHA}{\glossaryentrynumbers{\relax 
+		\glsseeformat[Glosario:]{gls-RHA}{Z}}}\glsgroupskip
 \glsgroupheading{S}\relax \glsresetentrylist %
 \glossentry{SST}{\glossaryentrynumbers{\relax 
 		\glsseeformat[Glosario:]{gls-SST}{Z}}}%

@@ -14,12 +14,13 @@
 \contentsline {subsubsection}{\numberline {2.2.1}Características Físicas}{4}{subsubsection.2.2.1}%
 \contentsline {subsubsection}{\numberline {2.2.2}Características Químicas}{5}{subsubsection.2.2.2}%
 \contentsline {subsection}{\numberline {2.3}Muestreo}{5}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Tratamiento de aguas residuales}{5}{subsection.2.4}%
-\contentsline {subsubsection}{\numberline {2.4.1}Tratamientos biológicos}{5}{subsubsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.5}Lodos Activados}{5}{subsection.2.5}%
-\contentsline {subsubsection}{\numberline {2.5.1}Organismos presentes en los lodos activados}{6}{subsubsection.2.5.1}%
-\contentsline {subsubsection}{\numberline {2.5.2}Flóculos}{6}{subsubsection.2.5.2}%
-\contentsline {subsubsection}{\numberline {2.5.3}Bulking filamentoso}{6}{subsubsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.4}Límites máximos permisibles}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Tratamiento de aguas residuales}{5}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Tratamientos biológicos}{5}{subsubsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.6}Lodos Activados}{6}{subsection.2.6}%
+\contentsline {subsubsection}{\numberline {2.6.1}Organismos presentes en los lodos activados}{6}{subsubsection.2.6.1}%
+\contentsline {subsubsection}{\numberline {2.6.2}Flóculos}{6}{subsubsection.2.6.2}%
+\contentsline {subsubsection}{\numberline {2.6.3}Bulking filamentoso}{6}{subsubsection.2.6.3}%
 \contentsline {section}{\numberline {3}Planteamiento del problema}{7}{section.3}%
 \contentsline {section}{\numberline {4}Justficación}{8}{section.4}%
 \contentsline {section}{\numberline {5}Objetivos}{9}{section.5}%
@@ -32,5 +33,5 @@
 \contentsline {section}{\numberline {10}Perspectivas}{14}{section.10}%
 \contentsline {section}{Referencias}{15}{section*.2}%
 \contentsline {section}{Anexos}{I}{section*.3}%
-\contentsline {section}{Siglas}{XXVII}{section*.7}%
-\contentsline {section}{Glosario}{XXVIII}{section*.9}%
+\contentsline {section}{Siglas}{XXII}{section*.10}%
+\contentsline {section}{Glosario}{XXIII}{section*.12}%

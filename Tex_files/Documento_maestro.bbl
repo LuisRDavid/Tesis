@@ -23,6 +23,12 @@ Fair, G.~M., Geyer, J.~C., y Okun, D.~A. (2008).
 \newblock Universidad Autónoma Metropolitana, Unidad Azcapotzalco, División
   de Ciencias Básicas e Ingeniería, Departamento de Energía, 1a edición.
 
+\bibitem[{Ortiz Rendón} y {Cruz Gutiérrez}, 2013]{Ortiz2013}
+{Ortiz Rendón}, G. y {Cruz Gutiérrez}, F. (2013).
+\newblock {\em Legislación y cultura del agua. Conceptos básicos de
+  administración y legislación del agua en México}.
+\newblock Instituto Mexicano de Tecnología del Agua.
+
 \bibitem[{Secretaría de Economía}, 2015]{Economia2015}
 {Secretaría de Economía} (2015).
 \newblock {\em Norma Mexicana NMX-AA-034-SCFI-2015 - Medición de sólidos y
@@ -31,10 +37,17 @@ Fair, G.~M., Geyer, J.~C., y Okun, D.~A. (2008).
 \newblock Disponible en:
   \url{https://www.gob.mx/cms/uploads/attachment/file/166146/nmx-aa-034-scfi-2015.pdf}.
 
-\bibitem[Tchobanoglous et~al., 2003]{metcalf2003}
-Tchobanoglous, G., Burton, F.~L., y Stensel, H.~D. (2003).
-\newblock {\em Wastewater Engineering Treatment & Reuse}.
+\bibitem[{Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT)},
+  2022]{NOM2021}
+{Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT)} (2022).
+\newblock {\em Norma Oficial Mexicana NOM-001-SEMARNAT-2021}.
+\newblock Disponible en:
+  \url{https://agua.org.mx/wp-content/uploads/2022/03/DOF-NOM-001-SEMARNAT-2021.pdf}.
+
+\bibitem[Tchobanoglous et~al., 2004]{metcalf2003}
+Tchobanoglous, G., Burton, F.~L., y Stensel, H.~D. (2004).
+\newblock {\em Wastewater Engineering: Treatment \& Reuse}.
 \newblock McGraw-Hill Series in Civil and Environmental Engineering.
-  McGraw-Hill, 6ta edición.
+  McGraw-Hill, 4ta edición.
 
 \end{thebibliography}

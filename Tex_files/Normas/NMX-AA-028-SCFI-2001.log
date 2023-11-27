@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.7.27)  27 AUG 2023 19:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/CVE-2023-32700 patched) (preloaded format=pdflatex 2023.11.18)  18 NOV 2023 16:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./NMX-AA-028-SCFI-2001.tex
-(NMX-AA-028-SCFI-2001.tex
-LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-03-30>
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
-File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+**NMX-AA-028-SCFI-2001.tex
+(./NMX-AA-028-SCFI-2001.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-12-17>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -19,21 +19,21 @@ File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \c@subparagraph=\count190
 \c@figure=\count191
 \c@table=\count192
-\abovecaptionskip=\skip48
-\belowcaptionskip=\skip49
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
 \bibindent=\dimen140
 )
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count193
@@ -48,31 +48,30 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen147
 \Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks17
-
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks18
 \inpenc@posthook=\toks19
 
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/ucs\utf8x.def
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
 File: utf8x.def 2022/08/07 UCS: Input encoding UTF-8
 
 
 Package ucs Info: utf8x disabled, assuming standard utf8 processing
 (ucs)             load ucs package to force utf8x processing.
 
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\utf8.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2022/06/07 v1.3c UTF-8 support
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\omsenc.dfu
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -84,7 +83,7 @@ File: omsenc.dfu 2022/06/07 v1.3c UTF-8 support
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\ot1enc.dfu
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
 File: ot1enc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -133,7 +132,7 @@ File: ot1enc.dfu 2022/06/07 v1.3c UTF-8 support
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\t1enc.dfu
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -413,7 +412,7 @@ File: t1enc.dfu 2022/06/07 v1.3c UTF-8 support
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1enc.dfu
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.dfu
 File: ts1enc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -506,67 +505,66 @@ Now handling font encoding U ...
    defining Unicode char U+2423 (decimal 9251)
    defining Unicode char U+FEFF (decimal 65279)
 )))
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/hyphenat\hyphenat.sty
+(/usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
-\langwohyphens=\language79
+\langwohyphens=\language3
 LaTeX Info: Redefining \_ on input line 43.
 )
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.sty
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
 )
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2023/07/15 v3.92 The Babel package
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/12/26 3.84 The Babel package
 \babel@savecnt=\count196
 \U@D=\dimen149
-\l@unhyphenated=\language80
+\l@unhyphenated=\language4
 
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count197
 
-*************************************
-* Local config file bblopts.cfg used
-*
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.l
-df
+(/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+
+
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language 'Spanish' into the format.
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for \language=0 instead on input line 51.
+
+Package babel Info: Hyphen rules for 'spanish' set to \l@english
+(babel)             (\language0). Reported on input line 52.
 \es@quottoks=\toks20
 \es@quotdepth=\count198
 Package babel Info: Making " an active character on input line 570.
 Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
 Package babel Info: Making > an active character on input line 722.
-))
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel
--spanish.tex
+)) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/es/babel-spanish.tex
 Package babel Info: Importing font and identification data for spanish
 (babel)             from babel-es.ini. Reported on input line 11.
-)
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 
-\f@nch@headwidth=\skip50
-\f@nch@O@elh=\skip51
-\f@nch@O@erh=\skip52
-\f@nch@O@olh=\skip53
-\f@nch@O@orh=\skip54
-\f@nch@O@elf=\skip55
-\f@nch@O@erf=\skip56
-\f@nch@O@olf=\skip57
-\f@nch@O@orf=\skip58
+\f@nch@headwidth=\skip49
+\f@nch@O@elh=\skip50
+\f@nch@O@erh=\skip51
+\f@nch@O@olh=\skip52
+\f@nch@O@orh=\skip53
+\f@nch@O@elf=\skip54
+\f@nch@O@erf=\skip55
+\f@nch@O@olf=\skip56
+\f@nch@O@orf=\skip57
 )
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box51
-\beforetitleunit=\skip59
-\aftertitleunit=\skip60
+\beforetitleunit=\skip58
+\aftertitleunit=\skip59
 \ttl@plus=\dimen150
 \ttl@minus=\dimen151
 \ttl@toksa=\toks21
@@ -574,19 +572,19 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \titlewidthlast=\dimen153
 \titlewidthfirst=\dimen154
 )
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks22
 \thm@bodyfont=\toks23
 \thm@headfont=\toks24
 \thm@notefont=\toks25
 \thm@headpunct=\toks26
-\thm@preskip=\skip61
-\thm@postskip=\skip62
-\thm@headsep=\skip63
+\thm@preskip=\skip60
+\thm@postskip=\skip61
+\thm@headsep=\skip62
 \dth@everypar=\toks27
 )
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\fixltx2e.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fixltx2e.sty
 Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
 Applying: [2015/01/01] Old fixltx2e package on input line 46.
 
@@ -598,36 +596,36 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 Already applied: [0000/00/00] Old fixltx2e package on input line 53.
 )
 \c@teor=\count199
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 30
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 25
 .
- (C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
-tex.def
-File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count266
 \l__pdf_internal_box=\box52
-) (NMX-AA-028-SCFI-2001.aux
+)
+(./NMX-AA-028-SCFI-2001.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
 \openout1 = `NMX-AA-028-SCFI-2001.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -663,8 +661,8 @@ LaTeX Font Info:    ... okay on input line 30.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 30.
-LaTeX Info: Redefining \% on input line 30.
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
 
 ! Package titlesec Error: Entered in horizontal mode.
 
@@ -672,7 +670,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.34 ...tion{Preparación del agua para dilución}
+l.28 ...tion{Preparación del agua para dilución}
                                                   \label{10.1}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -684,7 +682,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.35 ...reparar el agua de dilución diariamente.}
+l.29 ...reparar el agua de dilución diariamente.}
                                                   \label{10.1.1}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -696,14 +694,14 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.36 ...teria orgánica durante 1 h por lo menos.}
+l.30 ...teria orgánica durante 1 h por lo menos.}
                                                   \label{10.1.2}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
 
 LaTeX Font Info:    Trying to load font information for TS1+phv on input line 3
-6.
-(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
+0.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
 
@@ -713,7 +711,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.43 	\section{Control del agua de dilución}
+l.37 	\section{Control del agua de dilución}
                                              \label{10.2}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -725,17 +723,17 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.44 .../L y preferiblemente no menor a 0,1 mg/L.}
+l.38 .../L y preferiblemente no menor a 0,1 mg/L.}
                                                   \label{10.2.1}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 44.
+(Font)              <12> on input line 38.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 44.
+(Font)              <8> on input line 38.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 44.
+(Font)              <6> on input line 38.
 
 ! Package titlesec Error: Entered in horizontal mode.
 
@@ -743,7 +741,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.45 ...n{Control de la glucosa-ácido glutámico}
+l.39 ...n{Control de la glucosa-ácido glutámico}
                                                   \label{10.3}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -755,7 +753,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.46 ... en los incisos \ref{10.4} a \ref{10.10}.}
+l.40 ... en los incisos \ref{10.4} a \ref{10.10}.}
                                                   \label{10.3.1}.
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -767,7 +765,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.47 	\section{Inóculo}
+l.41 	\section{Inóculo}
                         \label{10.4}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -779,7 +777,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.48 	\subsection{Fuente de siembra}
+l.42 	\subsection{Fuente de siembra}
                                     \label{10.4.1}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -791,7 +789,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.49 ...emperatura o con valores de pH extremos).}
+l.43 ...emperatura o con valores de pH extremos).}
                                                   \label{10.4.1.1}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -803,7 +801,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.50 ...tsubscript{5} indica una siembra exitosa.}
+l.44 ...tsubscript{5} indica una siembra exitosa.}
                                                   \label{10.4.1.2}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -815,7 +813,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.51 	\section{Control del inóculo}
+l.45 	\section{Control del inóculo}
                                     \label{10.5}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -827,7 +825,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.52 ...a debe oscilar entre 0,6 mg/L y 1,0 mg/L.}
+l.46 ...a debe oscilar entre 0,6 mg/L y 1,0 mg/L.}
                                                   \label{10.5.1}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -839,7 +837,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.53 	\section{Pretratamiento de la muestra}
+l.47 	\section{Pretratamiento de la muestra}
                                             \label{10.6}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -851,7 +849,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.54 ...ection{Muestras con pH ácidos o básicos}
+l.48 ...ection{Muestras con pH ácidos o básicos}
                                                   \label{10.6.1}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -863,7 +861,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.55 ... afectado por la dilución de la muestra.}
+l.49 ... afectado por la dilución de la muestra.}
                                                   \label{10.6.1.1}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -875,7 +873,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.56 ...ion{Muestras que contienen cloro residual}
+l.50 ...ion{Muestras que contienen cloro residual}
                                                   \label{10.6.2}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -887,33 +885,34 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.57 ...�adiendo disolución de sulfito de sodio.}
+l.51 ...�adiendo disolución de sulfito de sodio.}
                                                   \label{10.6.2.1}.
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
 
+! Missing number, treated as zero.
+<to be read again> 
+                   \hfil 
+l.52 ...omprobar el cloro residual de la muestra.}
+                                                  \label{10.6.2.2}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 18.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
+[1
 
-(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
-
-[1{C:/Users/luisr/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/lu
-isr/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
-
-]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 Overfull \vbox (55.6465pt too high) has occurred while \output is active []
 
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 18.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
+! Missing number, treated as zero.
+<to be read again> 
+                   \hfil 
+l.52 ...omprobar el cloro residual de la muestra.}
+                                                  \label{10.6.2.2}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
 
 [2]
 
@@ -923,7 +922,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.58 ...omprobar el cloro residual de la muestra.}
+l.52 ...omprobar el cloro residual de la muestra.}
                                                   \label{10.6.2.2}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -935,7 +934,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.62 	\subsection{Muestras sobresaturadas con OD}
+l.56 	\subsection{Muestras sobresaturadas con OD}
                                                  \label{10.6.3}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -947,7 +946,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.63 ...n con aire limpio, filtrado y comprimido.}
+l.57 ...n con aire limpio, filtrado y comprimido.}
                                                   \label{10.6.3.1}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -959,7 +958,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.64 ... 20°C ± 1°C antes de hacer diluciones.}
+l.58 ... 20°C ± 1°C antes de hacer diluciones.}
                                                   \label{10.6.4}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -971,7 +970,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.65 ...bsection{Inhibición de la nitrificación}
+l.59 ...bsection{Inhibición de la nitrificación}
                                                   \label{10.6.5}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -983,7 +982,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.66 ...oncentración de 10 mg/L aproximadamente.}
+l.60 ...oncentración de 10 mg/L aproximadamente.}
                                                   \label{10.6.5.1}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -995,7 +994,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.67 ...se presente el informe de los resultados.}
+l.61 ...se presente el informe de los resultados.}
                                                   \label{10.6.5.2}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -1007,7 +1006,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.68 	\section{Técnica de dilución}
+l.62 	\section{Técnica de dilución}
                                      \label{10.7}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -1019,7 +1018,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.69 ...ara las aguas superficiales contaminadas.}
+l.63 ...ara las aguas superficiales contaminadas.}
                                                   \label{10.7.1}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -1031,10 +1030,16 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.70 ...ratapa e incubar durante 5 días a 20°C.}
+l.64 ...ratapa e incubar durante 5 días a 20°C.}
                                                   \label{10.7.2}.
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
+
+
+Overfull \hbox (14.15894pt too wide) in paragraph at lines 64--64
+|[]\T1/phv/m/n/12 Diluciones preparadas di-rec-ta-mente en fras-cos tipo Win-kl
+er. Uti-lizan-do una pipeta volum�tri-
+ []
 
 
 ! Package titlesec Error: Entered in horizontal mode.
@@ -1043,7 +1048,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.71 	\section{Determinación del OD inicial}
+l.65 	\section{Determinación del OD inicial}
                                              \label{10.8}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -1055,7 +1060,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.72 	\subsection{Método yodométrico}
+l.66 	\subsection{Método yodométrico}
                                        \label{10.8.1}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -1067,7 +1072,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.73 ...cido en la norma mexicana NMX-AA-012-SCFI}
+l.67 ...cido en la norma mexicana NMX-AA-012-SCFI}
                                                   \label{10.8.1.1}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -1079,7 +1084,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.74 	\subsection{Método electrométrico}
+l.68 	\subsection{Método electrométrico}
                                           \label{10.8.2}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -1091,7 +1096,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.75 ... causa de baja respuesta en el electrodo.}
+l.69 ... causa de baja respuesta en el electrodo.}
                                                   \label{10.8.2.1}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -1103,7 +1108,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.76 	\section{Blanco del agua de dilución.}
+l.70 	\section{Blanco del agua de dilución.}
                                              \label{10.9}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -1115,7 +1120,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.77 .../L y preferentemente no menor a 0,1 mg/L.}
+l.71 .../L y preferentemente no menor a 0,1 mg/L.}
                                                   \label{10.9.1}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -1127,7 +1132,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.78 	\section{Incubación}
+l.72 	\section{Incubación}
                            \label{10.10}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -1139,7 +1144,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.79 ...a incubada, agregar agua si es necesario.}
+l.73 ...a incubada, agregar agua si es necesario.}
                                                   \label{10.10.1}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -1151,7 +1156,7 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.80 	\section{Determinación del OD final}
+l.74 	\section{Determinación del OD final}
                                            \label{10.11}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
@@ -1163,29 +1168,31 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.81 ...ión de oxígeno del aire por la muestra.}
+l.75 ...ión de oxígeno del aire por la muestra.}
                                                   \label{10.11.1}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 18.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
+! Missing number, treated as zero.
+<to be read again> 
+                   \hfil 
+l.76 \end{document}
+                   
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
 
 [3]
+! Missing number, treated as zero.
+<to be read again> 
+                   \hfil 
+l.76 \end{document}
+                   
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 18.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
-
-[4] (NMX-AA-028-SCFI-2001.aux
+[4] (./NMX-AA-028-SCFI-2001.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
@@ -1194,19 +1201,20 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 3635 strings out of 476331
- 60084 string characters out of 5787765
- 1866660 words of memory out of 5000000
- 24045 multiletter control sequences out of 15000+600000
- 536432 words of font info for 57 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 57i,12n,62p,1222b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/luisr/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a
-.pfb><C:/Users/luisr/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhv
-r8a.pfb>
-Output written on NMX-AA-028-SCFI-2001.pdf (4 pages, 38173 bytes).
+ 3595 strings out of 478126
+ 57866 string characters out of 5842786
+ 1863793 words of memory out of 6000000
+ 23628 multiletter control sequences out of 15000+600000
+ 531966 words of font info for 54 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 55i,5n,62p,1246b,363s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on NMX-AA-028-SCFI-2001.pdf (4 pages, 32989 bytes).
 PDF statistics:
- 26 PDF objects out of 1000 (max. 8388607)
+ 28 PDF objects out of 1000 (max. 8388607)
+ 17 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
