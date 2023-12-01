@@ -1,5 +1,9 @@
 @comment{x-kbibtex-encoding=utf-8}
 
+@comment{,
+  x-kbibtex-encoding = utf-8
+}
+
 @book{martinez1999,
 	author = {Sergio Alejandro {Martínez Delgadillo}},
 	edition = {1a},
@@ -226,35 +230,12 @@
 	year={2009}
 }
 
-@InCollection{Gerba2019,
-  author    = {Gerba, Charles P and Pepper, Ian L},
-  booktitle = {Environmental and pollution science},
-  publisher = {Elsevier},
-  title     = {Municipal wastewater treatment},
-  year      = {2019},
-  pages     = {393--418},
-  doi       = {10.1016/b978-0-12-814719-1.00022-7},
-}
-
-@article{Noyola2012,
-	title={Typology of municipal wastewater treatment technologies in Latin America},
-	author={Noyola, Adalberto and Padilla-Rivera, Alejandro and Morgan-Sagastume, Juan Manuel and G{\"u}ereca, Leonor Patricia and Hern{\'a}ndez-Padilla, Flor},
-	journal={Clean -- Soil, Air, Water},
-	volume={40},
-	number={9},
-	pages={926--932},
-	year={2012},
-	publisher={Wiley Online Library},
-	doi={10.1002/clen.201100707}
-}
-
-@article{Sikosana2019,
-	title={Municipal wastewater treatment technologies: A review},
-	author={Sikosana, Mmontshi L and Sikhwivhilu, Keneiloe and Moutloali, Richard and Madyira, Daniel M},
-	journal={Procedia Manufacturing},
-	volume={35},
-	pages={1018--1024},
+@incollection{Gerba2019,
+	title={Municipal wastewater treatment},
+	author={Gerba, Charles P and Pepper, Ian L},
+	booktitle={Environmental and pollution science},
+	pages={393--418},
 	year={2019},
 	publisher={Elsevier},
-	doi={10.1016/j.promfg.2019.06.051}
+	doi={10.1016/b978-0-12-814719-1.00022-7}
 }

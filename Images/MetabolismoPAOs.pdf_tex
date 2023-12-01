@@ -1,0 +1,179 @@
+%% Creator: Inkscape 1.3 (0e150ed6c4, 2023-07-21), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'MetabolismoPAOs.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{1440bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.5625)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{MetabolismoPAOs.pdf}}%
+    \put(0.5747871,0.07994871){\color[rgb]{0,0,0}\rotatebox{7.5972257}{\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}CADENA DE \\TRANSFERENCIA DE \\ELECTRONES\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{MetabolismoPAOs.pdf}}%
+    \put(0.67744204,0.41771663){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}METABOLISMO DE \\ACIDOS GRASOS\end{tabular}}}}%
+    \put(0.56232344,0.43235765){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ACETATO\end{tabular}}}}%
+    \put(0.48044221,0.47465391){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}GLUCOGENO\end{tabular}}}}%
+    \put(0.56711807,0.53630606){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Polimerasa\end{tabular}}}}%
+    \put(0.43135242,0.5159734){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Flipasa\end{tabular}}}}%
+    \put(0.28619693,0.50105537){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}F-ATPasa\end{tabular}}}}%
+    \put(0.21395706,0.46655672){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}V-ATPasa\end{tabular}}}}%
+    \put(0.19629025,0.3608779){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Pst\end{tabular}}}}%
+    \put(0.18782202,0.25644566){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Pit\end{tabular}}}}%
+    \put(0.72281456,0.49952485){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}act\textit{P}\end{tabular}}}}%
+    \put(0.62044264,0.50873544){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}EPS\end{tabular}}}}%
+    \put(0.71475901,0.52133898){\color[rgb]{0,0,0}\rotatebox{23.202563}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Acetato\end{tabular}}}}}%
+    \put(0.3434425,0.30272198){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}P\textbf{i}\end{tabular}}}}%
+    \put(0.73968061,0.36388038){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}PHB\end{tabular}}}}%
+    \put(0.74456348,0.29869631){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}PHMV\end{tabular}}}}%
+    \put(0.69673576,0.29792943){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}PHV\end{tabular}}}}%
+    \put(0.30642455,0.20969359){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}PoliP\end{tabular}}}}%
+    \put(0.44389715,0.04093145){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{cyb/b}\textit{6}\\Quinol-NAD\\reductasa\end{tabular}}}}%
+    \put(0.60348156,0.05316694){\color[rgb]{0,0,0}\rotatebox{6.9626181}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}NIR\end{tabular}}}}}%
+    \put(0.60523645,0.04254184){\color[rgb]{0,0,0}\rotatebox{9.3942556}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}NOR\end{tabular}}}}}%
+    \put(0.60721331,0.03223647){\color[rgb]{0,0,0}\rotatebox{8.7706415}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}NOS\end{tabular}}}}}%
+    \put(0.74002431,0.18667863){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{MMD}\end{tabular}}}}%
+    \put(0.68475939,0.18500443){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{PCC}\end{tabular}}}}%
+    \put(0.61905861,0.17131605){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}MCM\end{tabular}}}}%
+    \put(0.64042861,0.22016398){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{ACDH}\end{tabular}}}}%
+    \put(0.65643737,0.2547986){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{IDH}\end{tabular}}}}%
+    \put(0.64231644,0.29108067){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{acn}\end{tabular}}}}%
+    \put(0.57023659,0.31693592){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{CS}\end{tabular}}}}%
+    \put(0.50547962,0.33325685){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{MDH}\\(OA,dec)\end{tabular}}}}%
+    \put(0.48221238,0.28976504){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{MalDH}\end{tabular}}}}%
+    \put(0.47638785,0.25146659){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{fumC}\end{tabular}}}}%
+    \put(0.52916161,0.22556445){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{FRD}\end{tabular}}}}%
+    \put(0.5792352,0.19640557){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{SCS}\end{tabular}}}}%
+    \put(0.53580271,0.26126696){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{MalS}\end{tabular}}}}%
+    \put(0.61102359,0.27770383){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{ICL}\end{tabular}}}}%
+    \put(0.50398397,0.19527191){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{SDH}\end{tabular}}}}%
+    \put(0.40398356,0.23768638){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}AMP\end{tabular}}}}%
+    \put(0.45658277,0.21003113){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ATP\end{tabular}}}}%
+    \put(0.40452582,0.18346039){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ADP\end{tabular}}}}%
+    \put(0.38801858,0.21229938){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{pap}\end{tabular}}}}%
+    \put(0.42509648,0.21046775){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{adk}\end{tabular}}}}%
+    \put(0.48482641,0.15224927){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}QH2\end{tabular}}}}%
+    \put(0.52539902,0.15172421){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Q\end{tabular}}}}%
+    \put(0.43245872,0.15183404){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{ppk1}\end{tabular}}}}%
+    \put(0.35221974,0.25503219){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{ppx}\end{tabular}}}}%
+    \put(0.53729865,0.35211317){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{PyrS}\end{tabular}}}}%
+    \put(0.53458652,0.37476576){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{PDC}\end{tabular}}}}%
+    \put(0.54815051,0.39809775){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{acs}\end{tabular}}}}%
+    \put(0.60390625,0.40023052){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{ackA}\end{tabular}}}}%
+    \put(0.60703195,0.39032326){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{pta}\end{tabular}}}}%
+    \put(0.68205674,0.37578185){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{phaZ}\end{tabular}}}}%
+    \put(0.68538628,0.35785758){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{phaA}\end{tabular}}}}%
+    \put(0.68484821,0.34763354){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{phaB}\end{tabular}}}}%
+    \put(0.68471661,0.33819615){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{phaC}\end{tabular}}}}%
+    \put(0.73456046,0.27468799){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{phaA}\end{tabular}}}}%
+    \put(0.73416564,0.26534932){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{phaB}\end{tabular}}}}%
+    \put(0.73430328,0.25639092){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{phaC}\end{tabular}}}}%
+    \put(0.73420143,0.24679317){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{phaZ}\end{tabular}}}}%
+    \put(0.64805838,0.02979534){\color[rgb]{0,0,0}\rotatebox{-0.80204803}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}N2\end{tabular}}}}}%
+    \put(0.5818864,0.02028261){\color[rgb]{0,0,0}\rotatebox{4.806024}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}NO2-\end{tabular}}}}}%
+    \put(0.56171379,0.02239844){\color[rgb]{0,0,0}\rotatebox{7.9535913}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}H2O\end{tabular}}}}}%
+    \put(0.53733503,0.02333016){\color[rgb]{0,0,0}\rotatebox{13.05164469}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}O2\end{tabular}}}}}%
+    \put(0.52493194,0.02559067){\color[rgb]{0,0,0}\rotatebox{11.93395471}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}H+\end{tabular}}}}}%
+    \put(0.68788096,0.15063254){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Metil\\malonil\\CoA\end{tabular}}}}%
+    \put(0.70857845,0.17016956){\color[rgb]{0,0,0}\rotatebox{-53.003711}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}H+, Na+\end{tabular}}}}}%
+    \put(0.7501471,0.10914677){\color[rgb]{0,0,0}\rotatebox{-51.953293}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}H+, Na+\end{tabular}}}}}%
+    \put(0.44850908,0.0509052){\color[rgb]{0,0,0}\rotatebox{76.087856}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}H+\end{tabular}}}}}%
+    \put(0.47798293,0.09423544){\color[rgb]{0,0,0}\rotatebox{37.76544}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}NADH\end{tabular}}}}}%
+    \put(0.47148134,0.10067718){\color[rgb]{0,0,0}\rotatebox{63.842595}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Q\end{tabular}}}}}%
+    \put(0.46350912,0.10377092){\color[rgb]{0,0,0}\rotatebox{71.867878}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}H+\end{tabular}}}}}%
+    \put(0.45408138,0.10335144){\color[rgb]{0,0,0}\rotatebox{74.90425762}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}QH2\end{tabular}}}}}%
+    \put(0.44540962,0.10307551){\color[rgb]{0,0,0}\rotatebox{98.155146}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}NAD\end{tabular}}}}}%
+    \put(0.29162985,0.19728804){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}K+\end{tabular}}}}%
+    \put(0.30250559,0.19201555){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ca2+\end{tabular}}}}%
+    \put(0.32261562,0.19020974){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Mg2+\end{tabular}}}}%
+    \put(0.21898101,0.26991028){\color[rgb]{0,0,0}\rotatebox{9.5883359}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}H+\end{tabular}}}}}%
+    \put(0.22016026,0.26021143){\color[rgb]{0,0,0}\rotatebox{4.7514336}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}P\textbf{i}\end{tabular}}}}}%
+    \put(0.21655181,0.24347461){\color[rgb]{0,0,0}\rotatebox{9.5256619}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Mg2+\end{tabular}}}}}%
+    \put(0.28453913,0.27661541){\color[rgb]{0,0,0}\rotatebox{8.4048788}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}H+\end{tabular}}}}}%
+    \put(0.28531629,0.26636222){\color[rgb]{0,0,0}\rotatebox{7.11359}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}P\textbf{i}\end{tabular}}}}}%
+    \put(0.28426331,0.25197942){\color[rgb]{0,0,0}\rotatebox{10.100328}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Mg2+\end{tabular}}}}}%
+    \put(0.22390466,0.35918576){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}P\textbf{i}\end{tabular}}}}%
+    \put(0.29918802,0.3404595){\color[rgb]{0,0,0}\rotatebox{-13.134105}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}P\textbf{i}\end{tabular}}}}}%
+    \put(0.29373637,0.32667892){\color[rgb]{0,0,0}\rotatebox{-6.2665061}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ATP\end{tabular}}}}}%
+    \put(0.30061985,0.35348649){\color[rgb]{0,0,0}\rotatebox{-7.4306913}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ADP\end{tabular}}}}}%
+    \put(0.31232483,0.38706185){\color[rgb]{0,0,0}\rotatebox{-40.590926}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ADP\end{tabular}}}}}%
+    \put(0.32363039,0.39542468){\color[rgb]{0,0,0}\rotatebox{-47.325484}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}P\textbf{i}\end{tabular}}}}}%
+    \put(0.33104744,0.40252278){\color[rgb]{0,0,0}\rotatebox{-35.683076}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}H+, Na+\end{tabular}}}}}%
+    \put(0.34290143,0.41497883){\color[rgb]{0,0,0}\rotatebox{-28.836998}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ATP\end{tabular}}}}}%
+    \put(0.35899989,0.42569774){\color[rgb]{0,0,0}\rotatebox{-51.540559}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ADP\end{tabular}}}}}%
+    \put(0.37034541,0.43044589){\color[rgb]{0,0,0}\rotatebox{-49.384225}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}P\textbf{i}\end{tabular}}}}}%
+    \put(0.37741894,0.43773617){\color[rgb]{0,0,0}\rotatebox{-47.752646}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}H+\end{tabular}}}}}%
+    \put(0.39071486,0.44918306){\color[rgb]{0,0,0}\rotatebox{-35.753495}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ATP\end{tabular}}}}}%
+    \put(0.26108364,0.45257504){\color[rgb]{0,0,0}\rotatebox{-39.246776}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}H+, Na+\end{tabular}}}}}%
+    \put(0.62742248,0.44405843){\color[rgb]{0,0,0}\rotatebox{34.951662}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}H+, Na+\end{tabular}}}}}%
+    \put(0.32923029,0.48454746){\color[rgb]{0,0,0}\rotatebox{-51.23143}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}H+\end{tabular}}}}}%
+    \put(0.44155318,0.46976442){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Oligomeros\end{tabular}}}}%
+    \put(0.49300467,0.4398011){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Glucosa6P\end{tabular}}}}%
+    \put(0.49190722,0.40401238){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Fructosa6P\end{tabular}}}}%
+    \put(0.50974474,0.3838254){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}EMP\end{tabular}}}}%
+    \put(0.44167061,0.42850811){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Azúcares de\\nucleotidos\end{tabular}}}}%
+    \put(0.72845178,0.51294025){\color[rgb]{0,0,0}\rotatebox{25.640972}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}H+, Na+\end{tabular}}}}}%
+    \put(0.53256785,0.41015174){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}(alta afinidad)\end{tabular}}}}%
+    \put(0.59955177,0.41124997){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}(baja afinidad)\end{tabular}}}}%
+    \put(0.49428724,0.36389136){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Piruvato\end{tabular}}}}%
+    \put(0.56855939,0.36470962){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Acetil-CoA\end{tabular}}}}%
+    \put(0.51054869,0.42139792){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{GPI}\end{tabular}}}}%
+    \put(0.5190313,0.30152515){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Oxalacetato\end{tabular}}}}%
+    \put(0.60603867,0.30125817){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Citrato\end{tabular}}}}%
+    \put(0.63473899,0.2708938){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Isocitrato\end{tabular}}}}%
+    \put(0.62575976,0.23688383){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}α-cetoglutarato\end{tabular}}}}%
+    \put(0.49299304,0.27142973){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Malato\end{tabular}}}}%
+    \put(0.488366,0.23672695){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Fumarato\end{tabular}}}}%
+    \put(0.53868065,0.20825551){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Succinato\end{tabular}}}}%
+    \put(0.59998048,0.21177543){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Succinil-CoA\end{tabular}}}}%
+    \put(0.56672872,0.270891){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Glioxilato\end{tabular}}}}%
+    \put(0.55310497,0.29177504){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Acetil-CoA\end{tabular}}}}%
+    \put(0.71029339,0.22229703){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Propionil-CoA\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{MetabolismoPAOs.pdf}}%
+  \end{picture}%
+\endgroup%

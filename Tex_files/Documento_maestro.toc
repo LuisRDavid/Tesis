@@ -10,28 +10,33 @@
 \contentsline {section}{\numberline {1}Introducción}{1}{section.1}%
 \contentsline {section}{\numberline {2}Antecedentes}{2}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Aguas residuales}{2}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Características de las aguas residuales}{4}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.1}Características Físicas}{4}{subsubsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.2}Características Químicas}{5}{subsubsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.3}Muestreo}{5}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Límites máximos permisibles}{5}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}Tratamiento de aguas residuales}{5}{subsection.2.5}%
-\contentsline {subsubsection}{\numberline {2.5.1}Tratamientos biológicos}{5}{subsubsection.2.5.1}%
-\contentsline {subsection}{\numberline {2.6}Lodos Activados}{6}{subsection.2.6}%
-\contentsline {subsubsection}{\numberline {2.6.1}Organismos presentes en los lodos activados}{6}{subsubsection.2.6.1}%
-\contentsline {subsubsection}{\numberline {2.6.2}Flóculos}{6}{subsubsection.2.6.2}%
-\contentsline {subsubsection}{\numberline {2.6.3}Bulking filamentoso}{6}{subsubsection.2.6.3}%
-\contentsline {section}{\numberline {3}Planteamiento del problema}{7}{section.3}%
-\contentsline {section}{\numberline {4}Justficación}{8}{section.4}%
-\contentsline {section}{\numberline {5}Objetivos}{9}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Objetivo general}{9}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Objetivos particulares}{9}{subsection.5.2}%
-\contentsline {section}{\numberline {6}Materiales}{10}{section.6}%
-\contentsline {section}{\numberline {7}Resultados}{11}{section.7}%
-\contentsline {section}{\numberline {8}Discusión}{12}{section.8}%
-\contentsline {section}{\numberline {9}Conclusiones}{13}{section.9}%
-\contentsline {section}{\numberline {10}Perspectivas}{14}{section.10}%
-\contentsline {section}{Referencias}{15}{section*.2}%
-\contentsline {section}{Anexos}{I}{section*.3}%
-\contentsline {section}{Siglas}{XXII}{section*.10}%
-\contentsline {section}{Glosario}{XXIII}{section*.12}%
+\contentsline {subsection}{\numberline {2.2}Características de las aguas residuales}{6}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Características Físicas}{6}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Características Químicas}{7}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}Muestreo}{7}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Límites máximos permisibles}{7}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Tratamiento de aguas residuales}{7}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Tratamientos biológicos}{7}{subsubsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.6}Lodos Activados}{8}{subsection.2.6}%
+\contentsline {subsubsection}{\numberline {2.6.1}Organismos presentes en los lodos activados}{8}{subsubsection.2.6.1}%
+\contentsline {subsubsection}{\numberline {2.6.2}Flóculos}{8}{subsubsection.2.6.2}%
+\contentsline {subsubsection}{\numberline {2.6.3}Bulking filamentoso}{8}{subsubsection.2.6.3}%
+\contentsline {subsection}{\numberline {2.7}Modelos matemáticos en el proceso de lodos activados}{8}{subsection.2.7}%
+\contentsline {subsubsection}{\numberline {2.7.1}Modelo de Monod}{8}{subsubsection.2.7.1}%
+\contentsline {subsubsection}{\numberline {2.7.2}Modelo de Arrhenius}{8}{subsubsection.2.7.2}%
+\contentsline {subsection}{\numberline {2.8}Planta tratadora de aguas residuales municipal de Lagos de Moreno}{8}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}MATLAB®}{8}{subsection.2.9}%
+\contentsline {section}{\numberline {3}Planteamiento del problema}{9}{section.3}%
+\contentsline {section}{\numberline {4}Justficación}{10}{section.4}%
+\contentsline {section}{\numberline {5}Objetivos}{11}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Objetivo general}{11}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Objetivos particulares}{11}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Materiales}{12}{section.6}%
+\contentsline {section}{\numberline {7}Resultados}{13}{section.7}%
+\contentsline {section}{\numberline {8}Discusión}{14}{section.8}%
+\contentsline {section}{\numberline {9}Conclusiones}{15}{section.9}%
+\contentsline {section}{\numberline {10}Perspectivas}{16}{section.10}%
+\contentsline {section}{Referencias}{17}{section*.5}%
+\contentsline {section}{Anexos}{I}{section*.6}%
+\contentsline {section}{Siglas}{XXII}{section*.13}%
+\contentsline {section}{Glosario}{XXIII}{section*.15}%
