@@ -1,74 +1,62 @@
-This is BibTeX, Version 0.99d
+This is BibTeX, Version 0.99d (TeX Live 2023)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Documento_maestro.aux
-Reallocating 'name_of_file' (item size: 1) to 12 items.
 A level-1 auxiliary file: Portada.aux
-Reallocating 'name_of_file' (item size: 1) to 12 items.
+A level-1 auxiliary file: Dedicatoria.aux
+A level-1 auxiliary file: Agradecimientos.aux
 A level-1 auxiliary file: Resumen.aux
-Reallocating 'name_of_file' (item size: 1) to 17 items.
+A level-1 auxiliary file: Abstract.aux
 A level-1 auxiliary file: Introduccion.aux
-Reallocating 'name_of_file' (item size: 1) to 17 items.
 A level-1 auxiliary file: Antecedentes.aux
-Reallocating 'name_of_file' (item size: 1) to 18 items.
 A level-1 auxiliary file: Planteamiento.aux
-Reallocating 'name_of_file' (item size: 1) to 18 items.
 A level-1 auxiliary file: Justificacion.aux
-Reallocating 'name_of_file' (item size: 1) to 14 items.
 A level-1 auxiliary file: Objetivos.aux
-Reallocating 'name_of_file' (item size: 1) to 15 items.
 A level-1 auxiliary file: Materiales.aux
-Reallocating 'name_of_file' (item size: 1) to 15 items.
 A level-1 auxiliary file: Resultados.aux
-Reallocating 'name_of_file' (item size: 1) to 14 items.
 A level-1 auxiliary file: Discusion.aux
-Reallocating 'name_of_file' (item size: 1) to 17 items.
 A level-1 auxiliary file: Conclusiones.aux
-Reallocating 'name_of_file' (item size: 1) to 17 items.
 A level-1 auxiliary file: Perspectivas.aux
-Reallocating 'name_of_file' (item size: 1) to 8 items.
 The style file: apalike.bst
-Reallocating 'name_of_file' (item size: 1) to 31 items.
-Reallocating 'name_of_file' (item size: 1) to 11 items.
 A level-1 auxiliary file: Anexos.aux
 Database file #1: ../Bibliography/References.bib
-You've used 12 entries,
+You've used 13 entries,
             1935 wiz_defined-function locations,
-            566 strings with 6436 characters,
-and the built_in function-call counts, 3596 in all, are:
-= -- 348
-> -- 118
+            569 strings with 6878 characters,
+and the built_in function-call counts, 3941 in all, are:
+= -- 381
+> -- 136
 < -- 11
-+ -- 36
-- -- 36
-* -- 252
-:= -- 675
-add.period$ -- 41
-call.type$ -- 12
-change.case$ -- 75
-chr.to.int$ -- 12
-cite$ -- 12
-duplicate$ -- 162
-empty$ -- 259
-format.name$ -- 52
-if$ -- 692
++ -- 42
+- -- 42
+* -- 279
+:= -- 741
+add.period$ -- 45
+call.type$ -- 13
+change.case$ -- 83
+chr.to.int$ -- 13
+cite$ -- 13
+duplicate$ -- 175
+empty$ -- 279
+format.name$ -- 59
+if$ -- 756
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 16
-newline$ -- 67
-num.names$ -- 36
-pop$ -- 72
+missing$ -- 17
+newline$ -- 73
+num.names$ -- 39
+pop$ -- 79
 preamble$ -- 1
-purify$ -- 78
+purify$ -- 86
 quote$ -- 0
-skip$ -- 125
+skip$ -- 135
 stack$ -- 0
-substring$ -- 144
-swap$ -- 15
+substring$ -- 156
+swap$ -- 16
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 60
+type$ -- 66
 warning$ -- 0
-while$ -- 24
+while$ -- 26
 width$ -- 0
-write$ -- 163
+write$ -- 177

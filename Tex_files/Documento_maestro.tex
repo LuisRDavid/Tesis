@@ -16,6 +16,7 @@
 \usepackage{float}
 \usepackage{graphicx}
 \usepackage{fancyhdr}
+\usepackage{tablefootnote}
 \usepackage{indentfirst}
 \usepackage{fontenc}
 \usepackage[T1]{fontenc}
@@ -62,6 +63,14 @@
 	\renewcommand{\footrulewidth}{0.4pt}
 }
 
+\fancypagestyle{Abstract}{%
+	\fancyhf{}% clear all header and footer fields
+	\fancyhead[R]{{ABSTRACT}}
+	\fancyfoot[R]{\thepage}
+	\renewcommand{\headrulewidth}{0.4pt}
+	\renewcommand{\footrulewidth}{0.4pt}
+}
+
 \pagestyle{fancy}
 \fancyhf{}
 \fancyhead[R]{\uppercase{\hfill\leftmark}}
@@ -79,8 +88,11 @@
 }
 
 \titleformat*{\section}{\fontsize{14pt}{0pt}\selectfont}
+\renewcommand*\thesection{\Roman{section}}
 \titleformat*{\subsection}{\fontsize{12pt}{0pt}\selectfont\bfseries}
+\renewcommand*\thesubsection{\arabic{section}.\arabic{subsection}}
 \titleformat*{\subsubsection}{\fontsize{12pt}{0pt}\selectfont\bfseries}
+\renewcommand*\thesubsubsection{\arabic{section}.\arabic{subsection}.\arabic{subsubsection}}
 
 \input{Glosario}
 
@@ -90,6 +102,10 @@
 		\include{Portada}
 	\end{titlepage}
 	\selectlanguage{spanish}
+	\thispagestyle{empty}
+	\include{Dedicatoria}
+	\thispagestyle{empty}
+	\include{Agradecimientos}
 	\thispagestyle{empty}
 	\tableofcontents
 	\thispagestyle{empty}
@@ -104,6 +120,8 @@
 	\clearpage
 	\thispagestyle{Resumen}
 	\include{Resumen}
+	\thispagestyle{Abstract}
+	\include{Abstract}
 	\addtocounter{page}{1}
  	\pagenumbering{arabic}
 	\include{Introduccion}

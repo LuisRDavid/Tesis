@@ -15,6 +15,10 @@
 \glsgroupheading{M}\relax \glsresetentrylist %
 \glossentry{mo}{\glossaryentrynumbers{\relax 
 		\glsseeformat[Glosario:]{gls-mo}{Z}}}\glsgroupskip
+\glsgroupheading{N}\relax \glsresetentrylist %
+\glossentry{NOM}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{2}\delimN 
+		\glsseeformat[Glosario:]{gls-NOM}{Z}}}\glsgroupskip
 \glsgroupheading{P}\relax \glsresetentrylist %
 \glossentry{pH}{\glossaryentrynumbers{\relax 
 		\glsseeformat[Glosario:]{gls-pH}{Z}}}%
@@ -22,6 +26,7 @@
 		\glsseeformat[Glosario:]{gls-PTAR}{Z}}}\glsgroupskip
 \glsgroupheading{R}\relax \glsresetentrylist %
 \glossentry{RHA}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{2}\delimN 
 		\glsseeformat[Glosario:]{gls-RHA}{Z}}}\glsgroupskip
 \glsgroupheading{S}\relax \glsresetentrylist %
 \glossentry{SST}{\glossaryentrynumbers{\relax 

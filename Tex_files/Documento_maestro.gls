@@ -7,7 +7,7 @@
 		\setentrycounter[]{page}\glsnumberformat{XXII}}}\glsgroupskip
 \glsgroupheading{E}\relax \glsresetentrylist %
 \glossentry{efluente}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{3}}}%
+		\setentrycounter[]{page}\glsnumberformat{4}}}%
 \glossentry{gls-ECA}{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{2}\delimN 
 		\setentrycounter[]{page}\glsnumberformat{XXII}}}\glsgroupskip
@@ -16,14 +16,19 @@
 		\setentrycounter[]{page}\glsnumberformat{XXIV}}}%
 \glossentry{gls-mo}{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{XXII}}}\glsgroupskip
+\glsgroupheading{N}\relax \glsresetentrylist %
+\glossentry{gls-NOM}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{2}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{XXII}}}\glsgroupskip
 \glsgroupheading{P}\relax \glsresetentrylist %
 \glossentry{gls-PTAR}{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{XXII}}}%
 \glossentry{gls-pH}{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{XXII}}}\glsgroupskip
 \glsgroupheading{R}\relax \glsresetentrylist %
-\glossentry{reghidr}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{2}}}\glsgroupskip
+\glossentry{gls-RHA}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{2}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{XXII}}}\glsgroupskip
 \glsgroupheading{S}\relax \glsresetentrylist %
 \glossentry{gls-SST}{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{XXII}}}%
