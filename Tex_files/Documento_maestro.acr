@@ -12,6 +12,10 @@
 \glossentry{ECA}{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{2}\delimN 
 		\glsseeformat[Glosario:]{gls-ECA}{Z}}}\glsgroupskip
+\glsgroupheading{I}\relax \glsresetentrylist %
+\glossentry{INEGI}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{5}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{19}}}\glsgroupskip
 \glsgroupheading{M}\relax \glsresetentrylist %
 \glossentry{mo}{\glossaryentrynumbers{\relax 
 		\glsseeformat[Glosario:]{gls-mo}{Z}}}\glsgroupskip

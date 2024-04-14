@@ -1,62 +1,91 @@
-This is BibTeX, Version 0.99d (TeX Live 2023)
+This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Documento_maestro.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
 A level-1 auxiliary file: Portada.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
 A level-1 auxiliary file: Dedicatoria.aux
+Reallocating 'name_of_file' (item size: 1) to 20 items.
 A level-1 auxiliary file: Agradecimientos.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
 A level-1 auxiliary file: Resumen.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
 A level-1 auxiliary file: Abstract.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
 A level-1 auxiliary file: Introduccion.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
 A level-1 auxiliary file: Antecedentes.aux
+Reallocating 'name_of_file' (item size: 1) to 18 items.
 A level-1 auxiliary file: Planteamiento.aux
+Reallocating 'name_of_file' (item size: 1) to 18 items.
 A level-1 auxiliary file: Justificacion.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
 A level-1 auxiliary file: Objetivos.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
 A level-1 auxiliary file: Materiales.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
 A level-1 auxiliary file: Resultados.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
 A level-1 auxiliary file: Discusion.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
 A level-1 auxiliary file: Conclusiones.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
 A level-1 auxiliary file: Perspectivas.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
 The style file: apalike.bst
+Reallocating 'name_of_file' (item size: 1) to 31 items.
+Reallocating 'name_of_file' (item size: 1) to 11 items.
 A level-1 auxiliary file: Anexos.aux
 Database file #1: ../Bibliography/References.bib
-You've used 13 entries,
+Warning--entry type for "Maps" isn't style-file defined
+--line 773 of file ../Bibliography/References.bib
+Warning--entry type for "aquafish" isn't style-file defined
+--line 791 of file ../Bibliography/References.bib
+Warning--entry type for "Wiggens" isn't style-file defined
+--line 807 of file ../Bibliography/References.bib
+Warning--entry type for "Lobov" isn't style-file defined
+--line 823 of file ../Bibliography/References.bib
+Warning--empty journal in MSASA
+Warning--empty journal in ODS23
+You've used 31 entries,
             1935 wiz_defined-function locations,
-            569 strings with 6878 characters,
-and the built_in function-call counts, 3941 in all, are:
-= -- 381
-> -- 136
-< -- 11
-+ -- 42
-- -- 42
-* -- 279
-:= -- 741
-add.period$ -- 45
-call.type$ -- 13
-change.case$ -- 83
-chr.to.int$ -- 13
-cite$ -- 13
-duplicate$ -- 175
-empty$ -- 279
-format.name$ -- 59
-if$ -- 756
+            678 strings with 10311 characters,
+and the built_in function-call counts, 9500 in all, are:
+= -- 916
+> -- 343
+< -- 27
++ -- 108
+- -- 108
+* -- 695
+:= -- 1775
+add.period$ -- 99
+call.type$ -- 31
+change.case$ -- 201
+chr.to.int$ -- 31
+cite$ -- 33
+duplicate$ -- 408
+empty$ -- 666
+format.name$ -- 147
+if$ -- 1814
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 17
-newline$ -- 73
-num.names$ -- 39
-pop$ -- 79
+missing$ -- 36
+newline$ -- 162
+num.names$ -- 93
+pop$ -- 194
 preamble$ -- 1
-purify$ -- 86
+purify$ -- 209
 quote$ -- 0
-skip$ -- 135
+skip$ -- 312
 stack$ -- 0
-substring$ -- 156
-swap$ -- 16
-text.length$ -- 1
+substring$ -- 428
+swap$ -- 30
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 66
-warning$ -- 0
-while$ -- 26
+type$ -- 162
+warning$ -- 2
+while$ -- 66
 width$ -- 0
-write$ -- 177
+write$ -- 399
+(There were 6 warnings)

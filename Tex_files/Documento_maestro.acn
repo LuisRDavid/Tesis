@@ -4,6 +4,8 @@
 \glossaryentry{SST?\glossentry{SST}|glsseeformat[Glosario:]{gls-SST}}{Z}
 \glossaryentry{VUO?\glossentry{VUO}|glsseeformat[Glosario:]{gls-VUO}}{Z}
 \glossaryentry{PTAR?\glossentry{PTAR}|glsseeformat[Glosario:]{gls-PTAR}}{Z}
+\glossaryentry{SDT?\glossentry{SDT}|glsseeformat[Glosario:]{gls-SDT}}{Z}
+\glossaryentry{EC?\glossentry{EC}|glsseeformat[Glosario:]{gls-EC}}{Z}
 \glossaryentry{pH?\glossentry{pH}|glsseeformat[Glosario:]{gls-pH}}{Z}
 \glossaryentry{MO?\glossentry{mo}|glsseeformat[Glosario:]{gls-mo}}{Z}
 \glossaryentry{ECA?\glossentry{ECA}|glsseeformat[Glosario:]{gls-ECA}}{Z}
@@ -13,4 +15,10 @@
 \glossaryentry{Conagua?\glossentry{CONAGUA}|setentrycounter[]{page}"\glsnumberformat}{2}
 \glossaryentry{ECA?\glossentry{ECA}|setentrycounter[]{page}"\glsnumberformat}{2}
 \glossaryentry{RHA?\glossentry{RHA}|setentrycounter[]{page}"\glsnumberformat}{2}
-\glossaryentry{NOM?\glossentry{NOM}|setentrycounter[]{page}"\glsnumberformat}{2}
+\glossaryentry{NOM?\glossentry{NOM}|setentrycounter[]{page}"\glsnumberformat}{3}
+\glossaryentry{INEGI?\glossentry{INEGI}|setentrycounter[]{page}"\glsnumberformat}{6}
+\glossaryentry{SDT?\glossentry{SDT}|setentrycounter[]{page}"\glsnumberformat}{16}
+\glossaryentry{EC?\glossentry{EC}|setentrycounter[]{page}"\glsnumberformat}{22}
+\glossaryentry{SDT?\glossentry{SDT}|setentrycounter[]{page}"\glsnumberformat}{23}
+\glossaryentry{EC?\glossentry{EC}|setentrycounter[]{page}"\glsnumberformat}{23}
+\glossaryentry{SDT?\glossentry{SDT}|setentrycounter[]{page}"\glsnumberformat}{23}

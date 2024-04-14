@@ -1,0 +1,6989 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.97601596900606,
+          21.25172492299925
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "109",
+        "nombre": "LA MESA LARGA",
+        "nume_hab": 0,
+        "cve_loc": "0422",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363924",
+        "objectid": 23917
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8419486920044,
+          21.251224737999507
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LAS TORTUGAS",
+        "nume_hab": 52,
+        "cve_loc": "0404",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363925",
+        "objectid": 23918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.67555555400287,
+          21.251666676999694
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "020",
+        "nombre": "SAN FERNANDO",
+        "nume_hab": 12,
+        "cve_loc": "0629",
+        "cve_edo": "11",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363926",
+        "objectid": 23919
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.79250000000387,
+          21.25388889199958
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "JARAMILLO DE ABAJO",
+        "nume_hab": 30,
+        "cve_loc": "0101",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363927",
+        "objectid": 23920
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.94724556900566,
+          21.2558368769993
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "109",
+        "nombre": "SAN ÁNGEL",
+        "nume_hab": 2,
+        "cve_loc": "0088",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363928",
+        "objectid": 23921
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.75889004600351,
+          21.255895414999603
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "020",
+        "nombre": "SAN JOSÉ DEL CARMEN",
+        "nume_hab": 12,
+        "cve_loc": "1225",
+        "cve_edo": "11",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363929",
+        "objectid": 23922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.94861110800571,
+          21.259166676999314
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL TERRENITO",
+        "nume_hab": 0,
+        "cve_loc": "0834",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363930",
+        "objectid": 23923
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7169444460032,
+          21.26027778499967
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "020",
+        "nombre": "SAN ANTONIO DE PADUA",
+        "nume_hab": 151,
+        "cve_loc": "1218",
+        "cve_edo": "11",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363931",
+        "objectid": 23924
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7627158770036,
+          21.261485445999575
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA ATARJEA",
+        "nume_hab": 16,
+        "cve_loc": "0334",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363932",
+        "objectid": 23925
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8870933850049,
+          21.26267346199943
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "PAREDONES",
+        "nume_hab": 6,
+        "cve_loc": "0165",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363933",
+        "objectid": 23926
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.80258541500399,
+          21.26270916899955
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LOMAS DE JARAMILLO DE ABAJO",
+        "nume_hab": 34,
+        "cve_loc": "0754",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363934",
+        "objectid": 23927
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9444444460056,
+          21.263055553999333
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "CARRIL DE SAN ÁNGEL",
+        "nume_hab": 6,
+        "cve_loc": "0705",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363935",
+        "objectid": 23928
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8258478620042,
+          21.26342873799953
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL RODEO",
+        "nume_hab": 0,
+        "cve_loc": "0912",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363936",
+        "objectid": 23929
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.96333332300587,
+          21.263611107999314
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "109",
+        "nombre": "LA CONCHA",
+        "nume_hab": 0,
+        "cve_loc": "0404",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363937",
+        "objectid": 23930
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.94700335400566,
+          21.26337124599934
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL RODEO",
+        "nume_hab": 59,
+        "cve_loc": "0803",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363938",
+        "objectid": 23931
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.78916667700386,
+          21.266388891999576
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA ESTANCIA",
+        "nume_hab": 6,
+        "cve_loc": "0419",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363939",
+        "objectid": 23932
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.69638889200306,
+          21.26638889199967
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "020",
+        "nombre": "LA ANGOSTURA",
+        "nume_hab": 93,
+        "cve_loc": "1091",
+        "cve_edo": "11",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363940",
+        "objectid": 23933
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.87250000000473,
+          21.266666676999428
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL CARMEN",
+        "nume_hab": 3,
+        "cve_loc": "0040",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363941",
+        "objectid": 23934
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8611111080046,
+          21.26805555399946
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "POTRERILLOS",
+        "nume_hab": 32,
+        "cve_loc": "0179",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363942",
+        "objectid": 43477
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.97750000000612,
+          21.269166676999248
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "109",
+        "nombre": "LA TORRE",
+        "nume_hab": 0,
+        "cve_loc": "0456",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363943",
+        "objectid": 43478
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8702777850047,
+          21.269722214999454
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "GUANAJUATILLO",
+        "nume_hab": 9,
+        "cve_loc": "0090",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363944",
+        "objectid": 43479
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7083333230031,
+          21.270555553999657
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "020",
+        "nombre": "LA MESA DE EN MEDIO",
+        "nume_hab": 0,
+        "cve_loc": "1175",
+        "cve_edo": "11",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363945",
+        "objectid": 43480
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.75777778500353,
+          21.271944445999626
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL MOJINO",
+        "nume_hab": 5,
+        "cve_loc": "0910",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363946",
+        "objectid": 43481
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.82555555400421,
+          21.272222214999516
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL CHUMACUERO",
+        "nume_hab": 0,
+        "cve_loc": "0737",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363947",
+        "objectid": 43482
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.80694444600401,
+          21.272222214999537
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "CANOAS",
+        "nume_hab": 107,
+        "cve_loc": "0034",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363948",
+        "objectid": 43483
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.74916667700349,
+          21.272222214999605
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LAS TINAJAS",
+        "nume_hab": 0,
+        "cve_loc": "0307",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363949",
+        "objectid": 43484
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.90055555400507,
+          21.27333332299937
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA COTIJA",
+        "nume_hab": 1,
+        "cve_loc": "0061",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363950",
+        "objectid": 43551
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.82000000000414,
+          21.27361110799954
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA HACIENDITA",
+        "nume_hab": 3,
+        "cve_loc": "0739",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363951",
+        "objectid": 43552
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.73833332300339,
+          21.27361110799964
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "CASILLAS",
+        "nume_hab": 8,
+        "cve_loc": "0340",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363952",
+        "objectid": 43553
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.99255838500632,
+          21.273878291999235
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "109",
+        "nombre": "LA TRINIDAD",
+        "nume_hab": 167,
+        "cve_loc": "0472",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363953",
+        "objectid": 43554
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7066666770031,
+          21.273888891999658
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "020",
+        "nombre": "LA VETA",
+        "nume_hab": 16,
+        "cve_loc": "1239",
+        "cve_edo": "11",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363954",
+        "objectid": 43555
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.70888889200315,
+          21.274444445999674
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "020",
+        "nombre": "LOS CARRIZOS",
+        "nume_hab": 5,
+        "cve_loc": "1104",
+        "cve_edo": "11",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363955",
+        "objectid": 43556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.99889918500645,
+          21.2766091689992
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "PASO DE LA MESA",
+        "nume_hab": 315,
+        "cve_loc": "0166",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363956",
+        "objectid": 43557
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7172222150032,
+          21.27666667699963
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "020",
+        "nombre": "LA MESA DE JUAN GRANDE",
+        "nume_hab": 0,
+        "cve_loc": "1176",
+        "cve_edo": "11",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363957",
+        "objectid": 43558
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.92222221500533,
+          21.277222214999362
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL PARIÁN",
+        "nume_hab": 0,
+        "cve_loc": "0369",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363958",
+        "objectid": 43559
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.72722221500327,
+          21.27722221499963
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "020",
+        "nombre": "EL DURAZNO",
+        "nume_hab": 80,
+        "cve_loc": "1120",
+        "cve_edo": "11",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363959",
+        "objectid": 43560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8350000000043,
+          21.277499999999474
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "DON JOSÉ",
+        "nume_hab": 0,
+        "cve_loc": "0736",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363960",
+        "objectid": 43561
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.83888889200435,
+          21.277777784999508
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LOS PÉREZ",
+        "nume_hab": 11,
+        "cve_loc": "0776",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363961",
+        "objectid": 43562
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.91111110800522,
+          21.279722214999378
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SAN FRANCISCO DE LOS ROMANES",
+        "nume_hab": 144,
+        "cve_loc": "0234",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363962",
+        "objectid": 43563
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.83361110800433,
+          21.279722214999484
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "VILLAS ECOLÓGICAS LOS NARDOS (LOS NARDOS)",
+        "nume_hab": 13,
+        "cve_loc": "0766",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363963",
+        "objectid": 43564
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.93750000000557,
+          21.281666676999315
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "RANCHO SECO",
+        "nume_hab": 0,
+        "cve_loc": "0798",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363964",
+        "objectid": 43565
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.84583332300447,
+          21.28416667699946
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL TEPAME",
+        "nume_hab": 4,
+        "cve_loc": "0833",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363965",
+        "objectid": 43566
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.85416667700457,
+          21.287499999999497
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL ENCINO",
+        "nume_hab": 6,
+        "cve_loc": "0723",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363966",
+        "objectid": 43567
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.84611110800445,
+          21.287499999999508
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "RANCHO LA POSTA",
+        "nume_hab": 2,
+        "cve_loc": "0687",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363967",
+        "objectid": 43568
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.85166667700454,
+          21.28777778499948
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA ERMITA",
+        "nume_hab": 10,
+        "cve_loc": "0857",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363968",
+        "objectid": 43569
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.87944444600483,
+          21.28833332299945
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "RANCHO SECO",
+        "nume_hab": 1,
+        "cve_loc": "0797",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363969",
+        "objectid": 43570
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.93055555400551,
+          21.288611107999355
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "CERRO PRIETO",
+        "nume_hab": 16,
+        "cve_loc": "0709",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363970",
+        "objectid": 43571
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.81472221500414,
+          21.289166676999557
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "CHERO",
+        "nume_hab": 24,
+        "cve_loc": "0070",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363971",
+        "objectid": 43572
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.78777778500387,
+          21.289722214999546
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "JARAMILLO DE ARRIBA",
+        "nume_hab": 11,
+        "cve_loc": "0102",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363972",
+        "objectid": 43573
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.99833332300645,
+          21.29194444599922
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL CIRCO",
+        "nume_hab": 80,
+        "cve_loc": "0053",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363973",
+        "objectid": 43574
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.6813888920029,
+          21.292777784999682
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "PIEDRAS DE AMOLAR (EL PARAÍSO)",
+        "nume_hab": 0,
+        "cve_loc": "0372",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363974",
+        "objectid": 43575
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.73305555400333,
+          21.29333332299964
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA SIERRITA",
+        "nume_hab": 0,
+        "cve_loc": "0911",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363975",
+        "objectid": 43576
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.85388889200455,
+          21.293888891999462
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "CALABACILLAS",
+        "nume_hab": 5,
+        "cve_loc": "0541",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363976",
+        "objectid": 43577
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.66888889200283,
+          21.29361110799968
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LAS HUERTAS",
+        "nume_hab": 58,
+        "cve_loc": "0446",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363977",
+        "objectid": 43578
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.99194444600636,
+          21.295277784999232
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL MOLINO DE NAZAS (EL MOLINO)",
+        "nume_hab": 47,
+        "cve_loc": "0142",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363978",
+        "objectid": 43579
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.74444444600344,
+          21.30027778499961
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL GUAJOLOTE",
+        "nume_hab": 0,
+        "cve_loc": "0909",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363979",
+        "objectid": 43580
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.87888889200487,
+          21.302777784999428
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "RANCHO NUEVO",
+        "nume_hab": 0,
+        "cve_loc": "0200",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363980",
+        "objectid": 43581
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.69968187700306,
+          21.302386368999638
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LOS CERRITOS",
+        "nume_hab": 37,
+        "cve_loc": "0920",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363981",
+        "objectid": 43582
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.71805555400323,
+          21.303055553999666
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "RENTERÍA",
+        "nume_hab": 11,
+        "cve_loc": "0863",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363982",
+        "objectid": 43583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8477777850045,
+          21.30333332299949
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL TIGRE",
+        "nume_hab": 1,
+        "cve_loc": "0401",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363983",
+        "objectid": 43584
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.92097441500538,
+          21.304877907999348
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA SANTÍSIMA",
+        "nume_hab": 16,
+        "cve_loc": "0393",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363984",
+        "objectid": 43585
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7272222150033,
+          21.30555555399965
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LOS LLANITOS",
+        "nume_hab": 10,
+        "cve_loc": "0124",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363985",
+        "objectid": 43586
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.70805555400315,
+          21.30555555399967
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA CIÉNEGA",
+        "nume_hab": 22,
+        "cve_loc": "0622",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363986",
+        "objectid": 43587
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.96916667700602,
+          21.306111107999264
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SANTA EMILIA",
+        "nume_hab": 11,
+        "cve_loc": "0273",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363987",
+        "objectid": 43588
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.94751353800575,
+          21.306214768999336
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "TAMPICO",
+        "nume_hab": 97,
+        "cve_loc": "0301",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363988",
+        "objectid": 43589
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.96305555400595,
+          21.30638889199926
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL ROCÍO",
+        "nume_hab": 0,
+        "cve_loc": "0490",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363989",
+        "objectid": 43590
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.689444446003,
+          21.306944445999655
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA LABOR",
+        "nume_hab": 12,
+        "cve_loc": "0458",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363990",
+        "objectid": 43591
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.99944444600649,
+          21.307499999999223
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA PEÑA",
+        "nume_hab": 2,
+        "cve_loc": "0605",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363991",
+        "objectid": 43592
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.98861110800632,
+          21.307777784999228
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA BARRANCA DEL REFUGIO",
+        "nume_hab": 36,
+        "cve_loc": "0024",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363992",
+        "objectid": 43593
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.90694444600521,
+          21.309444445999382
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LABOR DE MONTEGRANDE (LABOR DE LOS ENRIQUEZ)",
+        "nume_hab": 24,
+        "cve_loc": "0749",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363993",
+        "objectid": 43689
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.96027778500596,
+          21.31055555399932
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA FLORIDA",
+        "nume_hab": 19,
+        "cve_loc": "0084",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363994",
+        "objectid": 43690
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.90160572300513,
+          21.31134475399941
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LOS OLMOS",
+        "nume_hab": 0,
+        "cve_loc": "0770",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363995",
+        "objectid": 43691
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.69398844600303,
+          21.31154767699969
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LOS TANQUES DEL REFUGIO",
+        "nume_hab": 1,
+        "cve_loc": "0832",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363996",
+        "objectid": 43692
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.99712623100645,
+          21.311709153999256
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "JARITAS",
+        "nume_hab": 365,
+        "cve_loc": "0103",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363997",
+        "objectid": 43693
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.97138889200608,
+          21.31166667699928
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA MARIMBA",
+        "nume_hab": 0,
+        "cve_loc": "0131",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363998",
+        "objectid": 43694
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.965555554006,
+          21.312777784999263
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LOMA DE PRADOS",
+        "nume_hab": 84,
+        "cve_loc": "0121",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11363999",
+        "objectid": 43695
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.87861110800483,
+          21.313611107999414
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "RANCHO MAR",
+        "nume_hab": 0,
+        "cve_loc": "0897",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364000",
+        "objectid": 43696
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.89194444600506,
+          21.313888891999433
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA LADERA",
+        "nume_hab": 4,
+        "cve_loc": "0483",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364001",
+        "objectid": 43697
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.91000000000528,
+          21.314166676999392
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "MONTE ALTO",
+        "nume_hab": 4,
+        "cve_loc": "0765",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364002",
+        "objectid": 43698
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.87361110800478,
+          21.314166676999445
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL TERREMOTO",
+        "nume_hab": 0,
+        "cve_loc": "0691",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364003",
+        "objectid": 43699
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.84194444600445,
+          21.31444444599947
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "CASTELONGO",
+        "nume_hab": 4,
+        "cve_loc": "0891",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364004",
+        "objectid": 43700
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.95944444600593,
+          21.31527778499927
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "NAZAS",
+        "nume_hab": 0,
+        "cve_loc": "0484",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364005",
+        "objectid": 43701
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9805555540062,
+          21.316944445999237
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "BAJÍO DE ÁLVAREZ",
+        "nume_hab": 15,
+        "cve_loc": "0022",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364006",
+        "objectid": 43702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.685555554003,
+          21.316944445999653
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL PINO",
+        "nume_hab": 10,
+        "cve_loc": "0777",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364007",
+        "objectid": 43703
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.92624972300548,
+          21.31782916899935
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SAN AGUSTÍN (SAN AGUSTÍN DE LOS ROMANES)",
+        "nume_hab": 2,
+        "cve_loc": "0221",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364008",
+        "objectid": 43704
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.69444444600303,
+          21.318333322999656
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LOS GORRIONES",
+        "nume_hab": 5,
+        "cve_loc": "0735",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364009",
+        "objectid": 43705
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.67194444600287,
+          21.31861110799972
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "MAGUEYES",
+        "nume_hab": 0,
+        "cve_loc": "0007",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364010",
+        "objectid": 43706
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.76659875400365,
+          21.319343753999576
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SANTA ELENA",
+        "nume_hab": 0,
+        "cve_loc": "0272",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364011",
+        "objectid": 43707
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.73527778500339,
+          21.319722214999647
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "AGUA AZUL",
+        "nume_hab": 6,
+        "cve_loc": "0619",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364012",
+        "objectid": 43708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.74856872300352,
+          21.32026055399962
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LOS ALAMBRES (EJIDO SANTA ELENA)",
+        "nume_hab": 147,
+        "cve_loc": "0328",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364013",
+        "objectid": 43709
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.95944444600595,
+          21.322222214999307
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL DURAZNO",
+        "nume_hab": 9,
+        "cve_loc": "0077",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364014",
+        "objectid": 43710
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.98750000000635,
+          21.323611107999273
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SAN PEDRO",
+        "nume_hab": 46,
+        "cve_loc": "0261",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364015",
+        "objectid": 43711
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.96527778500601,
+          21.323611107999312
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LOMA DE ESPINOSA",
+        "nume_hab": 14,
+        "cve_loc": "0119",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364016",
+        "objectid": 43712
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.68000000000295,
+          21.323333322999662
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "CERRO COLORADO",
+        "nume_hab": 3,
+        "cve_loc": "0708",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364017",
+        "objectid": 43713
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.68333332300297,
+          21.325277784999706
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "FRACCIÓN SANTIAGO",
+        "nume_hab": 0,
+        "cve_loc": "0624",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364018",
+        "objectid": 43714
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.89527778500509,
+          21.325833322999394
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "ALTO DE MOYA",
+        "nume_hab": 25,
+        "cve_loc": "0145",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364019",
+        "objectid": 43715
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.90980070800525,
+          21.326081061999396
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "RANCHO LOS CERRITOS",
+        "nume_hab": 0,
+        "cve_loc": "0794",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364020",
+        "objectid": 43716
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.99983140000654,
+          21.326648184999236
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LOS CHÍCHAROS",
+        "nume_hab": 127,
+        "cve_loc": "0672",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364021",
+        "objectid": 43717
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.74416667700349,
+          21.3266666769996
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EJIDO SANTA ELENA",
+        "nume_hab": 0,
+        "cve_loc": "0908",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364022",
+        "objectid": 43718
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.91638889200534,
+          21.328333322999363
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LOMITA ALTA (MONTE GRANDE)",
+        "nume_hab": 0,
+        "cve_loc": "0859",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364023",
+        "objectid": 43719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.91055555400527,
+          21.328611107999407
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LAS ALFALFAS",
+        "nume_hab": 114,
+        "cve_loc": "0006",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364024",
+        "objectid": 43720
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.99194444600641,
+          21.329444445999258
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL ALTO DE SAN PEDRO",
+        "nume_hab": 10,
+        "cve_loc": "0665",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364025",
+        "objectid": 43721
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.92611110800547,
+          21.32944444599939
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SANTA CRUZ",
+        "nume_hab": 71,
+        "cve_loc": "0820",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364026",
+        "objectid": 43722
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.87388889200484,
+          21.32972221499945
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SAN RAFAEL",
+        "nume_hab": 46,
+        "cve_loc": "0265",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364027",
+        "objectid": 43723
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.89722221500512,
+          21.3316666769994
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LAS ARBOLEDAS",
+        "nume_hab": 8,
+        "cve_loc": "0740",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364028",
+        "objectid": 43724
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.97943781500621,
+          21.33240413799927
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LOS MANZANOS",
+        "nume_hab": 18,
+        "cve_loc": "0604",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364029",
+        "objectid": 43725
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8715299690048,
+          21.33281518499946
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL TERRERO",
+        "nume_hab": 31,
+        "cve_loc": "0400",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364030",
+        "objectid": 43726
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.71361110800322,
+          21.33277778499967
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA VIGILANCIA",
+        "nume_hab": 14,
+        "cve_loc": "0468",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364031",
+        "objectid": 43727
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.86333332300471,
+          21.333611107999477
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LOS TERRERITOS",
+        "nume_hab": 1,
+        "cve_loc": "0545",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364032",
+        "objectid": 43728
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.91500000000536,
+          21.33444444599941
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "PORTUGALEJO",
+        "nume_hab": 43,
+        "cve_loc": "0473",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364033",
+        "objectid": 43729
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.88777960000499,
+          21.334815337999423
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SAN MIGUEL (4TO. DE MILLA)",
+        "nume_hab": 5,
+        "cve_loc": "0257",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364034",
+        "objectid": 43730
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.94888889200583,
+          21.335555553999317
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "RANCHO COLORADO",
+        "nume_hab": 15,
+        "cve_loc": "0606",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364035",
+        "objectid": 43853
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.68263389200298,
+          21.336601722999678
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL VARAL",
+        "nume_hab": 0,
+        "cve_loc": "0314",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364036",
+        "objectid": 43854
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.93722221500566,
+          21.337222214999347
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA PROVIDENCIA",
+        "nume_hab": 21,
+        "cve_loc": "0560",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364037",
+        "objectid": 43855
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8711111080048,
+          21.338055553999446
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA TABLA DEL FUERTE",
+        "nume_hab": 0,
+        "cve_loc": "0830",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364038",
+        "objectid": 43856
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.89383504600508,
+          21.338706830999442
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EJIDO CAÑADA DE RICOS (LA ALFALFA)",
+        "nume_hab": 68,
+        "cve_loc": "0722",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364039",
+        "objectid": 43857
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.93583332300562,
+          21.33916667699933
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LOS PINOS",
+        "nume_hab": 12,
+        "cve_loc": "0680",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364040",
+        "objectid": 43858
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.69861110800312,
+          21.33944444599967
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA MEJORANA",
+        "nume_hab": 0,
+        "cve_loc": "0637",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364041",
+        "objectid": 43859
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.92452626200544,
+          21.340580599999374
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA FORESTAL",
+        "nume_hab": 61,
+        "cve_loc": "0673",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364042",
+        "objectid": 43860
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.99132189200641,
+          21.340820768999233
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL CAPRICHO",
+        "nume_hab": 8,
+        "cve_loc": "0668",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364043",
+        "objectid": 43861
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.97853795400623,
+          21.340841384999244
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "JACALES",
+        "nume_hab": 40,
+        "cve_loc": "0926",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364044",
+        "objectid": 43862
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.91888889200538,
+          21.34249999999935
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "RANCHO LOS HERNÁNDEZ",
+        "nume_hab": 35,
+        "cve_loc": "0683",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364045",
+        "objectid": 43863
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.68126150800295,
+          21.342645353999693
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SAN FRANCISCO DE OLIVO",
+        "nume_hab": 55,
+        "cve_loc": "0237",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364046",
+        "objectid": 43864
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.90333332300523,
+          21.343055553999392
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "AVILAG",
+        "nume_hab": 19,
+        "cve_loc": "0684",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364047",
+        "objectid": 43865
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8366666770044,
+          21.3436111079995
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LAS PRESAS",
+        "nume_hab": 64,
+        "cve_loc": "0686",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364048",
+        "objectid": 43866
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.91555555400535,
+          21.343888891999374
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LABOR DE SAN AGUSTÍN (LOS ZERMEÑO)",
+        "nume_hab": 0,
+        "cve_loc": "0690",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364049",
+        "objectid": 43867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.88957327700506,
+          21.344731953999425
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EJIDO DE MOYA",
+        "nume_hab": 45,
+        "cve_loc": "0461",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364050",
+        "objectid": 43868
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.87074026200483,
+          21.34647932299944
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL RANCHO DE LA VIUDA",
+        "nume_hab": 0,
+        "cve_loc": "0893",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364051",
+        "objectid": 43869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.67138889200288,
+          21.3469444459997
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "BERNALEJO (COMANJA)",
+        "nume_hab": 79,
+        "cve_loc": "0026",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364052",
+        "objectid": 43870
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.70944444600322,
+          21.347777784999657
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LAGUNILLAS",
+        "nume_hab": 27,
+        "cve_loc": "0113",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364053",
+        "objectid": 43871
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.84472221500451,
+          21.348333322999512
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SAN BERNARDO",
+        "nume_hab": 5,
+        "cve_loc": "0228",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364054",
+        "objectid": 43872
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.95726027700593,
+          21.348362568999317
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "CERRO DE LA BOLA",
+        "nume_hab": 0,
+        "cve_loc": "0843",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364055",
+        "objectid": 43873
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.91164556900529,
+          21.349260184999377
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "RANCHO LOS MARTÍNEZ",
+        "nume_hab": 7,
+        "cve_loc": "0688",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364056",
+        "objectid": 43874
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.98568550800638,
+          21.350253384999224
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL TUTANO",
+        "nume_hab": 47,
+        "cve_loc": "0496",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364057",
+        "objectid": 43875
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.91349686200533,
+          21.35153386199938
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "RANCHO VERDE",
+        "nume_hab": 11,
+        "cve_loc": "0898",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364058",
+        "objectid": 43876
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.99194444600644,
+          21.351944445999234
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SAN ISIDRO DEL JAGÜEY",
+        "nume_hab": 0,
+        "cve_loc": "0389",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364059",
+        "objectid": 43877
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.88972221500505,
+          21.352222214999404
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LÁCTEOS DESHIDRATADOS MEXICANOS (EL FUERTE)",
+        "nume_hab": 0,
+        "cve_loc": "0896",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364060",
+        "objectid": 43878
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.79000000000394,
+          21.35249999999958
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL ROBLE",
+        "nume_hab": 0,
+        "cve_loc": "0802",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364061",
+        "objectid": 43879
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.76805555400374,
+          21.354444445999587
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL PIRUL",
+        "nume_hab": 0,
+        "cve_loc": "0173",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364062",
+        "objectid": 43880
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.80277778500407,
+          21.354722214999526
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "RANCHO SECO (RINCÓN DE MESA)",
+        "nume_hab": 44,
+        "cve_loc": "0213",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364063",
+        "objectid": 43882
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8336111080044,
+          21.355833322999516
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA SAUCEDA (PEDRO MORENO)",
+        "nume_hab": 57,
+        "cve_loc": "0284",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364064",
+        "objectid": 43883
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7569444460036,
+          21.356944445999602
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA PALMITA",
+        "nume_hab": 0,
+        "cve_loc": "0924",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364065",
+        "objectid": 43884
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.85611110800465,
+          21.360833322999483
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LOS SAUCES",
+        "nume_hab": 47,
+        "cve_loc": "0287",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364066",
+        "objectid": 43885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.81388889200423,
+          21.360833322999543
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LOS HARTONES",
+        "nume_hab": 0,
+        "cve_loc": "0743",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364067",
+        "objectid": 43886
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.81035803100418,
+          21.36117101499956
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA LUZ DE ARRIBA",
+        "nume_hab": 13,
+        "cve_loc": "0758",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364068",
+        "objectid": 43887
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.69583332300309,
+          21.362222214999644
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SAN ANTONIO DE LAS FLORES",
+        "nume_hab": 24,
+        "cve_loc": "0808",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364069",
+        "objectid": 43888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.95916667700598,
+          21.363611107999287
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA JOYA",
+        "nume_hab": 21,
+        "cve_loc": "0410",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364070",
+        "objectid": 43889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.80138889200406,
+          21.36361110799954
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA GLORIA",
+        "nume_hab": 39,
+        "cve_loc": "0625",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364071",
+        "objectid": 43890
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.74448564600351,
+          21.363598491999607
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "PUERTA DEL ZAPOTE",
+        "nume_hab": 0,
+        "cve_loc": "0380",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364072",
+        "objectid": 43891
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.87972221500496,
+          21.364166676999453
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "CAÑADA DE RICOS (TEPETATES)",
+        "nume_hab": 96,
+        "cve_loc": "0038",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364073",
+        "objectid": 43892
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.69166667700307,
+          21.36472221499964
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA PERLITA",
+        "nume_hab": 30,
+        "cve_loc": "0171",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364074",
+        "objectid": 43893
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.68845216900306,
+          21.364750891999698
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA ASUNCIÓN",
+        "nume_hab": 0,
+        "cve_loc": "0537",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364075",
+        "objectid": 43894
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.73777778500344,
+          21.36527778499961
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL ROBLECITO",
+        "nume_hab": 0,
+        "cve_loc": "0638",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364076",
+        "objectid": 43895
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.70333332300315,
+          21.367222214999686
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA PALOMA",
+        "nume_hab": 6,
+        "cve_loc": "0641",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364077",
+        "objectid": 43114
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.77500000000379,
+          21.369444445999566
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "CERRO DE SAN JUAN",
+        "nume_hab": 0,
+        "cve_loc": "0050",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364078",
+        "objectid": 43115
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.69472221500311,
+          21.36972221499969
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA FAMOSA",
+        "nume_hab": 12,
+        "cve_loc": "0728",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364079",
+        "objectid": 43116
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.87676875400491,
+          21.371345507999433
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "CAÑADA DE RICOS",
+        "nume_hab": 212,
+        "cve_loc": "0842",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364080",
+        "objectid": 43117
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8654588310048,
+          21.371937014999478
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SAN JORGE (MACEDONIO AYALA)",
+        "nume_hab": 337,
+        "cve_loc": "0391",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364081",
+        "objectid": 43118
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8133333230042,
+          21.371944445999517
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL ZAPOTE",
+        "nume_hab": 30,
+        "cve_loc": "0326",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364082",
+        "objectid": 43119
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.78722221500392,
+          21.371944445999553
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LAS PEÑITAS (CASA DE PIEDRA)",
+        "nume_hab": 0,
+        "cve_loc": "0168",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364083",
+        "objectid": 43120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.80861110800413,
+          21.37222221499956
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "VARELA",
+        "nume_hab": 7,
+        "cve_loc": "0841",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364084",
+        "objectid": 43121
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.71305555400325,
+          21.373055553999667
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SANTA TERESA",
+        "nume_hab": 0,
+        "cve_loc": "0925",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364085",
+        "objectid": 43122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.89611110800517,
+          21.37527778499939
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "POTRERO DE GUADALUPE",
+        "nume_hab": 50,
+        "cve_loc": "0852",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364086",
+        "objectid": 43123
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.89361110800515,
+          21.377499999999404
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "AGROPECUARIA MÁRVIC",
+        "nume_hab": 4,
+        "cve_loc": "0856",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364087",
+        "objectid": 43124
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.91611110800541,
+          21.37777778499936
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "COLONIA AGUA CALIENTE",
+        "nume_hab": 140,
+        "cve_loc": "0845",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364088",
+        "objectid": 43125
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.76611110800374,
+          21.378055553999605
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL AGOSTADERO",
+        "nume_hab": 0,
+        "cve_loc": "0002",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364089",
+        "objectid": 43126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.93638889200572,
+          21.37861110799932
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL PRADITO",
+        "nume_hab": 30,
+        "cve_loc": "0658",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364090",
+        "objectid": 43127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.93888889200576,
+          21.378888891999363
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL VERGEL",
+        "nume_hab": 13,
+        "cve_loc": "0663",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364091",
+        "objectid": 43128
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.91805555400543,
+          21.38027778499935
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "CAMINO AL PUESTO",
+        "nume_hab": 7,
+        "cve_loc": "0884",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364092",
+        "objectid": 43129
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.67529527700292,
+          21.380401014999705
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA VERDOLAGA",
+        "nume_hab": 0,
+        "cve_loc": "0539",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364093",
+        "objectid": 43130
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8897222150051,
+          21.380555553999436
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL CHAPARRAL",
+        "nume_hab": 0,
+        "cve_loc": "0655",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364094",
+        "objectid": 43131
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.92194444600551,
+          21.381388891999396
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL TEPEYAC",
+        "nume_hab": 0,
+        "cve_loc": "0855",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364095",
+        "objectid": 43132
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.92416667700554,
+          21.381666676999366
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LIBRAMIENTO NORTE",
+        "nume_hab": 4,
+        "cve_loc": "0887",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364096",
+        "objectid": 43133
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.6952777850031,
+          21.38361110799969
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL ORCÓN",
+        "nume_hab": 0,
+        "cve_loc": "0538",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364097",
+        "objectid": 43265
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.91750000000546,
+          21.384444445999346
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "CAMPESTRE DE LAGOS",
+        "nume_hab": 0,
+        "cve_loc": "0601",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364098",
+        "objectid": 43266
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9275000000056,
+          21.385833322999346
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "CAMINO A LA HIGUERA",
+        "nume_hab": 34,
+        "cve_loc": "0883",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364099",
+        "objectid": 43267
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.85126060000462,
+          21.38676276899945
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA VIRGEN",
+        "nume_hab": 0,
+        "cve_loc": "0498",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364100",
+        "objectid": 43268
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.85666667700471,
+          21.388611107999495
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA VIRGEN",
+        "nume_hab": 0,
+        "cve_loc": "0894",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364101",
+        "objectid": 43269
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.99111110800649,
+          21.389444445999267
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL SALTILLO",
+        "nume_hab": 0,
+        "cve_loc": "0804",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364102",
+        "objectid": 43270
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.77972221500387,
+          21.3902777849996
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL GATO",
+        "nume_hab": 0,
+        "cve_loc": "0087",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364103",
+        "objectid": 43271
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8458333230046,
+          21.391666676999478
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "PALOMAS DOS",
+        "nume_hab": 4,
+        "cve_loc": "0895",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364104",
+        "objectid": 43272
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.90250000000523,
+          21.391944445999417
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SANTA LUCÍA",
+        "nume_hab": 10,
+        "cve_loc": "0664",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364105",
+        "objectid": 43273
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.86138889200474,
+          21.39333332299944
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL RINCÓN",
+        "nume_hab": 0,
+        "cve_loc": "0801",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364106",
+        "objectid": 43274
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.82388889200435,
+          21.393333322999496
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LAS HUERTITAS",
+        "nume_hab": 5,
+        "cve_loc": "0745",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364107",
+        "objectid": 43275
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.97333332300627,
+          21.39416667699926
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SANTA CRUZ",
+        "nume_hab": 1,
+        "cve_loc": "0632",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364108",
+        "objectid": 43276
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.85027778500464,
+          21.39416667699947
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL ENCINO",
+        "nume_hab": 4,
+        "cve_loc": "0623",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364109",
+        "objectid": 43277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.79417383100404,
+          21.398233737999544
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "TIERRA NEGRA",
+        "nume_hab": 3,
+        "cve_loc": "0581",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364110",
+        "objectid": 43278
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.90444444600531,
+          21.39861110799941
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SAN ISIDRO DE ABAJO",
+        "nume_hab": 81,
+        "cve_loc": "0240",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364111",
+        "objectid": 43279
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.81361110800421,
+          21.401111107999544
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA PALMITA",
+        "nume_hab": 10,
+        "cve_loc": "0773",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364112",
+        "objectid": 43280
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.85805555400471,
+          21.401944445999487
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LAS LIEBRES",
+        "nume_hab": 10,
+        "cve_loc": "0627",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364113",
+        "objectid": 43281
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.83944444600453,
+          21.403611107999502
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA HACIENDITA",
+        "nume_hab": 0,
+        "cve_loc": "0742",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364114",
+        "objectid": 43282
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.83388889200447,
+          21.404166676999488
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA REPRODUCTORA",
+        "nume_hab": 0,
+        "cve_loc": "0800",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364115",
+        "objectid": 43283
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.84444444600459,
+          21.4052777849995
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA PROVIDENCIA",
+        "nume_hab": 5,
+        "cve_loc": "0783",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364116",
+        "objectid": 43284
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.82861110800441,
+          21.40527778499952
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA PALMA",
+        "nume_hab": 9,
+        "cve_loc": "0158",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364117",
+        "objectid": 43285
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.91472221500543,
+          21.40638889199938
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "RANCHITO LOS GUTIÉRREZ",
+        "nume_hab": 0,
+        "cve_loc": "0890",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364118",
+        "objectid": 43286
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.99238081500654,
+          21.40668036899925
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "ALTAMIRA",
+        "nume_hab": 4,
+        "cve_loc": "0694",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364119",
+        "objectid": 43287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.84111110800455,
+          21.407499999999523
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SAN LUIS GONZAGA DE PORTUGAL",
+        "nume_hab": 9,
+        "cve_loc": "0256",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364120",
+        "objectid": 43288
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.91168463100543,
+          21.408873507999388
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "QUINTA SAN FRANCISCO",
+        "nume_hab": 7,
+        "cve_loc": "0811",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364121",
+        "objectid": 43289
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.82805555400441,
+          21.409166676999483
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LAS CRUCITAS",
+        "nume_hab": 5,
+        "cve_loc": "0613",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364122",
+        "objectid": 43290
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9186111080055,
+          21.409444445999387
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LAS PLAYAS",
+        "nume_hab": 9,
+        "cve_loc": "0779",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364123",
+        "objectid": 43291
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.80500000000416,
+          21.40944444599955
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LOS ARCOS",
+        "nume_hab": 0,
+        "cve_loc": "0698",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364124",
+        "objectid": 43292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.90916667700535,
+          21.409722214999373
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "RANCHO SAN ANTONIO",
+        "nume_hab": 9,
+        "cve_loc": "0659",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364125",
+        "objectid": 43293
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.98443835400646,
+          21.40954804599925
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "RANCHO EL PIRUL",
+        "nume_hab": 18,
+        "cve_loc": "0650",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364126",
+        "objectid": 43294
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.85111110800467,
+          21.409999999999503
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "PARMALAT",
+        "nume_hab": 0,
+        "cve_loc": "0725",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364127",
+        "objectid": 43295
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.680277785003,
+          21.4099999999997
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SAN NICOLÁS",
+        "nume_hab": 0,
+        "cve_loc": "0259",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364128",
+        "objectid": 43296
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.93694444600574,
+          21.412777784999342
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "TEJAS",
+        "nume_hab": 0,
+        "cve_loc": "0398",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364129",
+        "objectid": 43297
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.87777778500495,
+          21.413611107999436
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA GALERA",
+        "nume_hab": 34,
+        "cve_loc": "0086",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364130",
+        "objectid": 43298
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.85472221500468,
+          21.41361110799948
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL MOLE",
+        "nume_hab": 12,
+        "cve_loc": "0885",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364131",
+        "objectid": 43299
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.86055555400475,
+          21.414166676999486
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "ZITÁCUARO",
+        "nume_hab": 35,
+        "cve_loc": "0408",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364132",
+        "objectid": 43300
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.83361110800448,
+          21.41416667699953
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA DAGA",
+        "nume_hab": 30,
+        "cve_loc": "0351",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364133",
+        "objectid": 43301
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.99750000000665,
+          21.41583332299924
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LOS MACÍAS (LOS ZAPOTES)",
+        "nume_hab": 15,
+        "cve_loc": "0649",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364134",
+        "objectid": 43302
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.85270250800468,
+          21.416016168999466
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL MESONCITO",
+        "nume_hab": 277,
+        "cve_loc": "0531",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364135",
+        "objectid": 43303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.78694444600397,
+          21.417222214999555
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SAN JOSÉ DE LOS RANCHOS",
+        "nume_hab": 16,
+        "cve_loc": "0246",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364136",
+        "objectid": 43304
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.77944444600392,
+          21.41722221499956
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA CASCARONA",
+        "nume_hab": 87,
+        "cve_loc": "0847",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364137",
+        "objectid": 43305
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.6900000000031,
+          21.417222214999654
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL TAJO",
+        "nume_hab": 0,
+        "cve_loc": "0397",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364138",
+        "objectid": 43306
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.86638889200482,
+          21.41777778499946
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "TLACUALECHE",
+        "nume_hab": 13,
+        "cve_loc": "0535",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364139",
+        "objectid": 43307
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.85944444600477,
+          21.41777778499947
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "MESÓN DE LOS GARCÍA",
+        "nume_hab": 3,
+        "cve_loc": "0657",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364140",
+        "objectid": 43401
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.93500000000574,
+          21.41972221499932
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "MONTELERA",
+        "nume_hab": 11,
+        "cve_loc": "0628",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364141",
+        "objectid": 43402
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.90416667700529,
+          21.420277784999392
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SEPÚLVEDA",
+        "nume_hab": 7,
+        "cve_loc": "0291",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364142",
+        "objectid": 43403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.84152555400455,
+          21.420368137999507
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL ESPÍRITU SANTO",
+        "nume_hab": 0,
+        "cve_loc": "0727",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364143",
+        "objectid": 43404
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.83861110800454,
+          21.421944445999497
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL OASIS",
+        "nume_hab": 8,
+        "cve_loc": "0767",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364144",
+        "objectid": 43405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.83083332300443,
+          21.423055553999486
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LOS MEZQUITES",
+        "nume_hab": 22,
+        "cve_loc": "0645",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364145",
+        "objectid": 43406
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.99000000000657,
+          21.423611107999232
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL RANCHITO",
+        "nume_hab": 42,
+        "cve_loc": "0199",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364146",
+        "objectid": 43407
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.84833332300467,
+          21.42388889199946
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SANTA FE",
+        "nume_hab": 18,
+        "cve_loc": "0274",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364147",
+        "objectid": 43408
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8083333230042,
+          21.423888891999525
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SAN RAFAEL",
+        "nume_hab": 0,
+        "cve_loc": "0264",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364148",
+        "objectid": 43409
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.90333332300534,
+          21.424166676999416
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA BAHÍA DE SEPÚLVEDA",
+        "nume_hab": 5,
+        "cve_loc": "0567",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364149",
+        "objectid": 43410
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.74777778500359,
+          21.42472221499959
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "HUACHINOTE",
+        "nume_hab": 9,
+        "cve_loc": "0570",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364150",
+        "objectid": 43411
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.94370441500588,
+          21.42507358499934
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SAN CAYETANO DE ABAJO",
+        "nume_hab": 7,
+        "cve_loc": "0387",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364151",
+        "objectid": 43412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.86138889200478,
+          21.42527778499946
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL SARTENEJO",
+        "nume_hab": 3,
+        "cve_loc": "0825",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364152",
+        "objectid": 43413
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.85361110800471,
+          21.426944445999467
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA TROJE (LAS TROJES)",
+        "nume_hab": 26,
+        "cve_loc": "0311",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364153",
+        "objectid": 43414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.90357775400535,
+          21.42782521499938
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "CHIPINQUE DE ABAJO",
+        "nume_hab": 107,
+        "cve_loc": "0071",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364154",
+        "objectid": 43415
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.92750000000565,
+          21.428888891999335
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SAN PEDRO",
+        "nume_hab": 0,
+        "cve_loc": "0520",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364155",
+        "objectid": 43416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.95138889200598,
+          21.429444445999305
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SAN CAYETANO DE ARRIBA",
+        "nume_hab": 5,
+        "cve_loc": "0388",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364156",
+        "objectid": 43417
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.82799640000445,
+          21.429670030999514
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SAN ÁNGEL",
+        "nume_hab": 24,
+        "cve_loc": "0807",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364157",
+        "objectid": 43418
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.99724938500665,
+          21.43114793799921
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL MESONCITO",
+        "nume_hab": 108,
+        "cve_loc": "0138",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364158",
+        "objectid": 43419
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.92138889200555,
+          21.431944445999356
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL ALTO DEL REFUGIO",
+        "nume_hab": 23,
+        "cve_loc": "0695",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364159",
+        "objectid": 43420
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.87638889200501,
+          21.431944445999434
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LABOR DE PADILLA",
+        "nume_hab": 15,
+        "cve_loc": "0107",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364160",
+        "objectid": 43421
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.85305555400471,
+          21.432499999999486
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA LONGANIZA",
+        "nume_hab": 22,
+        "cve_loc": "0656",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364161",
+        "objectid": 43422
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.85014509200467,
+          21.433315768999474
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LAS BARRANCAS",
+        "nume_hab": 0,
+        "cve_loc": "0651",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364162",
+        "objectid": 43423
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8347222150045,
+          21.433888891999533
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LAS VÍBORAS",
+        "nume_hab": 3,
+        "cve_loc": "0654",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364163",
+        "objectid": 43424
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9911704150066,
+          21.435071522999216
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA AURORA",
+        "nume_hab": 0,
+        "cve_loc": "0020",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364164",
+        "objectid": 43425
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.82722221500443,
+          21.4352777849995
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL CHAMIZAL",
+        "nume_hab": 14,
+        "cve_loc": "0712",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364165",
+        "objectid": 43426
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.83666667700452,
+          21.435555553999517
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LINDAVISTA",
+        "nume_hab": 90,
+        "cve_loc": "0750",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364166",
+        "objectid": 43427
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.89444444600524,
+          21.436111107999402
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA TROJITA",
+        "nume_hab": 6,
+        "cve_loc": "0521",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364167",
+        "objectid": 43428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.80250000000416,
+          21.437222214999572
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "VALENCIANA",
+        "nume_hab": 0,
+        "cve_loc": "0839",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364168",
+        "objectid": 43429
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.73822736900355,
+          21.437994245999644
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SAN JUAN DEL MAGUEY",
+        "nume_hab": 30,
+        "cve_loc": "0254",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364169",
+        "objectid": 43430
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.81916667700433,
+          21.438888891999554
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SAN JOSÉ",
+        "nume_hab": 5,
+        "cve_loc": "0247",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364170",
+        "objectid": 43431
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.91277778500547,
+          21.440555553999395
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL TESORO",
+        "nume_hab": 7,
+        "cve_loc": "0835",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364171",
+        "objectid": 43432
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.84972221500466,
+          21.44194444599946
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SANFANDILA",
+        "nume_hab": 14,
+        "cve_loc": "0233",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364172",
+        "objectid": 43433
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.92109716900559,
+          21.44256830799935
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL SALTO",
+        "nume_hab": 4,
+        "cve_loc": "0805",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364173",
+        "objectid": 43434
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.90500000000534,
+          21.44527778499937
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SANTA RITA",
+        "nume_hab": 23,
+        "cve_loc": "0278",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364174",
+        "objectid": 43435
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.82340403100439,
+          21.4466787079995
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL POTRERO DE AFUERA",
+        "nume_hab": 7,
+        "cve_loc": "0181",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364175",
+        "objectid": 43436
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.95388889200605,
+          21.450555553999315
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "MANZANILLAS",
+        "nume_hab": 12,
+        "cve_loc": "0363",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364176",
+        "objectid": 43437
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.93388889200581,
+          21.45138889199936
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SANTANA",
+        "nume_hab": 11,
+        "cve_loc": "0392",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364177",
+        "objectid": 43438
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8330555540045,
+          21.451666676999498
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA LUZ",
+        "nume_hab": 0,
+        "cve_loc": "0756",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364178",
+        "objectid": 43439
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.82527778500445,
+          21.45388889199953
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL ÁGUILA",
+        "nume_hab": 0,
+        "cve_loc": "0522",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364179",
+        "objectid": 43440
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.82361110800443,
+          21.45555555399952
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL CHUPADERO",
+        "nume_hab": 0,
+        "cve_loc": "0714",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364180",
+        "objectid": 43441
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.79638889200409,
+          21.455833322999542
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LAS MEMELAS",
+        "nume_hab": 0,
+        "cve_loc": "0612",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364181",
+        "objectid": 43442
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.89722221500529,
+          21.456388891999424
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "CASAS BLANCAS",
+        "nume_hab": 39,
+        "cve_loc": "0707",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364182",
+        "objectid": 43443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.83916667700456,
+          21.456666676999486
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SAN CIRILO",
+        "nume_hab": 46,
+        "cve_loc": "0229",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364183",
+        "objectid": 43509
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.99250000000664,
+          21.45694444599926
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA LLORONA",
+        "nume_hab": 0,
+        "cve_loc": "0753",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364184",
+        "objectid": 43510
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.89305555400523,
+          21.457499999999396
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "PROVIDENCIA",
+        "nume_hab": 35,
+        "cve_loc": "0433",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364185",
+        "objectid": 43511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.93388889200583,
+          21.461388891999352
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LAS PEÑITAS",
+        "nume_hab": 60,
+        "cve_loc": "0167",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364186",
+        "objectid": 43512
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.77166667700385,
+          21.461944445999606
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "TOLUCA",
+        "nume_hab": 7,
+        "cve_loc": "0042",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364187",
+        "objectid": 43513
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.85444444600478,
+          21.463888891999478
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "CIENEGUILLA",
+        "nume_hab": 2,
+        "cve_loc": "0342",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364188",
+        "objectid": 43514
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.78722221500401,
+          21.464166676999547
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA ESPERANZA",
+        "nume_hab": 9,
+        "cve_loc": "0081",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364189",
+        "objectid": 43515
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.97888889200644,
+          21.464444445999277
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SAN ISIDRO EL ALTO",
+        "nume_hab": 13,
+        "cve_loc": "0390",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364190",
+        "objectid": 43516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.88833332300517,
+          21.465277784999433
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SAN JAVIER",
+        "nume_hab": 0,
+        "cve_loc": "0243",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364191",
+        "objectid": 43517
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.86944444600493,
+          21.46527778499946
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL CONEJO",
+        "nume_hab": 223,
+        "cve_loc": "0715",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364192",
+        "objectid": 43518
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.99556743100669,
+          21.466971030999247
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL BASILISCO",
+        "nume_hab": 39,
+        "cve_loc": "0337",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364193",
+        "objectid": 43519
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8968552150053,
+          21.46663399999941
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "CIENEGUILLA",
+        "nume_hab": 7,
+        "cve_loc": "0431",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364194",
+        "objectid": 43520
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.81805555400437,
+          21.46666667699951
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SAN NICOLÁS",
+        "nume_hab": 12,
+        "cve_loc": "0258",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364195",
+        "objectid": 43521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.91666667700558,
+          21.466944445999395
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LABORCITA DE GONZÁLEZ (LA LABORCITA)",
+        "nume_hab": 9,
+        "cve_loc": "0104",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364196",
+        "objectid": 43522
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7405555540036,
+          21.46722221499961
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SANTA CRUZ",
+        "nume_hab": 20,
+        "cve_loc": "0270",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364197",
+        "objectid": 43523
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8908333230052,
+          21.4691666769994
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "POTRERO DE LA MORA",
+        "nume_hab": 2,
+        "cve_loc": "0565",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364198",
+        "objectid": 43524
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.90972504600548,
+          21.470860568999417
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL RINCÓN",
+        "nume_hab": 12,
+        "cve_loc": "0738",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364199",
+        "objectid": 43525
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.78138889200396,
+          21.473888891999557
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL SOMBRERÓN",
+        "nume_hab": 11,
+        "cve_loc": "0829",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364200",
+        "objectid": 43526
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.89583332300528,
+          21.47611110799941
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LOS JACALES",
+        "nume_hab": 5,
+        "cve_loc": "0097",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364201",
+        "objectid": 43527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9727777850064,
+          21.479722214999263
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL MUERTO",
+        "nume_hab": 0,
+        "cve_loc": "0147",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364202",
+        "objectid": 43528
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.83166667700452,
+          21.48194444599951
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL GIRASOL",
+        "nume_hab": 22,
+        "cve_loc": "0734",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364203",
+        "objectid": 43529
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.78222221500398,
+          21.481944445999574
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "SAN CRISTÓBAL DE ARRIBA",
+        "nume_hab": 9,
+        "cve_loc": "0492",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364204",
+        "objectid": 43530
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.84444444600469,
+          21.483611107999486
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "EL MOLINO",
+        "nume_hab": 31,
+        "cve_loc": "0517",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364205",
+        "objectid": 43531
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.92492733800567,
+          21.48438361499938
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA VENTA",
+        "nume_hab": 12,
+        "cve_loc": "0527",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364206",
+        "objectid": 43532
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.80166667700422,
+          21.484444445999557
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "TLALIXCOYAN (TLALIXCOYA)",
+        "nume_hab": 8,
+        "cve_loc": "0308",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364207",
+        "objectid": 43533
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.83111110800455,
+          21.491944445999508
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "RANCHO VISTA ALEGRE",
+        "nume_hab": 5,
+        "cve_loc": "0929",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364208",
+        "objectid": 43534
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7735312920039,
+          21.49260593799958
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "RANCHO TEXAS",
+        "nume_hab": 0,
+        "cve_loc": "0566",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364209",
+        "objectid": 43535
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.95666667700615,
+          21.494444445999296
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "ACOSTA",
+        "nume_hab": 0,
+        "cve_loc": "0327",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364210",
+        "objectid": 43536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.76083332300378,
+          21.4949999999996
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "NINGUNO",
+        "nume_hab": 5,
+        "cve_loc": "0928",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364211",
+        "objectid": 43537
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.74777778500366,
+          21.495277784999587
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "LA SOLEDAD",
+        "nume_hab": 5,
+        "cve_loc": "0495",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364212",
+        "objectid": 43538
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.94537413800597,
+          21.49701101499932
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "VILLEGAS",
+        "nume_hab": 43,
+        "cve_loc": "0323",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364213",
+        "objectid": 43539
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.91259964600532,
+          21.34299223099936
+        ]
+      },
+      "properties": {
+        "geografico": "LOCALIDAD",
+        "cve_mun": "053",
+        "nombre": "RANCHO LOS GALLARDO",
+        "nume_hab": 121,
+        "cve_loc": "0689",
+        "cve_edo": "14",
+        "tipo": "RURAL",
+        "codigo": "771",
+        "cali_repr": "DEFINIDA",
+        "carta": "F14C31",
+        "identifica": "11364214",
+        "objectid": 43540
+      }
+    }
+  ]
+}

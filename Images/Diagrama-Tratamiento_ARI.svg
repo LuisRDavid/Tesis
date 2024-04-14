@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080"
+   height="1350"
+   viewBox="0 0 1080 1350"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="Diagrama-Tratamiento_ARI.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="Diagrama-Tratamiento_ARI.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.81395847"
+     inkscape:cx="394.9833"
+     inkscape:cy="375.32627"
+     inkscape:window-width="1600"
+     inkscape:window-height="811"
+     inkscape:window-x="1911"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker12"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path12" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:3.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="247.26337"
+       height="108.26723"
+       x="76.217743"
+       y="125.69263" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:3.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2"
+       width="247.26337"
+       height="108.26723"
+       x="426.21774"
+       y="125.69263" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:3.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3"
+       width="247.26337"
+       height="108.26723"
+       x="750.21777"
+       y="125.69263" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:3.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4"
+       width="429.15057"
+       height="142.47104"
+       x="204.31659"
+       y="385.71429" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:3.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5"
+       width="250.19305"
+       height="168.53282"
+       x="91.660233"
+       y="597.68341" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:3.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6"
+       width="265.83014"
+       height="112.93438"
+       x="91.297287"
+       y="915.63708" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:3.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7"
+       width="279.72974"
+       height="119.88421"
+       x="410.0386"
+       y="1131.1815" />
+    <path
+       style="fill:none;stroke:#686868;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1"
+       d="M 45.173745,309.26641 H 1025.0965"
+       id="path7" />
+    <path
+       style="fill:none;stroke:#686868;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1"
+       d="M 45.173745,841.26641 H 1025.0965"
+       id="path8" />
+    <path
+       style="fill:none;stroke:#686868;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1"
+       d="M 45.173745,1081.2664 H 1025.0965"
+       id="path9" />
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:3.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
+       d="M 103.81365,235.81295 V 584.68867"
+       id="path10" />
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:3.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker12)"
+       d="M 217.28432,235.82253 V 373.30766"
+       id="path11" />
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:3.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker12)"
+       d="M 313.28432,235.82253 V 373.30766"
+       id="path13" />
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:3.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker12)"
+       d="M 587.28432,235.82253 V 373.30766"
+       id="path14" />
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:3.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker12)"
+       d="M 452.13578,529.80762 V 676.73741 H 352.76829"
+       id="path15" />
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:3.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker12)"
+       d="M 205.01931,768.75331 V 903.09682"
+       id="path16" />
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:3.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker12)"
+       d="m 193.5444,1031.1776 v 161.583 h 201.5444"
+       id="path17" />
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:3.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker12)"
+       d="M 549.96525,530.79151 V 1116.3127"
+       id="path18" />
+    <path
+       style="fill:none;stroke:#1a1a1a;stroke-width:3.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker12)"
+       d="M 890.39452,237.11283 V 1195.3668 H 703.14286"
+       id="path19" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;line-height:1.2;font-family:Poppins;-inkscape-font-specification:'Poppins, Normal';text-align:center;direction:rtl;text-anchor:middle;white-space:pre;inline-size:168.738;fill:#000000;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.68;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1"
+       x="194.59459"
+       y="184.16989"
+       id="text19"
+       transform="translate(0,-10)"><tspan
+         x="194.59459"
+         y="184.16989"
+         id="tspan1">Caudales de<tspan
+   y="184.16989"
+   id="tspan2"> </tspan></tspan><tspan
+         x="194.59459"
+         y="203.36988"
+         id="tspan3">contenido orgánico</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;line-height:1.2;font-family:Poppins;-inkscape-font-specification:'Poppins, Normal';text-align:center;direction:rtl;text-anchor:middle;white-space:pre;inline-size:144.872;fill:#000000;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.68;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1"
+       x="476.06177"
+       y="165.05792"
+       id="text20"
+       transform="translate(74)"><tspan
+         x="476.06177"
+         y="165.05792"
+         id="tspan4">Caudales que<tspan
+   y="165.05792"
+   id="tspan5"> </tspan></tspan><tspan
+         x="476.06177"
+         y="184.25791"
+         id="tspan6">contengan<tspan
+   y="184.25791"
+   id="tspan7"> </tspan></tspan><tspan
+         x="476.06177"
+         y="203.45791"
+         id="tspan8">metales pesados</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;line-height:1.2;font-family:Poppins;-inkscape-font-specification:'Poppins, Normal';text-align:center;direction:rtl;text-anchor:middle;white-space:pre;inline-size:154.031;fill:#000000;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.68;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1"
+       x="804.44012"
+       y="180.69498"
+       id="text21"
+       transform="translate(72,-6)"><tspan
+         x="804.44012"
+         y="180.69498"
+         id="tspan9">Caudales de<tspan
+   y="180.69498"
+   id="tspan10"> </tspan></tspan><tspan
+         x="804.44012"
+         y="199.89497"
+         id="tspan11">contenido mineral</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;line-height:1.2;font-family:Poppins;-inkscape-font-specification:'Poppins, Normal';text-align:center;direction:rtl;text-anchor:middle;white-space:pre;inline-size:375.763;fill:#000000;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.68;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1"
+       x="264.09265"
+       y="446.52509"
+       id="text22"
+       transform="translate(148.73359,11.737452)"><tspan
+         x="264.09265"
+         y="446.52509"
+         id="tspan12">RTratamiento de aguas residuales tóxicas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;line-height:1.1;font-family:Poppins;-inkscape-font-specification:'Poppins, Normal';text-align:center;direction:rtl;text-anchor:middle;white-space:pre;inline-size:134.798;fill:#000000;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.68;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1"
+       x="144.2085"
+       y="639.38226"
+       id="text23"
+       transform="translate(69.498069)"><tspan
+         x="144.2085"
+         y="639.38226"
+         id="tspan13">Ecualización,<tspan
+   y="639.38226"
+   id="tspan14"> </tspan></tspan><tspan
+         x="144.2085"
+         y="656.98225"
+         id="tspan15">neutralización,<tspan
+   y="656.98225"
+   id="tspan16"> </tspan></tspan><tspan
+         x="144.2085"
+         y="674.58223"
+         id="tspan17">remoción de<tspan
+   y="674.58223"
+   id="tspan18"> </tspan></tspan><tspan
+         x="144.2085"
+         y="692.1822"
+         id="tspan19">aceites/grasas y<tspan
+   y="692.1822"
+   id="tspan20"> </tspan></tspan><tspan
+         x="144.2085"
+         y="709.78218"
+         id="tspan21">sólidos<tspan
+   y="709.78218"
+   id="tspan22"> </tspan></tspan><tspan
+         x="144.2085"
+         y="727.38215"
+         id="tspan29">suspendidos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;line-height:1.1;font-family:Poppins;-inkscape-font-specification:'Poppins, Normal';text-align:center;direction:rtl;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.68;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1"
+       x="218.91891"
+       y="971.23547"
+       id="text24"><tspan
+         sodipodi:role="line"
+         id="tspan24"
+         x="218.91891"
+         y="971.23547">Tratamiento biológico</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;line-height:1.1;font-family:Poppins;-inkscape-font-specification:'Poppins, Normal';text-align:center;direction:rtl;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.68;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1"
+       x="548.16602"
+       y="1191.8918"
+       id="text25"><tspan
+         sodipodi:role="line"
+         id="tspan25"
+         x="548.16602"
+         y="1191.8918">Disposición final</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.1;font-family:Poppins;-inkscape-font-specification:Poppins;text-align:end;direction:rtl;text-anchor:end;white-space:pre;inline-size:95.392;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.68;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1"
+       x="208.85214"
+       y="281.46719"
+       id="text26"
+       transform="translate(-99.903478,-8.2528958)"><tspan
+         x="208.85214"
+         y="281.46719"
+         id="tspan30">Bio-</tspan><tspan
+         x="208.85214"
+         y="294.6672"
+         id="tspan31">degradables</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.1;font-family:Poppins;-inkscape-font-specification:Poppins;text-align:end;direction:rtl;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.68;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1"
+       x="223.69691"
+       y="281.03281"
+       id="text27"><tspan
+         sodipodi:role="line"
+         id="tspan27"
+         x="223.69691"
+         y="281.03281">Volátiles</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.1;font-family:Poppins;-inkscape-font-specification:Poppins;text-align:end;direction:rtl;text-anchor:end;white-space:pre;inline-size:155.954;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.68;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-opacity:1"
+       x="330.11584"
+       y="275.38611"
+       id="text28"
+       transform="translate(-9.9903475,-1.7374517)"><tspan
+         x="330.11584"
+         y="275.38611"
+         id="tspan32">Tóxicos y/o no<tspan
+   y="275.38611"
+   id="tspan33"> </tspan></tspan><tspan
+         x="330.11584"
+         y="288.58611"
+         id="tspan34">biodegradables</tspan></text>
+  </g>
+</svg>

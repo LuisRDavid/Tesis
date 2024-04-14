@@ -1,0 +1,29 @@
+Identifier:
+
+Title: Conjunto de datos vectoriales de información topográfica escala 1:50 000 serie III..
+
+Description: INEGI. Conjunto de datos vectoriales de información topográfica escala 1:50 000 serie III. SNIEG. Información de Interés Nacional.
+
+Contienen información sobre los diversos datos espaciales presentes en los conjuntos de datos, como curvas de nivel, hidrografía, vías de comunicación, localidades, entre otros. Estos rasgos son representados digitalmente por un componente geométrico (puntos, líneas o áreas) y componentes descriptivos (los atributos del dato). Los topónimos o nombres geográficos, se incluyen como atributos propios de cada uno de los datos que conforman cada conjunto de datos y que por su naturaleza los requieren. En esta serie se actualizaron las localidades, vías de comunicación y cuerpos de agua, por ser estos los rasgos con mayor dinámica con respecto al tiempo, además de todos aquellos objetos que por su relación espacial con las anteriores necesiten ajustarse.
+
+Modified: 2021-03-05
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI.
+
+Mbox: atencion.usuarios@inegi.org.mx
+
+License: Términos de Libre Uso de la Información del INEGI https://www.inegi.org.mx/inegi/terminos.html
+
+DataDictionary:
+
+Keyword: "acueducto", "aeropuerto", "área de cultivo", "área verde urbana", "arrecife / bajo", "banco de material", "bordo", "calle", "camino", "canal", "carretera", "caseta de peaje", "cementerio", "conducto, "corriente de agua", "corriente que desaparece", "cuerpo de agua", "curva de nivel", "depósito de desechos", "edificación", "entrada a gruta", "estanque", "estructura elevada", "fango", "faro / radiofaro / vor", "instalación de bombeo", "instalación de comunicación", "instalación deportiva o recreativa", "instalación diversa", "instalación industrial", "instalación portuaria", "límite", "lindero", "línea de comunicación", "línea de transmisión", "localidad", "lumbrera", "malpaís", "manantial", "mina", "mojonera", "muro de contención", "nieve perpetua", "pantano", "pista de aviación", "pista de carreras", "planta generadora", "pozo de explotación", "presa", "puente", "punto acotado", "rápido", "rasgo arqueológico", "referencia geográfica", "roca", "ruta de embarcación", "ruta de funicular / teleférico", "salina", "salto de agua", "subestación eléctrica", "tanque", "tanque de agua", "terreno sujeto a inundación", "túnel", "vado", "vegetación densa", "vía férrea", "zona arenosa"
+
+ContactPoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 46 34
+
+Temporal: 2013-2018
+
+Spatial: Estados Unidos Mexicanos.
+
+AccrualPeriodicity: Cada 6 años.
+
+Distribution: https://www.inegi.org.mx/app/mapas/?t=186&esc=1

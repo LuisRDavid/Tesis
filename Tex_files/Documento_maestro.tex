@@ -16,7 +16,9 @@
 \usepackage{float}
 \usepackage{graphicx}
 \usepackage{fancyhdr}
-\usepackage{tablefootnote}
+\usepackage{threeparttable}
+\usepackage{multirow}
+\usepackage{adjustbox}
 \usepackage{indentfirst}
 \usepackage{fontenc}
 \usepackage[T1]{fontenc}
@@ -26,10 +28,13 @@
 \usepackage{setspace}
 \usepackage{etoolbox}
 \usepackage{microtype}
+\usepackage{enumitem}
 \usepackage[bookmarksnumbered,bookmarksopen=false]{hyperref}
 \usepackage{bookmark}
 \usepackage[acronyms]{glossaries}
 \onehalfspacing
+
+\numberwithin{equation}{subsection}
 
 \fancypagestyle{Anexos}{%
 	\fancyhf{}% clear all header and footer fields
