@@ -45,47 +45,51 @@ Warning--entry type for "Wiggens" isn't style-file defined
 --line 807 of file ../Bibliography/References.bib
 Warning--entry type for "Lobov" isn't style-file defined
 --line 823 of file ../Bibliography/References.bib
+Warning--entry type for "CEAJ24" isn't style-file defined
+--line 859 of file ../Bibliography/References.bib
+Warning--entry type for "CNA2024" isn't style-file defined
+--line 875 of file ../Bibliography/References.bib
 Warning--empty journal in MSASA
 Warning--empty journal in ODS23
-You've used 31 entries,
+You've used 34 entries,
             1935 wiz_defined-function locations,
-            678 strings with 10311 characters,
-and the built_in function-call counts, 9500 in all, are:
-= -- 916
-> -- 343
-< -- 27
-+ -- 108
-- -- 108
-* -- 695
-:= -- 1775
-add.period$ -- 99
-call.type$ -- 31
-change.case$ -- 201
-chr.to.int$ -- 31
-cite$ -- 33
-duplicate$ -- 408
-empty$ -- 666
-format.name$ -- 147
-if$ -- 1814
+            691 strings with 10508 characters,
+and the built_in function-call counts, 10251 in all, are:
+= -- 990
+> -- 364
+< -- 30
++ -- 114
+- -- 114
+* -- 743
+:= -- 1921
+add.period$ -- 106
+call.type$ -- 34
+change.case$ -- 218
+chr.to.int$ -- 34
+cite$ -- 36
+duplicate$ -- 442
+empty$ -- 719
+format.name$ -- 156
+if$ -- 1955
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 36
-newline$ -- 162
-num.names$ -- 93
-pop$ -- 194
+missing$ -- 38
+newline$ -- 175
+num.names$ -- 102
+pop$ -- 209
 preamble$ -- 1
-purify$ -- 209
+purify$ -- 227
 quote$ -- 0
-skip$ -- 312
+skip$ -- 340
 stack$ -- 0
-substring$ -- 428
-swap$ -- 30
+substring$ -- 464
+swap$ -- 31
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 162
+type$ -- 178
 warning$ -- 2
-while$ -- 66
+while$ -- 72
 width$ -- 0
-write$ -- 399
-(There were 6 warnings)
+write$ -- 432
+(There were 8 warnings)

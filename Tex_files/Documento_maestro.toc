@@ -27,7 +27,7 @@
 \contentsline {subsection}{\numberline {2.4}Características Químicas}{23}{subsection.2.4}%
 \contentsline {subsubsection}{\numberline {2.4.1}Componentes Orgánicos}{23}{subsubsection.2.4.1}%
 \contentsline {subsubsection}{\numberline {2.4.2}Componentes Inorgánicos}{23}{subsubsection.2.4.2}%
-\contentsline {subsubsection}{\numberline {2.4.3}Gases}{23}{subsubsection.2.4.3}%
+\contentsline {subsubsection}{\numberline {2.4.3}Gases}{24}{subsubsection.2.4.3}%
 \contentsline {subsection}{\numberline {2.5}Características Biológicas}{24}{subsection.2.5}%
 \contentsline {subsection}{\numberline {2.6}Muestreo}{24}{subsection.2.6}%
 \contentsline {subsection}{\numberline {2.7}Límites máximos permisibles}{24}{subsection.2.7}%
@@ -44,16 +44,16 @@
 \contentsline {subsection}{\numberline {2.11}Planta tratadora de aguas residuales municipal de Lagos de Moreno}{25}{subsection.2.11}%
 \contentsline {subsection}{\numberline {2.12}MATLAB®}{26}{subsection.2.12}%
 \contentsline {section}{\numberline {III}Planteamiento del problema}{27}{section.3}%
-\contentsline {section}{\numberline {IV}Justficación}{28}{section.4}%
-\contentsline {section}{\numberline {V}Objetivos}{29}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Objetivo general}{29}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Objetivos particulares}{29}{subsection.5.2}%
-\contentsline {section}{\numberline {VI}Materiales}{30}{section.6}%
-\contentsline {section}{\numberline {VII}Resultados}{31}{section.7}%
-\contentsline {section}{\numberline {VIII}\enspace Discusión}{32}{section.8}%
-\contentsline {section}{\numberline {IX}Conclusiones}{33}{section.9}%
-\contentsline {section}{\numberline {X}Perspectivas}{34}{section.10}%
-\contentsline {section}{Referencias}{35}{section*.19}%
-\contentsline {section}{Anexos}{I}{section*.20}%
-\contentsline {section}{Siglas}{XXII}{section*.27}%
-\contentsline {section}{Glosario}{XXIII}{section*.29}%
+\contentsline {section}{\numberline {IV}Justficación}{29}{section.4}%
+\contentsline {section}{\numberline {V}Objetivos}{30}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Objetivo general}{30}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Objetivos particulares}{30}{subsection.5.2}%
+\contentsline {section}{\numberline {VI}Materiales}{31}{section.6}%
+\contentsline {section}{\numberline {VII}Resultados}{32}{section.7}%
+\contentsline {section}{\numberline {VIII}\enspace Discusión}{33}{section.8}%
+\contentsline {section}{\numberline {IX}Conclusiones}{34}{section.9}%
+\contentsline {section}{\numberline {X}Perspectivas}{35}{section.10}%
+\contentsline {section}{Referencias}{36}{section*.20}%
+\contentsline {section}{Anexos}{I}{section*.21}%
+\contentsline {section}{Siglas}{XXII}{section*.28}%
+\contentsline {section}{Glosario}{XXIII}{section*.30}%
