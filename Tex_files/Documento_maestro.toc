@@ -50,7 +50,7 @@
 \contentsline {subsection}{\numberline {5.2}Objetivos particulares}{30}{subsection.5.2}%
 \contentsline {section}{\numberline {VI}Materiales}{31}{section.6}%
 \contentsline {section}{\numberline {VII}Resultados}{32}{section.7}%
-\contentsline {section}{\numberline {VIII}\enspace Discusión}{33}{section.8}%
+\contentsline {section}{\numberline {VIII}Discusión}{33}{section.8}%
 \contentsline {section}{\numberline {IX}Conclusiones}{34}{section.9}%
 \contentsline {section}{\numberline {X}Perspectivas}{35}{section.10}%
 \contentsline {section}{Referencias}{36}{section*.20}%

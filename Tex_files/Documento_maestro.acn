@@ -11,6 +11,7 @@
 \glossaryentry{ECA?\glossentry{ECA}|glsseeformat[Glosario:]{gls-ECA}}{Z}
 \glossaryentry{RHA?\glossentry{RHA}|glsseeformat[Glosario:]{gls-RHA}}{Z}
 \glossaryentry{NOM?\glossentry{NOM}|glsseeformat[Glosario:]{gls-NOM}}{Z}
+\glossaryentry{ASM?\glossentry{ASM}|glsseeformat[Glosario:]{gls-ASM}}{Z}
 \glossaryentry{ECA?\glossentry{ECA}|setentrycounter[]{page}"\glsnumberformat}{2}
 \glossaryentry{Conagua?\glossentry{CONAGUA}|setentrycounter[]{page}"\glsnumberformat}{2}
 \glossaryentry{ECA?\glossentry{ECA}|setentrycounter[]{page}"\glsnumberformat}{2}
@@ -22,3 +23,5 @@
 \glossaryentry{SDT?\glossentry{SDT}|setentrycounter[]{page}"\glsnumberformat}{23}
 \glossaryentry{EC?\glossentry{EC}|setentrycounter[]{page}"\glsnumberformat}{23}
 \glossaryentry{SDT?\glossentry{SDT}|setentrycounter[]{page}"\glsnumberformat}{23}
+\glossaryentry{PTAR?\glossentry{PTAR}|setentrycounter[]{page}"\glsnumberformat}{28}
+\glossaryentry{ASM?\glossentry{ASM}|setentrycounter[]{page}"\glsnumberformat}{29}

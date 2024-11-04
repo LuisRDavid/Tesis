@@ -40,56 +40,59 @@ Database file #1: ../Bibliography/References.bib
 Warning--entry type for "Maps" isn't style-file defined
 --line 773 of file ../Bibliography/References.bib
 Warning--entry type for "aquafish" isn't style-file defined
---line 791 of file ../Bibliography/References.bib
+--line 793 of file ../Bibliography/References.bib
 Warning--entry type for "Wiggens" isn't style-file defined
---line 807 of file ../Bibliography/References.bib
+--line 811 of file ../Bibliography/References.bib
 Warning--entry type for "Lobov" isn't style-file defined
---line 823 of file ../Bibliography/References.bib
+--line 829 of file ../Bibliography/References.bib
 Warning--entry type for "CEAJ24" isn't style-file defined
---line 859 of file ../Bibliography/References.bib
+--line 867 of file ../Bibliography/References.bib
+Warning--entry type for "Cruz2024" isn't style-file defined
+--line 885 of file ../Bibliography/References.bib
 Warning--entry type for "CNA2024" isn't style-file defined
---line 875 of file ../Bibliography/References.bib
+--line 905 of file ../Bibliography/References.bib
+Warning--empty journal in CEAJ2015
 Warning--empty journal in MSASA
 Warning--empty journal in ODS23
-You've used 34 entries,
+You've used 37 entries,
             1935 wiz_defined-function locations,
-            691 strings with 10508 characters,
-and the built_in function-call counts, 10251 in all, are:
-= -- 990
-> -- 364
-< -- 30
-+ -- 114
-- -- 114
-* -- 743
-:= -- 1921
-add.period$ -- 106
-call.type$ -- 34
-change.case$ -- 218
-chr.to.int$ -- 34
-cite$ -- 36
-duplicate$ -- 442
-empty$ -- 719
-format.name$ -- 156
-if$ -- 1955
+            713 strings with 11650 characters,
+and the built_in function-call counts, 11130 in all, are:
+= -- 1081
+> -- 391
+< -- 33
++ -- 122
+- -- 122
+* -- 799
+:= -- 2089
+add.period$ -- 120
+call.type$ -- 37
+change.case$ -- 236
+chr.to.int$ -- 37
+cite$ -- 40
+duplicate$ -- 479
+empty$ -- 777
+format.name$ -- 169
+if$ -- 2123
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 38
-newline$ -- 175
-num.names$ -- 102
-pop$ -- 209
+missing$ -- 41
+newline$ -- 195
+num.names$ -- 111
+pop$ -- 222
 preamble$ -- 1
-purify$ -- 227
+purify$ -- 246
 quote$ -- 0
-skip$ -- 340
+skip$ -- 370
 stack$ -- 0
-substring$ -- 464
-swap$ -- 31
+substring$ -- 500
+swap$ -- 32
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 178
-warning$ -- 2
-while$ -- 72
+type$ -- 194
+warning$ -- 3
+while$ -- 78
 width$ -- 0
-write$ -- 432
-(There were 8 warnings)
+write$ -- 478
+(There were 10 warnings)

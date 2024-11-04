@@ -3,10 +3,18 @@
 \bibitem[Aquafish, 2024]{aquafish}
 Aquafish (2024).
 \newblock Cono imhof sedimentador | aquafish.
+\newblock Disponible en:
+  \url{https://aquafishsoluciones.co/producto/cono-imhof/}.
+
+\bibitem[{Comisión Estatal del Agua Jalisco}, 2015]{CEAJ2015}
+{Comisión Estatal del Agua Jalisco} (2015).
+\newblock Ficha técnica hodrológica municipal.
 
 \bibitem[{Comisión Estatal del Agua Jalisco}, 2024]{CEAJ24}
 {Comisión Estatal del Agua Jalisco} (2024).
 \newblock Plantas de tratamiento.
+\newblock Disponible en:
+  \url{http://www.ceajalisco.gob.mx/contenido/seida/plantas_tratamiento.php}.
 
 \bibitem[{Comisión Nacional del Agua (CONAGUA)}, 2011]{aa2030}
 {Comisión Nacional del Agua (CONAGUA)} (2011).
@@ -23,11 +31,21 @@ Aquafish (2024).
 \bibitem[{Comisión Nacional del Agua (CONAGUA)}, 2024]{CNA2024}
 {Comisión Nacional del Agua (CONAGUA)} (2024).
 \newblock Monitor de sequía de méxico.
+\newblock Disponible en:
+  \url{https://smn.conagua.gob.mx/tools/DATA/Climatología/Sequía/Monitor de
+  sequía en México/Seguimiento de Sequía/MSM20240415.pdf}.
 
 \bibitem[Crites y Tchobanoglous, 2000]{crites2000}
 Crites, R. y Tchobanoglous, G. (2000).
 \newblock {\em Tratamiento de aguas residuales en pequeñas poblaciones}.
 \newblock McGraw-Hill Interamericana, S.A., 1a edición.
+
+\bibitem[Cruz y Juárez, 2024]{Cruz2024}
+Cruz, O. y Juárez, D. (2024).
+\newblock ¿vacías o a tope? ve estado actual de las presas más importantes
+  de méxico tras últimas lluvias.
+\newblock Disponible en:
+  \url{https://www.unotv.com/nacional/presas-de-mexico-cual-es-su-estado-actual-y-que-porcentaje-de-agua-tienen-tras-lluvias/}.
 
 \bibitem[Eckenfelder, 2000]{Eckenfelder2000}
 Eckenfelder, W.~W. (2000).
@@ -64,6 +82,8 @@ Fair, G.~M., Geyer, J.~C., y Okun, D.~A. (2008).
 \bibitem[{Google LLC}, 2023]{Maps}
 {Google LLC} (2023).
 \newblock Google maps.
+\newblock Disponibl en:
+  \url{https://www.google.com/maps/search/ptar/@21.4112226,-101.9614625,25518m/data=!3m1!1e3?entry=ttu}.
 
 \bibitem[Hanchang, 2009]{Hanchang2009}
 Hanchang, S. (2009).
@@ -103,6 +123,8 @@ Kamberovi{\'c}, {\v{Z}}., Kora{\'c}, M., An{\dj}i{\'c}, Z., {\v{S}}tulovi{\'c},
 Lobov (2023).
 \newblock Filtro de fibra de vidrio grado 934-ah whatman de cytiva. para
   análisis de sólidos en suspensión totales.
+\newblock Disponible en:
+  \url{https://www.lobov.com.ar/papel-fibra-de-vidrio-y-de-cuarzo-filtro-de-fibra-de-vidrio-grado-934-ah-whatman-de-cytiva-para-analisis-de-solidos-en-suspension-totales--det--WEBWH1827}.
 
 \bibitem[{Martínez Delgadillo}, 1999]{martinez1999}
 {Martínez Delgadillo}, S.~A. (1999).
@@ -139,6 +161,11 @@ Pérez, T., Carrasco, T., y Núñez, L.~A. (2005).
 \newblock {\em Revista Cubana de Ciencia Agrícola}.
 \newblock Disponible en:
   \url{https://www.redalyc.org/articulo.oa?id=193017771012}.
+
+\bibitem[Ramalho, 2003]{Ramalho2003}
+Ramalho, R.~S. (2003).
+\newblock {\em Tratamiento de aguas residuales}.
+\newblock Editorial Reverté.
 
 \bibitem[{Secretaría de Economía}, 2015]{Economia2015}
 {Secretaría de Economía} (2015).
@@ -189,6 +216,7 @@ von Sperling, M. (2007).
 \bibitem[Wiggens, 2023]{Wiggens}
 Wiggens (2023).
 \newblock Kit de filtración por succión al vacío - filtración al vacío.
+\newblock Disponible en: \url{http://es.wiggens.com/show-132-135-1.html}.
 
 \bibitem[Wu et~al., 2017]{wu2017}
 Wu, P., Jiang, L.~Y., He, Z., y Song, Y. (2017).
