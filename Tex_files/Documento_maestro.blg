@@ -54,45 +54,45 @@ Warning--entry type for "CNA2024" isn't style-file defined
 Warning--empty journal in CEAJ2015
 Warning--empty journal in MSASA
 Warning--empty journal in ODS23
-You've used 37 entries,
+You've used 38 entries,
             1935 wiz_defined-function locations,
-            713 strings with 11650 characters,
-and the built_in function-call counts, 11130 in all, are:
-= -- 1081
-> -- 391
-< -- 33
-+ -- 122
-- -- 122
-* -- 799
-:= -- 2089
-add.period$ -- 120
-call.type$ -- 37
-change.case$ -- 236
-chr.to.int$ -- 37
-cite$ -- 40
-duplicate$ -- 479
-empty$ -- 777
-format.name$ -- 169
-if$ -- 2123
+            721 strings with 11823 characters,
+and the built_in function-call counts, 11422 in all, are:
+= -- 1110
+> -- 398
+< -- 34
++ -- 126
+- -- 124
+* -- 820
+:= -- 2144
+add.period$ -- 124
+call.type$ -- 38
+change.case$ -- 242
+chr.to.int$ -- 38
+cite$ -- 41
+duplicate$ -- 492
+empty$ -- 798
+format.name$ -- 172
+if$ -- 2178
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 41
-newline$ -- 195
-num.names$ -- 111
-pop$ -- 222
+missing$ -- 42
+newline$ -- 201
+num.names$ -- 114
+pop$ -- 224
 preamble$ -- 1
-purify$ -- 246
+purify$ -- 252
 quote$ -- 0
-skip$ -- 370
+skip$ -- 382
 stack$ -- 0
-substring$ -- 500
-swap$ -- 32
+substring$ -- 514
+swap$ -- 33
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 194
+type$ -- 200
 warning$ -- 3
-while$ -- 78
+while$ -- 80
 width$ -- 0
-write$ -- 478
+write$ -- 493
 (There were 10 warnings)

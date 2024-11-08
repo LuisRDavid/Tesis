@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.7.27)  3 NOV 2024 22:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.7.27)  8 NOV 2024 13:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2052,7 +2052,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [28 <../Images/Sequia.pdf>]
 \openout2 = `Justificacion.aux'.
 
- (Justificacion.tex)
+ (Justificacion.tex
+LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <12> not available
+(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 5.
+)
 LaTeX Info: Redefining \. on input line 135.
 LaTeX Info: Redefining \% on input line 135.
 
@@ -2200,32 +2203,32 @@ agua . gob . mx / tools / DATA / ClimatologÃ­a / SequÃ­a /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--49
+Underfull \hbox (badness 10000) in paragraph at lines 51--56
 []\T1/phv/m/n/12 (+20) Cruz, O. y Juá-rez, D. (2024).  ¾va-cías o a to-pe? ve e
 s-ta-do
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--49
+Underfull \hbox (badness 10000) in paragraph at lines 51--56
 \T1/phv/m/n/12 (+20) ac-tual de las pre-sas más im-por-tan-tes de mé-xi-co tras
  úl-ti-mas
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--49
+Underfull \hbox (badness 10000) in paragraph at lines 51--56
 \T1/phv/m/n/12 (+20) llu-vias.  Dis-po-ni-ble en: []$\T1/cmtt/m/n/12 https : / 
 / www . unotv . com / nacional /
  []
 
 
-Overfull \hbox (85.24165pt too wide) in paragraph at lines 44--49
+Overfull \hbox (85.24165pt too wide) in paragraph at lines 51--56
 \T1/cmtt/m/n/12 presas-[]de-[]mexico-[]cual-[]es-[]su-[]estado-[]actual-[]y-[]q
 ue-[]porcentaje-[]de-[]agua-[]tienen-[]tras-[]lluvias/$[]\T1/phv/m/n/12 (-20) .
  
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 63--68
+Underfull \hbox (badness 1019) in paragraph at lines 70--75
 []\T1/phv/m/n/12 (+20) Eunice, P. (2022).  Gua-da-la-ja-ra: la ciu-dad con ma-y
 or cre-ci-mien-to in-dus-trial del
  []
@@ -2244,33 +2247,33 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
-Underfull \hbox (badness 1043) in paragraph at lines 89--94
+Underfull \hbox (badness 1043) in paragraph at lines 96--101
 []\T1/phv/m/n/12 (+20) Hanchang, S. (2009).  In-dus-trial wastewater-types, amo
 unts and ef-fects.  \T1/phv/m/sl/12 (+20) Point
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--94
+Underfull \hbox (badness 10000) in paragraph at lines 96--101
 \T1/cmtt/m/n/12 / / books . google . com . mx / books ? hl = es & lr = &id = dq
 2kCwAAQBAJ & oi = fnd & pg = PA191 &
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--94
+Underfull \hbox (badness 10000) in paragraph at lines 96--101
 \T1/cmtt/m/n/12 dq = industrial + wastewater & ots = 4u-[]1QIXVDy & sig = LuS6k
 XBqh5CQn3A9yYQCozcckLA &
  []
 
 
-Overfull \hbox (499.19215pt too wide) in paragraph at lines 123--128
+Overfull \hbox (499.19215pt too wide) in paragraph at lines 130--135
 \T1/cmtt/m/n/12 papel-[]fibra-[]de-[]vidrio-[]y-[]de-[]cuarzo-[]filtro-[]de-[]f
 ibra-[]de-[]vidrio-[]grado-[]934-[]ah-[]whatman-[]de-[]cytiva-[]para-[]analisis
 -[]de-[]solidos-[]en-[]suspension-[]totales-[]-[]det-[]-[]WEBWH1827$[]\T1/phv/m
 /n/12 (-20) . 
  []
 
-LaTeX Info: Redefining \. on input line 151.
-LaTeX Info: Redefining \% on input line 151.
+LaTeX Info: Redefining \. on input line 153.
+LaTeX Info: Redefining \% on input line 153.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2280,8 +2283,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [37]
-LaTeX Info: Redefining \. on input line 221.
-LaTeX Info: Redefining \% on input line 221.
+LaTeX Info: Redefining \. on input line 223.
+LaTeX Info: Redefining \% on input line 223.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2307,7 +2310,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout2 = `Anexos.aux'.
 
  (Anexos.tex
-<../Images/nmx-aa-008-scfi-2016_page-0001.jpg, id=1964, 614.7768pt x 607.068pt>
+<../Images/nmx-aa-008-scfi-2016_page-0001.jpg, id=1971, 614.7768pt x 607.068pt>
 
 File: ../Images/nmx-aa-008-scfi-2016_page-0001.jpg Graphic file (type jpg)
 <use ../Images/nmx-aa-008-scfi-2016_page-0001.jpg>
@@ -2328,7 +2331,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
  <../Images/nmx-aa-008-scfi-2016_page-0001.jpg>]
-<Normas/NMX-AA-008-SCFI-2016.pdf, id=1973, 614.295pt x 794.97pt>
+<Normas/NMX-AA-008-SCFI-2016.pdf, id=1980, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-008-SCFI-2016.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-008-SCFI-2016.pdf>
 Package pdftex.def Info: Normas/NMX-AA-008-SCFI-2016.pdf  used on input line 9.
@@ -2339,7 +2342,7 @@ File: Normas/NMX-AA-008-SCFI-2016.pdf Graphic file (type pdf)
 Package pdftex.def Info: Normas/NMX-AA-008-SCFI-2016.pdf  used on input line 9.
 
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<Normas/NMX-AA-008-SCFI-2016.pdf, id=1976, page=1, 614.295pt x 794.97pt>
+<Normas/NMX-AA-008-SCFI-2016.pdf, id=1983, page=1, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-008-SCFI-2016.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-008-SCFI-2016.pdf, page 1>
 Package pdftex.def Info: Normas/NMX-AA-008-SCFI-2016.pdf , page1 used on input 
@@ -2377,7 +2380,7 @@ line 9.
 [2
 
  <./Normas/NMX-AA-008-SCFI-2016.pdf>]
-<Normas/NMX-AA-008-SCFI-2016.pdf, id=1994, page=2, 614.295pt x 794.97pt>
+<Normas/NMX-AA-008-SCFI-2016.pdf, id=2001, page=2, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-008-SCFI-2016.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-008-SCFI-2016.pdf, page 2>
 Package pdftex.def Info: Normas/NMX-AA-008-SCFI-2016.pdf , page2 used on input 
@@ -2403,7 +2406,7 @@ Package pdftex.def Info: Normas/NMX-AA-008-SCFI-2016.pdf , page2 used on input
 line 9.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [3 <./Normas/NMX-AA-008-SCFI-2016.pdf>]
-<Normas/NMX-AA-008-SCFI-2016.pdf, id=1999, page=3, 614.295pt x 794.97pt>
+<Normas/NMX-AA-008-SCFI-2016.pdf, id=2006, page=3, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-008-SCFI-2016.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-008-SCFI-2016.pdf, page 3>
 Package pdftex.def Info: Normas/NMX-AA-008-SCFI-2016.pdf , page3 used on input 
@@ -2429,7 +2432,7 @@ Package pdftex.def Info: Normas/NMX-AA-008-SCFI-2016.pdf , page3 used on input
 line 9.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [4 <./Normas/NMX-AA-008-SCFI-2016.pdf>]
-<../Images/NMX-AA-034-SCFI-2015_page-0001.jpg, id=2004, 614.7768pt x 564.1878pt
+<../Images/NMX-AA-034-SCFI-2015_page-0001.jpg, id=2011, 614.7768pt x 564.1878pt
 >
 File: ../Images/NMX-AA-034-SCFI-2015_page-0001.jpg Graphic file (type jpg)
 <use ../Images/NMX-AA-034-SCFI-2015_page-0001.jpg>
@@ -2446,7 +2449,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [5 <../Images/NMX-AA-034-SCFI-2015_page-0001.jpg>]
-<Normas/NMX-AA-034-SCFI-2015.pdf, id=2012, 614.295pt x 794.97pt>
+<Normas/NMX-AA-034-SCFI-2015.pdf, id=2019, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-034-SCFI-2015.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-034-SCFI-2015.pdf>
 Package pdftex.def Info: Normas/NMX-AA-034-SCFI-2015.pdf  used on input line 17
@@ -2457,7 +2460,7 @@ File: Normas/NMX-AA-034-SCFI-2015.pdf Graphic file (type pdf)
 Package pdftex.def Info: Normas/NMX-AA-034-SCFI-2015.pdf  used on input line 17
 .
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<Normas/NMX-AA-034-SCFI-2015.pdf, id=2015, page=1, 614.295pt x 794.97pt>
+<Normas/NMX-AA-034-SCFI-2015.pdf, id=2022, page=1, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-034-SCFI-2015.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-034-SCFI-2015.pdf, page 1>
 Package pdftex.def Info: Normas/NMX-AA-034-SCFI-2015.pdf , page1 used on input 
@@ -2495,7 +2498,7 @@ line 17.
 [6
 
  <./Normas/NMX-AA-034-SCFI-2015.pdf>]
-<Normas/NMX-AA-034-SCFI-2015.pdf, id=2035, page=2, 614.295pt x 794.97pt>
+<Normas/NMX-AA-034-SCFI-2015.pdf, id=2042, page=2, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-034-SCFI-2015.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-034-SCFI-2015.pdf, page 2>
 Package pdftex.def Info: Normas/NMX-AA-034-SCFI-2015.pdf , page2 used on input 
@@ -2521,7 +2524,7 @@ Package pdftex.def Info: Normas/NMX-AA-034-SCFI-2015.pdf , page2 used on input
 line 17.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [7 <./Normas/NMX-AA-034-SCFI-2015.pdf>]
-<Normas/NMX-AA-034-SCFI-2015.pdf, id=2041, page=3, 614.295pt x 794.97pt>
+<Normas/NMX-AA-034-SCFI-2015.pdf, id=2048, page=3, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-034-SCFI-2015.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-034-SCFI-2015.pdf, page 3>
 Package pdftex.def Info: Normas/NMX-AA-034-SCFI-2015.pdf , page3 used on input 
@@ -2547,7 +2550,7 @@ Package pdftex.def Info: Normas/NMX-AA-034-SCFI-2015.pdf , page3 used on input
 line 17.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [8 <./Normas/NMX-AA-034-SCFI-2015.pdf>]
-<../Images/NMX-AA-028-SCFI-2001(DBO5)_page-0020.jpg, id=2046, 614.295pt x 399.4
+<../Images/NMX-AA-028-SCFI-2001(DBO5)_page-0020.jpg, id=2053, 614.295pt x 399.4
 122pt>
 File: ../Images/NMX-AA-028-SCFI-2001(DBO5)_page-0020.jpg Graphic file (type jpg
 )
@@ -2569,7 +2572,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [9 <../Images/NMX-AA-028-SCFI-2001(DBO5)_page-0020.jpg>]
-<Normas/NMX-AA-028-SCFI-2001.pdf, id=2054, 614.295pt x 794.97pt>
+<Normas/NMX-AA-028-SCFI-2001.pdf, id=2061, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-028-SCFI-2001.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-028-SCFI-2001.pdf>
 Package pdftex.def Info: Normas/NMX-AA-028-SCFI-2001.pdf  used on input line 25
@@ -2580,7 +2583,7 @@ File: Normas/NMX-AA-028-SCFI-2001.pdf Graphic file (type pdf)
 Package pdftex.def Info: Normas/NMX-AA-028-SCFI-2001.pdf  used on input line 25
 .
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<Normas/NMX-AA-028-SCFI-2001.pdf, id=2057, page=1, 614.295pt x 794.97pt>
+<Normas/NMX-AA-028-SCFI-2001.pdf, id=2064, page=1, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-028-SCFI-2001.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-028-SCFI-2001.pdf, page 1>
 Package pdftex.def Info: Normas/NMX-AA-028-SCFI-2001.pdf , page1 used on input 
@@ -2618,7 +2621,7 @@ line 25.
 [10
 
  <./Normas/NMX-AA-028-SCFI-2001.pdf>]
-<Normas/NMX-AA-028-SCFI-2001.pdf, id=2071, page=2, 614.295pt x 794.97pt>
+<Normas/NMX-AA-028-SCFI-2001.pdf, id=2078, page=2, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-028-SCFI-2001.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-028-SCFI-2001.pdf, page 2>
 Package pdftex.def Info: Normas/NMX-AA-028-SCFI-2001.pdf , page2 used on input 
@@ -2644,7 +2647,7 @@ Package pdftex.def Info: Normas/NMX-AA-028-SCFI-2001.pdf , page2 used on input
 line 25.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [11 <./Normas/NMX-AA-028-SCFI-2001.pdf>]
-<Normas/NMX-AA-028-SCFI-2001.pdf, id=2076, page=3, 614.295pt x 794.97pt>
+<Normas/NMX-AA-028-SCFI-2001.pdf, id=2083, page=3, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-028-SCFI-2001.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-028-SCFI-2001.pdf, page 3>
 Package pdftex.def Info: Normas/NMX-AA-028-SCFI-2001.pdf , page3 used on input 
@@ -2670,7 +2673,7 @@ Package pdftex.def Info: Normas/NMX-AA-028-SCFI-2001.pdf , page3 used on input
 line 25.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [12 <./Normas/NMX-AA-028-SCFI-2001.pdf>]
-<Normas/NMX-AA-028-SCFI-2001.pdf, id=2081, page=4, 614.295pt x 794.97pt>
+<Normas/NMX-AA-028-SCFI-2001.pdf, id=2088, page=4, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-028-SCFI-2001.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-028-SCFI-2001.pdf, page 4>
 Package pdftex.def Info: Normas/NMX-AA-028-SCFI-2001.pdf , page4 used on input 
@@ -2696,7 +2699,7 @@ Package pdftex.def Info: Normas/NMX-AA-028-SCFI-2001.pdf , page4 used on input
 line 25.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [13 <./Normas/NMX-AA-028-SCFI-2001.pdf>]
-<../Images/NMX-AA-026-SCFI-2010.jpg, id=2087, 590.205pt x 356.0803pt>
+<../Images/NMX-AA-026-SCFI-2010.jpg, id=2094, 590.205pt x 356.0803pt>
 File: ../Images/NMX-AA-026-SCFI-2010.jpg Graphic file (type jpg)
 <use ../Images/NMX-AA-026-SCFI-2010.jpg>
 Package pdftex.def Info: ../Images/NMX-AA-026-SCFI-2010.jpg  used on input line
@@ -2716,7 +2719,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [14 <../Images/NMX-AA-026-SCFI-2010.jpg>]
-<Normas/NMX-AA-026-SCFI-2010.pdf, id=2095, 614.295pt x 794.97pt>
+<Normas/NMX-AA-026-SCFI-2010.pdf, id=2102, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-026-SCFI-2010.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-026-SCFI-2010.pdf>
 Package pdftex.def Info: Normas/NMX-AA-026-SCFI-2010.pdf  used on input line 33
@@ -2727,7 +2730,7 @@ File: Normas/NMX-AA-026-SCFI-2010.pdf Graphic file (type pdf)
 Package pdftex.def Info: Normas/NMX-AA-026-SCFI-2010.pdf  used on input line 33
 .
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<Normas/NMX-AA-026-SCFI-2010.pdf, id=2098, page=1, 614.295pt x 794.97pt>
+<Normas/NMX-AA-026-SCFI-2010.pdf, id=2105, page=1, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-026-SCFI-2010.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-026-SCFI-2010.pdf, page 1>
 Package pdftex.def Info: Normas/NMX-AA-026-SCFI-2010.pdf , page1 used on input 
@@ -2765,7 +2768,7 @@ line 33.
 [15
 
  <./Normas/NMX-AA-026-SCFI-2010.pdf>]
-<Normas/NMX-AA-026-SCFI-2010.pdf, id=2112, page=2, 614.295pt x 794.97pt>
+<Normas/NMX-AA-026-SCFI-2010.pdf, id=2119, page=2, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-026-SCFI-2010.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-026-SCFI-2010.pdf, page 2>
 Package pdftex.def Info: Normas/NMX-AA-026-SCFI-2010.pdf , page2 used on input 
@@ -2791,7 +2794,7 @@ Package pdftex.def Info: Normas/NMX-AA-026-SCFI-2010.pdf , page2 used on input
 line 33.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [16 <./Normas/NMX-AA-026-SCFI-2010.pdf>]
-<../Images/NMX-AA-030-2-SCFI-2011.jpg, id=2117, 590.205pt x 356.0803pt>
+<../Images/NMX-AA-030-2-SCFI-2011.jpg, id=2124, 590.205pt x 356.0803pt>
 File: ../Images/NMX-AA-030-2-SCFI-2011.jpg Graphic file (type jpg)
 <use ../Images/NMX-AA-030-2-SCFI-2011.jpg>
 Package pdftex.def Info: ../Images/NMX-AA-030-2-SCFI-2011.jpg  used on input li
@@ -2811,7 +2814,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [17 <../Images/NMX-AA-030-2-SCFI-2011.jpg>]
-<Normas/NMX-AA-030-2-SCFI-2011.pdf, id=2125, 614.295pt x 794.97pt>
+<Normas/NMX-AA-030-2-SCFI-2011.pdf, id=2132, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-030-2-SCFI-2011.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-030-2-SCFI-2011.pdf>
 Package pdftex.def Info: Normas/NMX-AA-030-2-SCFI-2011.pdf  used on input line 
@@ -2822,7 +2825,7 @@ File: Normas/NMX-AA-030-2-SCFI-2011.pdf Graphic file (type pdf)
 Package pdftex.def Info: Normas/NMX-AA-030-2-SCFI-2011.pdf  used on input line 
 41.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<Normas/NMX-AA-030-2-SCFI-2011.pdf, id=2128, page=1, 614.295pt x 794.97pt>
+<Normas/NMX-AA-030-2-SCFI-2011.pdf, id=2135, page=1, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-030-2-SCFI-2011.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-030-2-SCFI-2011.pdf, page 1>
 Package pdftex.def Info: Normas/NMX-AA-030-2-SCFI-2011.pdf , page1 used on inpu
@@ -2860,7 +2863,7 @@ t line 41.
 [18
 
  <./Normas/NMX-AA-030-2-SCFI-2011.pdf>]
-<Normas/NMX-AA-030-2-SCFI-2011.pdf, id=2142, page=2, 614.295pt x 794.97pt>
+<Normas/NMX-AA-030-2-SCFI-2011.pdf, id=2149, page=2, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-030-2-SCFI-2011.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-030-2-SCFI-2011.pdf, page 2>
 Package pdftex.def Info: Normas/NMX-AA-030-2-SCFI-2011.pdf , page2 used on inpu
@@ -2886,7 +2889,7 @@ Package pdftex.def Info: Normas/NMX-AA-030-2-SCFI-2011.pdf , page2 used on inpu
 t line 41.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [19 <./Normas/NMX-AA-030-2-SCFI-2011.pdf>]
-<../Images/NMX-AA-012-SCFI-2001.jpg, id=2148, 557.08125pt x 317.68687pt>
+<../Images/NMX-AA-012-SCFI-2001.jpg, id=2155, 557.08125pt x 317.68687pt>
 File: ../Images/NMX-AA-012-SCFI-2001.jpg Graphic file (type jpg)
 <use ../Images/NMX-AA-012-SCFI-2001.jpg>
 Package pdftex.def Info: ../Images/NMX-AA-012-SCFI-2001.jpg  used on input line
@@ -2902,7 +2905,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [20 <../Images/NMX-AA-012-SCFI-2001.jpg>]
-<Normas/NMX-AA-012-SCFI-2001.pdf, id=2156, 614.295pt x 794.97pt>
+<Normas/NMX-AA-012-SCFI-2001.pdf, id=2163, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-012-SCFI-2001.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-012-SCFI-2001.pdf>
 Package pdftex.def Info: Normas/NMX-AA-012-SCFI-2001.pdf  used on input line 49
@@ -2913,7 +2916,7 @@ File: Normas/NMX-AA-012-SCFI-2001.pdf Graphic file (type pdf)
 Package pdftex.def Info: Normas/NMX-AA-012-SCFI-2001.pdf  used on input line 49
 .
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<Normas/NMX-AA-012-SCFI-2001.pdf, id=2159, page=1, 614.295pt x 794.97pt>
+<Normas/NMX-AA-012-SCFI-2001.pdf, id=2166, page=1, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-012-SCFI-2001.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-012-SCFI-2001.pdf, page 1>
 Package pdftex.def Info: Normas/NMX-AA-012-SCFI-2001.pdf , page1 used on input 
@@ -3008,11 +3011,11 @@ LaTeX Info: Redefining \% on input line 34.
 (Materiales.aux) (Resultados.aux) (Discusion.aux) (Conclusiones.aux)
 (Perspectivas.aux) (Anexos.aux)) ) 
 Here is how much of TeX's memory you used:
- 28375 strings out of 476331
- 502784 string characters out of 5787765
+ 28390 strings out of 476331
+ 502977 string characters out of 5787765
  1877660 words of memory out of 5000000
- 47615 multiletter control sequences out of 15000+600000
- 573067 words of font info for 295 fonts, out of 8000000 for 9000
+ 47621 multiletter control sequences out of 15000+600000
+ 573739 words of font info for 300 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,21n,90p,2263b,809s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
@@ -3038,9 +3041,9 @@ ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/luisr/AppData/
 Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/luisr/AppDa
 ta/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/luisr/Ap
 pData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on Documento_maestro.pdf (73 pages, 7010572 bytes).
+Output written on Documento_maestro.pdf (73 pages, 7015413 bytes).
 PDF statistics:
- 2574 PDF objects out of 2984 (max. 8388607)
- 232 named destinations out of 1000 (max. 500000)
- 77014 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 2580 PDF objects out of 2984 (max. 8388607)
+ 233 named destinations out of 1000 (max. 500000)
+ 79062 words of extra memory for PDF output out of 89155 (max. 10000000)
 
