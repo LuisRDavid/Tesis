@@ -1,98 +1,80 @@
-This is BibTeX, Version 0.99d
+This is BibTeX, Version 0.99d (TeX Live 2023/Fedora 39)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Documento_maestro.aux
-Reallocating 'name_of_file' (item size: 1) to 12 items.
 A level-1 auxiliary file: Portada.aux
-Reallocating 'name_of_file' (item size: 1) to 16 items.
 A level-1 auxiliary file: Dedicatoria.aux
-Reallocating 'name_of_file' (item size: 1) to 20 items.
 A level-1 auxiliary file: Agradecimientos.aux
-Reallocating 'name_of_file' (item size: 1) to 12 items.
 A level-1 auxiliary file: Resumen.aux
-Reallocating 'name_of_file' (item size: 1) to 13 items.
 A level-1 auxiliary file: Abstract.aux
-Reallocating 'name_of_file' (item size: 1) to 17 items.
 A level-1 auxiliary file: Introduccion.aux
-Reallocating 'name_of_file' (item size: 1) to 17 items.
 A level-1 auxiliary file: Antecedentes.aux
-Reallocating 'name_of_file' (item size: 1) to 18 items.
 A level-1 auxiliary file: Planteamiento.aux
-Reallocating 'name_of_file' (item size: 1) to 18 items.
 A level-1 auxiliary file: Justificacion.aux
-Reallocating 'name_of_file' (item size: 1) to 14 items.
 A level-1 auxiliary file: Objetivos.aux
-Reallocating 'name_of_file' (item size: 1) to 15 items.
 A level-1 auxiliary file: Materiales.aux
-Reallocating 'name_of_file' (item size: 1) to 15 items.
 A level-1 auxiliary file: Resultados.aux
-Reallocating 'name_of_file' (item size: 1) to 14 items.
 A level-1 auxiliary file: Discusion.aux
-Reallocating 'name_of_file' (item size: 1) to 17 items.
 A level-1 auxiliary file: Conclusiones.aux
-Reallocating 'name_of_file' (item size: 1) to 17 items.
 A level-1 auxiliary file: Perspectivas.aux
-Reallocating 'name_of_file' (item size: 1) to 8 items.
 The style file: apalike.bst
-Reallocating 'name_of_file' (item size: 1) to 31 items.
-Reallocating 'name_of_file' (item size: 1) to 11 items.
 A level-1 auxiliary file: Anexos.aux
 Database file #1: ../Bibliography/References.bib
 Warning--entry type for "Maps" isn't style-file defined
---line 773 of file ../Bibliography/References.bib
+--line 387 of file ../Bibliography/References.bib
 Warning--entry type for "aquafish" isn't style-file defined
---line 793 of file ../Bibliography/References.bib
+--line 397 of file ../Bibliography/References.bib
 Warning--entry type for "Wiggens" isn't style-file defined
---line 811 of file ../Bibliography/References.bib
+--line 406 of file ../Bibliography/References.bib
 Warning--entry type for "Lobov" isn't style-file defined
---line 829 of file ../Bibliography/References.bib
+--line 415 of file ../Bibliography/References.bib
 Warning--entry type for "CEAJ24" isn't style-file defined
---line 867 of file ../Bibliography/References.bib
+--line 434 of file ../Bibliography/References.bib
 Warning--entry type for "Cruz2024" isn't style-file defined
---line 885 of file ../Bibliography/References.bib
+--line 443 of file ../Bibliography/References.bib
 Warning--entry type for "CNA2024" isn't style-file defined
---line 905 of file ../Bibliography/References.bib
+--line 453 of file ../Bibliography/References.bib
 Warning--empty journal in CEAJ2015
 Warning--empty journal in MSASA
 Warning--empty journal in ODS23
-You've used 38 entries,
+You've used 39 entries,
             1935 wiz_defined-function locations,
-            721 strings with 11823 characters,
-and the built_in function-call counts, 11422 in all, are:
-= -- 1110
-> -- 398
+            725 strings with 11981 characters,
+and the built_in function-call counts, 11937 in all, are:
+= -- 1153
+> -- 426
 < -- 34
-+ -- 126
-- -- 124
-* -- 820
-:= -- 2144
-add.period$ -- 124
-call.type$ -- 38
-change.case$ -- 242
-chr.to.int$ -- 38
-cite$ -- 41
-duplicate$ -- 492
-empty$ -- 798
-format.name$ -- 172
-if$ -- 2178
++ -- 136
+- -- 134
+* -- 872
+:= -- 2235
+add.period$ -- 128
+call.type$ -- 39
+change.case$ -- 252
+chr.to.int$ -- 39
+cite$ -- 42
+duplicate$ -- 506
+empty$ -- 834
+format.name$ -- 183
+if$ -- 2278
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 42
-newline$ -- 201
-num.names$ -- 114
-pop$ -- 224
+missing$ -- 43
+newline$ -- 207
+num.names$ -- 117
+pop$ -- 231
 preamble$ -- 1
-purify$ -- 252
+purify$ -- 262
 quote$ -- 0
-skip$ -- 382
+skip$ -- 392
 stack$ -- 0
-substring$ -- 514
-swap$ -- 33
+substring$ -- 557
+swap$ -- 34
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 200
+type$ -- 206
 warning$ -- 3
-while$ -- 80
+while$ -- 81
 width$ -- 0
-write$ -- 493
+write$ -- 508
 (There were 10 warnings)

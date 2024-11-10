@@ -19,7 +19,7 @@ Aquafish (2024).
 \bibitem[{Comisión Nacional del Agua (CONAGUA)}, 2011]{aa2030}
 {Comisión Nacional del Agua (CONAGUA)} (2011).
 \newblock {\em Agenda del Agua 2030}.
-\newblock SEMARNAT M{\'e}xico, M{\'e}xico, D. F.
+\newblock SEMARNAT México, México, D. F.
 
 \bibitem[{Comisión Nacional del Agua (CONAGUA)}, 2023]{EAM}
 {Comisión Nacional del Agua (CONAGUA)} (2023).
@@ -42,13 +42,13 @@ Costa, C. (2022).
 \newblock {\em Water}, 14(7).
 \newblock Disponible en: \url{https://www.mdpi.com/2073-4441/14/7/1046}.
 
-\bibitem[Crites y Tchobanoglous, 2000]{crites2000}
-Crites, R. y Tchobanoglous, G. (2000).
+\bibitem[Crites and Tchobanoglous, 2000]{crites2000}
+Crites, R. and Tchobanoglous, G. (2000).
 \newblock {\em Tratamiento de aguas residuales en pequeñas poblaciones}.
-\newblock McGraw-Hill Interamericana, S.A., 1a edición.
+\newblock McGraw-Hill Interamericana, S.A., 1a edition.
 
-\bibitem[Cruz y Juárez, 2024]{Cruz2024}
-Cruz, O. y Juárez, D. (2024).
+\bibitem[Cruz and Juárez, 2024]{Cruz2024}
+Cruz, O. and Juárez, D. (2024).
 \newblock ¿vacías o a tope? ve estado actual de las presas más importantes
   de méxico tras últimas lluvias.
 \newblock Disponible en:
@@ -57,7 +57,7 @@ Cruz, O. y Juárez, D. (2024).
 \bibitem[Eckenfelder, 2000]{Eckenfelder2000}
 Eckenfelder, W.~W. (2000).
 \newblock {\em Industrial Water Pollution Control}.
-\newblock McGraw Hill, 3ra edición.
+\newblock McGraw Hill, 3ra edition.
 
 \bibitem[{EPA}, 2023]{EPA}
 {EPA}, U. S. E. P.~A. (2023).
@@ -74,10 +74,18 @@ Eunice, P. (2022).
   \url{https://mexicoindustry.com/noticia/guadalajara-la-ciudad-con-mayor-crecimiento-industrial-del-bajio-}.
 
 \bibitem[Fair et~al., 2008]{Fair2008}
-Fair, G.~M., Geyer, J.~C., y Okun, D.~A. (2008).
+Fair, G.~M., Geyer, J.~C., and Okun, D.~A. (2008).
 \newblock {\em Purificación de aguas y tratamiento y remoción de aguas
-  residuales}, volumen~2.
-\newblock Limusa, México, 4a edición.
+  residuales}, volume~2.
+\newblock Limusa, México, 4a edition.
+
+\bibitem[Gernaey et~al., 2004]{Gernaey04}
+Gernaey, K.~V., van Loosdrecht, M. C.~M., Henze, M., Lind, M., and Jørgensen,
+  S.~B. (2004).
+\newblock Activated sludge wastewater treatment plant modelling and simulation:
+  state of the art.
+\newblock {\em Environmental Modelling \& Software}, 19(9):763–783.
+\newblock ID: 271872.
 
 \bibitem[{Gobierno de Jalisco}, nd]{Lagosjal}
 {Gobierno de Jalisco} (n.d.).
@@ -114,17 +122,10 @@ INEGI (n.d.).
 \newblock Disponible en:
   \url{https://www.inegi.org.mx/programas/cngmd/2021/#tabulados}.
 
-\bibitem[Kamberovi{\'c} et~al., 2012]{Kamberovic2012}
-Kamberovi{\'c}, {\v{Z}}., Kora{\'c}, M., An{\dj}i{\'c}, Z., {\v{S}}tulovi{\'c},
-  M., Kova{\v{c}}evi{\'c}, T., Vujovi{\'c}, A., y Ili{\'c}, I. (2012).
-\newblock Conceptual design for treatment of mining and metallurgical
-  wastewaters which contains arsenic and antimony.
-\newblock {\em Metallurgical and Materials Engineering}, 18(4):321--331.
-
 \bibitem[{Lazcano Carreño}, 2016]{lazcano2016}
 {Lazcano Carreño}, C.~A. (2016).
 \newblock {\em Biotecnología ambiental de aguas y aguas residuales}.
-\newblock Ecoe Ediciones, 2da edición.
+\newblock Ecoe Ediciones, 2da edition.
 
 \bibitem[Lobov, 2023]{Lobov}
 Lobov (2023).
@@ -138,10 +139,10 @@ Lobov (2023).
 \newblock {\em Parámetros de diseños de sistemas de tratamiento de aguas
   residuales: métodos experimentales}.
 \newblock Universidad Autónoma Metropolitana, Unidad Azcapotzalco, División
-  de Ciencias Básicas e Ingeniería, Departamento de Energía, 1a edición.
+  de Ciencias Básicas e Ingeniería, Departamento de Energía, 1a edition.
 
-\bibitem[{Martínez Delgadillo} y {Rodríguez Rosales}, 2005]{delgadillo2005}
-{Martínez Delgadillo}, S.~A. y {Rodríguez Rosales}, M.~G. (2005).
+\bibitem[{Martínez Delgadillo} and {Rodríguez Rosales}, 2005]{delgadillo2005}
+{Martínez Delgadillo}, S.~A. and {Rodríguez Rosales}, M.~G. (2005).
 \newblock {\em Tratamiento de aguas residuales con Matlab}.
 \newblock Editorial Reverte.
 
@@ -149,20 +150,20 @@ Lobov (2023).
 {Metcalf \& Eddy} (2004).
 \newblock {\em Wastewater Engineering: Treatment \& Reuse}.
 \newblock McGraw-Hill Series in Civil and Environmental Engineering.
-  McGraw-Hill, 4ta edición.
+  McGraw-Hill, 4ta edition.
 
 \bibitem[{MSASA - Construction Solutions for Africa}, nd]{MSASA}
 {MSASA - Construction Solutions for Africa} (n.d.).
 \newblock Bio-san c500.
 
-\bibitem[{Ortiz Rendón} y {Cruz Gutiérrez}, 2013]{Ortiz2013}
-{Ortiz Rendón}, G. y {Cruz Gutiérrez}, F. (2013).
+\bibitem[{Ortiz Rendón} and {Cruz Gutiérrez}, 2013]{Ortiz2013}
+{Ortiz Rendón}, G. and {Cruz Gutiérrez}, F. (2013).
 \newblock {\em Legislación y cultura del agua. Conceptos básicos de
   administración y legislación del agua en México}.
 \newblock Instituto Mexicano de Tecnología del Agua.
 
 \bibitem[Pérez et~al., 2005]{Perez2005}
-Pérez, T., Carrasco, T., y Núñez, L.~A. (2005).
+Pérez, T., Carrasco, T., and Núñez, L.~A. (2005).
 \newblock Dinámica de las características físico-químicas de aguas de un
   sistema en el que convergen residuales pecuarios y urbanos.
 \newblock {\em Revista Cubana de Ciencia Agrícola}.
@@ -192,27 +193,27 @@ Ramalho, R.~S. (2003).
 \bibitem[{Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT)}
   et~al., 2023]{ODS23}
 {Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT)}, {Comisión
-  Nacional del Agua(CONAGUA)}, y {Sistema Nacional de Información del Agua
+  Nacional del Agua(CONAGUA)}, and {Sistema Nacional de Información del Agua
   (SINA)} (2023).
 \newblock Objetivos de desarrollo sostenible.
 \newblock Disponible en:
   \url{https://agenda2030.mx/ODSind.html?ind=ODS006000250010&cveind=193&cveCob=99&lang=es#/Indicator}.
 
 \bibitem[Serway et~al., 2007]{serway2007}
-Serway, R., Jewett, J., y Olguín, V. (2007).
-\newblock {\em Física Para Ciencias E Ingeniería}, volumen~2 de {\em Física
+Serway, R., Jewett, J., and Olguín, V. (2007).
+\newblock {\em Física Para Ciencias E Ingeniería}, volume~2 of {\em Física
   para ciencias e ingeniería}.
 \newblock CENGAGE Learning.
 
-\bibitem[Sulimova y Litvinova, 2016]{Sulimova2016}
-Sulimova, M.~A. y Litvinova, T.~E. (2016).
+\bibitem[Sulimova and Litvinova, 2016]{Sulimova2016}
+Sulimova, M.~A. and Litvinova, T.~E. (2016).
 \newblock Metallurgical production waste treatment efficiency increase.
 
 \bibitem[von Sperling, 2007]{Sperling2007}
 von Sperling, M. (2007).
 \newblock Biological wastewater treatment series.
-\newblock En {\em Wastewater Characteristics, Treatment and Disposal},
-  volumen~1. IWA Publishing, UK.
+\newblock In {\em Wastewater Characteristics, Treatment and Disposal},
+  volume~1. IWA Publishing, UK.
 
 \bibitem[{Water Environment Federation}, 2022]{WEF}
 {Water Environment Federation} (2022).
@@ -226,14 +227,14 @@ Wiggens (2023).
 \newblock Disponible en: \url{http://es.wiggens.com/show-132-135-1.html}.
 
 \bibitem[Wu et~al., 2017]{wu2017}
-Wu, P., Jiang, L.~Y., He, Z., y Song, Y. (2017).
+Wu, P., Jiang, L.~Y., He, Z., and Song, Y. (2017).
 \newblock Treatment of metallurgical industry wastewater for organic
   contaminant removal in china: status, challenges, and perspectives.
 \newblock {\em Environmental Science: Water Research \& Technology},
-  3(6):1015--1031.
+  3(6):1015–1031.
 
 \bibitem[Zambrano et~al., 2009]{zambrano2009}
-Zambrano, X., Saltos, X., y Villamar, F. (2009).
+Zambrano, X., Saltos, X., and Villamar, F. (2009).
 \newblock Diseño del sistema de tratamiento para la depuración de las aguas
   residuales domésticas de la población {San Eloy} en la provincia de
   {Manabí} por medio de un sistema de tratamiento natural compuesto por un
@@ -241,5 +242,12 @@ Zambrano, X., Saltos, X., y Villamar, F. (2009).
 \newblock {\em Escuela Superior Politécnica del Litoral}.
 \newblock Tesis de grado. Disponible en:
   \url{http://www.dspace.espol.edu.ec/handle/123456789/6087}.
+
+\bibitem[Željko Kamberović et~al., 2012]{Kamberovic2012}
+Željko Kamberović, Korać, M., Anđić, Z., Štulović, M., Kovačević, T.,
+  Vujović, A., and Ilić, I. (2012).
+\newblock Conceptual design for treatment of mining and metallurgical
+  wastewaters which contains arsenic and antimony.
+\newblock {\em Metallurgical and Materials Engineering}, 18(4):321–331.
 
 \end{thebibliography}
