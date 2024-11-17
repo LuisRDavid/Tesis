@@ -12,6 +12,8 @@
 \glossaryentry{RHA?\glossentry{RHA}|glsseeformat[Glosario:]{gls-RHA}}{Z}
 \glossaryentry{NOM?\glossentry{NOM}|glsseeformat[Glosario:]{gls-NOM}}{Z}
 \glossaryentry{ASM?\glossentry{ASM}|glsseeformat[Glosario:]{gls-ASM}}{Z}
+\glossaryentry{ASM?\glossentry{ASM}|setentrycounter[]{page}"\glsnumberformat}{ii}
+\glossaryentry{PTAR?\glossentry{PTAR}|setentrycounter[]{page}"\glsnumberformat}{ii}
 \glossaryentry{ECA?\glossentry{ECA}|setentrycounter[]{page}"\glsnumberformat}{2}
 \glossaryentry{Conagua?\glossentry{CONAGUA}|setentrycounter[]{page}"\glsnumberformat}{2}
 \glossaryentry{ECA?\glossentry{ECA}|setentrycounter[]{page}"\glsnumberformat}{2}
@@ -27,3 +29,8 @@
 \glossaryentry{ASM?\glossentry{ASM}|setentrycounter[]{page}"\glsnumberformat}{29}
 \glossaryentry{ASM?\glossentry{ASM}|setentrycounter[]{page}"\glsnumberformat}{29}
 \glossaryentry{PTAR?\glossentry{PTAR}|setentrycounter[]{page}"\glsnumberformat}{29}
+\glossaryentry{ASM?\glossentry{ASM}|setentrycounter[]{page}"\glsnumberformat}{30}
+\glossaryentry{PTAR?\glossentry{PTAR}|setentrycounter[]{page}"\glsnumberformat}{30}
+\glossaryentry{PTAR?\glossentry{PTAR}|setentrycounter[]{page}"\glsnumberformat}{30}
+\glossaryentry{PTAR?\glossentry{PTAR}|setentrycounter[]{page}"\glsnumberformat}{30}
+\glossaryentry{PTAR?\glossentry{PTAR}|setentrycounter[]{page}"\glsnumberformat}{30}
