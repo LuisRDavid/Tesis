@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Fedora 39) (preloaded format=pdflatex 2024.11.10)  16 NOV 2024 21:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.7.27)  29 NOV 2024 14:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Documento_maestro.tex
-(./Documento_maestro.tex
+**./Documento_maestro.tex
+(Documento_maestro.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-02-22>
-(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2023-03-30>
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -23,26 +23,26 @@ File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
 
-(/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/ucs\utf8x.def
 File: utf8x.def 2022/08/07 UCS: Input encoding UTF-8
 
 
 Package ucs Info: utf8x disabled, assuming standard utf8 processing
 (ucs)             load ucs package to force utf8x processing.
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\utf8.def
 File: utf8.def 2022/06/07 v1.3c UTF-8 support
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\omsenc.dfu
 File: omsenc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -54,7 +54,7 @@ File: omsenc.dfu 2022/06/07 v1.3c UTF-8 support
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\ot1enc.dfu
 File: ot1enc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -103,7 +103,7 @@ File: ot1enc.dfu 2022/06/07 v1.3c UTF-8 support
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\t1enc.dfu
 File: t1enc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -383,7 +383,7 @@ File: t1enc.dfu 2022/06/07 v1.3c UTF-8 support
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.dfu
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1enc.dfu
 File: ts1enc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -476,17 +476,25 @@ Now handling font encoding U ...
    defining Unicode char U+2423 (decimal 9251)
    defining Unicode char U+FEFF (decimal 65279)
 )))
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2023/02/13 3.86 The Babel package
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2023/07/15 v3.92 The Babel package
 \babel@savecnt=\count193
 \U@D=\dimen141
-\l@unhyphenated=\language86
+\l@unhyphenated=\language79
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count194
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.l
+df
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
 \es@quottoks=\toks18
 \es@quotdepth=\count195
@@ -495,30 +503,33 @@ Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
 Package babel Info: Making > an active character on input line 722.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+df
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
 Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language66). Reported on input line 105.
+(babel)             (\language73). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language66). Reported on input line 108.
+(babel)             (\language73). Reported on input line 108.
 ))
-(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel
+-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/es/babel-spanish.tex
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel
+-spanish.tex
 Package babel Info: Importing font and identification data for spanish
 (babel)             from babel-es.ini. Reported on input line 11.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/03/12 v3.6j Customizing captions (AR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
@@ -535,35 +546,35 @@ Package caption Info: Standard document class detected.
 \c@caption@flags=\count196
 \c@continuedfloat=\count197
 )
-(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip50
 \bibsep=\skip51
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count198
 )
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2022/04/08 v2.17n AMS math features
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
 \@mathmargin=\skip52
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks20
 \ex@=\dimen150
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen151
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count199
@@ -614,7 +625,7 @@ LaTeX Info: Redefining \Relbar on input line 971.
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen159
 \ar@mcellbox=\box53
@@ -624,19 +635,19 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \backup@length=\skip56
 \ar@cellbox=\box54
 )
-(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Package option `usenames' ignored on input line 218.
 Package xcolor Info: Driver file: pdftex.def on input line 227.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
 Package xcolor Info: Model `RGB' extended on input line 1369.
@@ -646,47 +657,45 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+)) (C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.st
+y
 Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
 \everycr=\toks26
 \minrowclearance=\skip57
 \rownum=\count277
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+) (C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-(/usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+)) (C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/hyphenat\hyphenat.st
+y
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
-\langwohyphens=\language87
+\langwohyphens=\language80
 LaTeX Info: Redefining \_ on input line 43.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+) (C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box55
 \beforetitleunit=\skip58
@@ -697,14 +706,13 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \titlewidth=\dimen163
 \titlewidthlast=\dimen164
 \titlewidthfirst=\dimen165
-)
-(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+) (C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
 Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count278
 \calc@Bcount=\count279
@@ -717,12 +725,12 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count280
 \calc@Cskip=\skip62
 )
-(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
 \ESO@tempdima=\dimen168
 \ESO@tempdimb=\dimen169
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 \Gin@req@height=\dimen170
 \Gin@req@width=\dimen171
@@ -731,7 +739,7 @@ Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 \AM@pageheight=\dimen173
 \AM@fboxrule=\dimen174
 
-(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
 File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
 )
 \pdfpages@includegraphics@status=\count281
@@ -742,12 +750,11 @@ File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
 \AM@lof@heading=\toks30
 \c@AM@survey=\count283
 \AM@templatesizebox=\box57
-)
-(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+) (C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks31
 )
-(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count284
 \float@exts=\toks32
@@ -755,7 +762,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks33
 \@floatcapt=\box59
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 
 \f@nch@headwidth=\skip63
@@ -768,39 +775,40 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@olf=\skip70
 \f@nch@O@orf=\skip71
 )
-(/usr/share/texlive/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/threeparttable\threepar
+ttable.sty
 Package: threeparttable 2003/06/13  v 3.0
 \@tempboxb=\box60
 )
-(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip72
 \multirow@cntb=\count285
 \multirow@dima=\skip73
 \bigstrutjot=\dimen175
 )
-(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
 Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
-
-(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
 \XKV@toks=\toks34
 \XKV@tempa@toks=\toks35
 )
 \XKV@depth=\count286
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
 -ends (calc, etex, pgfmath)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
 Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
 
-(/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
+ty
 Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
 \collectedbox=\box61
 )
@@ -810,7 +818,7 @@ Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
 \tc@ury=\dimen179
 Package trimclip Info: Using driver 'tc-pdftex.def'.
 
-(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
 File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 ))
 \adjbox@Width=\dimen180
@@ -822,36 +830,35 @@ File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 \adjbox@pdepth=\dimen186
 \adjbox@ptotalheight=\dimen187
 
-(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
 \c@checkoddpage=\count287
-)
-(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+) (C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box62
 \sift@deathcycles=\count288
 \@vwid@loff=\dimen188
 \@vwid@roff=\dimen189
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
 Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
 )
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count289
@@ -866,15 +873,16 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen196
 \Gm@layoutvoffset=\dimen197
 \Gm@dimlist=\toks36
-)
-(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count292
 )
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
 Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
 \MT@toks=\toks37
 \MT@tempbox=\box63
@@ -888,7 +896,8 @@ LaTeX Info: Redefining \textls on input line 1368.
 LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
 \MT@listname@count=\count294
 
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
+tex.def
 File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 902.
@@ -897,10 +906,10 @@ LaTeX Info: Redefining \lslig on input line 902.
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
 File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip75
 \enit@outerparindent=\dimen199
@@ -909,51 +918,56 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@count@id=\count295
 \enitdp@description=\count296
 )
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+) (C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
 
-(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 
-(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count297
@@ -961,21 +975,18 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 \@linkdim=\dimen256
 \Hy@linkcounter=\count298
 \Hy@pagecounter=\count299
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+ (C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-)
-(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+) (C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count300
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+ (C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -994,10 +1005,11 @@ Package hyperref Info: Bookmarks ON on input line 4425.
 LaTeX Info: Redefining \url on input line 4763.
 \XeTeXLinkMargin=\dimen257
 
-(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
@@ -1012,7 +1024,7 @@ Package hyperref Info: Link coloring OFF on input line 6062.
 Package hyperref Info: Link coloring with OCG OFF on input line 6067.
 Package hyperref Info: PDF/A mode OFF on input line 6072.
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
@@ -1021,11 +1033,10 @@ package with kernel methods
 \c@Hfootnote=\count305
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
@@ -1033,10 +1044,12 @@ with kernel methods
 \Fld@listcount=\count306
 \c@bookmark@seq@number=\count307
 
-(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
@@ -1044,43 +1057,44 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip76
 )
-(/usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
 
-(/usr/share/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
 \BKM@id=\count308
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossar
+ies.sty
 Package: glossaries 2022/11/03 v4.52 (NLCT)
 
-(/usr/share/texlive/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
 Package: mfirstuc 2022/10/14 v2.08 (NLCT)
 \@glsmfirst=\toks40
 \@glsmrest=\toks41
 )
-(/usr/share/texlive/texmf-dist/tex/latex/xfor/xfor.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
 Package: xfor 2009/02/05 v1.05 (NLCT)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-base.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.
+sty
 Package: datatool-base 2019/09/27 v2.32 (NLCT)
-
-(/usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty
+ (C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/substr\substr.sty
 Package: substr 2009/10/20 v1.2 Handle substrings
 \c@su@anzahl=\count309
 )
-(/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-fp.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-fp.st
+y
 Package: datatool-fp 2019/09/27 v2.32 (NLCT)
-
-(/usr/share/texlive/texmf-dist/tex/latex/fp/fp.sty
+ (C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp.sty
 Package: fp 1995/04/02
 
 `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
-(/usr/share/texlive/texmf-dist/tex/latex/fp/defpattern.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/fp\defpattern.sty
 Package: defpattern 1994/10/12
 \actioncount=\count310
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-basic.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-basic.sty
 Package: fp-basic 1996/05/13
 \FP@xs=\count311
 \FP@xia=\count312
@@ -1092,32 +1106,32 @@ Package: fp-basic 1996/05/13
 \FP@regs=\count318
 \FP@times=\count319
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-addons.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-addons.sty
 Package: fp-addons 1995/03/15
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-snap.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-snap.sty
 Package: fp-snap 1995/04/05
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-exp.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-exp.sty
 Package: fp-exp 1995/04/03
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-trigo.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-trigo.sty
 Package: fp-trigo 1995/04/14
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-pas.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-pas.sty
 Package: fp-pas 1994/08/29
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-random.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-random.sty
 Package: fp-random 1995/02/23
 \FPseed=\count320
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eqn.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eqn.sty
 Package: fp-eqn 1995/04/03
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-upn.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-upn.sty
 Package: fp-upn 1996/10/21
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eval.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eval.sty
 Package: fp-eval 1995/04/03
 )))
 \@dtl@toks=\toks42
@@ -1130,23 +1144,25 @@ Package: fp-eval 1995/04/03
 \dtl@codeB=\count326
 \@dtl@foreach@level=\count327
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tracklang/tracklang.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.sty
 Package: tracklang 2022/12/13 v1.6.1 (NLCT) Track Languages
 
-(/usr/share/texlive/texmf-dist/tex/generic/tracklang/tracklang.tex))
-(/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.t
+ex))
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator.s
+ty
 Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
 )
-(/usr/share/texlive/texmf-dist/tex/latex/glossaries-english/glossaries-english.
-ldf
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-english\glos
+saries-english.ldf
 File: glossaries-english.ldf 2014/11/23 v1.0
 )
-(/usr/share/texlive/texmf-dist/tex/latex/glossaries-spanish/glossaries-spanish.
-ldf
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-spanish\glos
+saries-spanish.ldf
 File: glossaries-spanish.ldf 2014/11/23 v1.0
 
-(/usr/share/texlive/texmf-dist/tex/latex/glossaries-spanish/glossaries-spanish-
-utf8.ldf))
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-spanish\glos
+saries-spanish-utf8.ldf))
 \gls@level=\count328
 \@gls@tmpb=\toks43
 \gls@tmplen=\skip78
@@ -1155,16 +1171,20 @@ utf8.ldf))
 \glsshorttok=\toks46
 \glslongtok=\toks47
 
-(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-hypernav.st
-y
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-hypernav.sty
 Package: glossary-hypernav 2022/11/03 v4.52 (NLCT)
-) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-list.sty
+)
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-list.sty
 Package: glossary-list 2022/11/03 v4.52 (NLCT)
 \glslistdottedwidth=\skip79
-) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-long.sty
+)
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-long.sty
 Package: glossary-long 2022/11/03 v4.52 (NLCT)
 
-(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
 Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \LTleft=\skip80
 \LTright=\skip81
@@ -1186,10 +1206,12 @@ Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \glsdescwidth=\skip84
 \glspagelistwidth=\skip85
 )
-(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-super.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-super.sty
 Package: glossary-super 2022/11/03 v4.52 (NLCT)
 
-(/usr/share/texlive/texmf-dist/tex/latex/supertabular/supertabular.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabul
+ar.sty
 Package: supertabular 2020/02/02 v4.1g the supertabular environment
 \c@tracingst=\count334
 \ST@wd=\dimen261
@@ -1207,22 +1229,24 @@ Package: supertabular 2020/02/02 v4.1g the supertabular environment
 \ST@dimen=\dimen270
 \ST@pbox=\box70
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-tree.sty
 Package: glossary-tree 2022/11/03 v4.52 (NLCT)
 \glstreeindent=\skip89
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2023-02-22 L3 programming layer (loader) 
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2023-03-30 L3 programming layer (loader) 
 
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count335
 \l__pdf_internal_box=\box71
 ))
 Package: xparse 2023-02-02 L3 Experimental document command parser
-)
-(./Glosario.tex
+) (Glosario.tex
 \glswrite=\write3
 \glo@main@file=\write4
 \openout4 = `Documento_maestro.glo'.
@@ -1237,20 +1261,21 @@ ine 5.
 )
 LaTeX Font Info:    Trying to load font information for T1+phv on input line 10
 4.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
+
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
-(./Documento_maestro.aux (./Portada.aux
+(Documento_maestro.aux (Portada.aux
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
-) (./Dedicatoria.aux)
+) (Dedicatoria.aux)
 LaTeX Info: Redefining \. on input line 34.
 LaTeX Info: Redefining \% on input line 34.
-
-(./Agradecimientos.aux) (./Resumen.aux) (./Abstract.aux) (./Introduccion.aux)
-(./Antecedentes.aux) (./Planteamiento.aux) (./Justificacion.aux)
-(./Objetivos.aux) (./Materiales.aux) (./Resultados.aux) (./Discusion.aux)
-(./Conclusiones.aux) (./Perspectivas.aux) (./Anexos.aux))
+ (Agradecimientos.aux)
+(Resumen.aux) (Abstract.aux) (Introduccion.aux) (Antecedentes.aux)
+(Planteamiento.aux) (Justificacion.aux) (Objetivos.aux) (Materiales.aux)
+(Resultados.aux) (Discusion.aux) (Conclusiones.aux) (Perspectivas.aux)
+(Anexos.aux))
 \openout1 = `Documento_maestro.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 104.
@@ -1276,14 +1301,15 @@ Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
 
-(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: supertabular package is loaded.
 Package caption Info: threeparttable package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count336
 \scratchdimen=\dimen271
@@ -1296,19 +1322,22 @@ Package caption Info: End \AtBeginDocument code.
 \MPnumerator=\count340
 \makeMPintoPDFobject=\count341
 \everyMPtoPDFconversion=\toks50
-) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+)
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
 
-(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nom
+etadata.sty
 Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
 F (HO)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
@@ -1370,8 +1399,8 @@ Package microtype Info: Loading generic protrusion settings for font family
 Package hyperref Info: Link coloring OFF on input line 104.
 \openout2 = `Portada.aux'.
 
-(./Portada.tex
-<../Images/logo_udeg.png, id=4, 278.4804pt x 394.5942pt>
+(Portada.tex
+<../Images/logo_udeg.png, id=3, 278.4804pt x 394.5942pt>
 File: ../Images/logo_udeg.png Graphic file (type png)
 <use ../Images/logo_udeg.png>
 Package pdftex.def Info: ../Images/logo_udeg.png  used on input line 10.
@@ -1383,14 +1412,14 @@ LaTeX Info: Redefining \% on input line 23.
 \openout3 = `Documento_maestro.ist'.
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-di
-st/fonts/enc/dvips/base/8r.enc} <../Images/logo_udeg.png>])
+{C:/Users/luisr/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/luis
+r/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <../Images/logo_ud
+eg.png>])
 LaTeX Info: Redefining \. on input line 109.
 LaTeX Info: Redefining \% on input line 109.
 \openout2 = `Dedicatoria.aux'.
 
-
-(./Dedicatoria.tex
+ (Dedicatoria.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--3
 []\T1/phv/m/n/14 (+20) Dedicatoria|
  []
@@ -1410,7 +1439,7 @@ l.111 	\include{Dedicatoria}
 ]
 \openout2 = `Agradecimientos.aux'.
 
- (./Agradecimientos.tex
+ (Agradecimientos.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--3
 |\T1/phv/b/n/14 (+20) Agradecimientos|
  []
@@ -1419,41 +1448,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--3
 
 
 
-] (./Documento_maestro.toc
+] (Documento_maestro.toc
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+msa on input line 13.
 
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 13.
 
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-) [3
+)
+[3
 
 
 ]
 LaTeX Font Info:    Trying to load font information for TS1+phv on input line 4
 5.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1phv.fd
+ (C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
 Package microtype Info: Loading generic protrusion settings for font family
@@ -1464,8 +1493,8 @@ Package microtype Info: Loading generic protrusion settings for font family
 \tf@toc=\write6
 \openout6 = `Documento_maestro.toc'.
 
- [4]
-(./Documento_maestro.lof
+
+[4] (Documento_maestro.lof
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
 LaTeX Info: Redefining \. on input line 6.
@@ -1507,7 +1536,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-3.57593pt}.
 
-[2] (./Documento_maestro.lot
+[2] (Documento_maestro.lot
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
 LaTeX Info: Redefining \. on input line 6.
@@ -1532,7 +1561,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 \openout2 = `Resumen.aux'.
 
- (./Resumen.tex)
+ (Resumen.tex)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1547,7 +1576,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 \openout2 = `Abstract.aux'.
 
- (./Abstract.tex)
+ (Abstract.tex)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1563,7 +1592,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 \openout2 = `Introduccion.aux'.
 
- (./Introduccion.tex)
+ (Introduccion.tex)
 LaTeX Info: Redefining \. on input line 132.
 LaTeX Info: Redefining \% on input line 132.
 
@@ -1588,8 +1617,8 @@ l.132 	\include{Introduccion}
 ]
 \openout2 = `Antecedentes.aux'.
 
- (./Antecedentes.tex
-<../Images/Water_routes.pdf, id=229, 760.36954pt x 741.68175pt>
+ (Antecedentes.tex
+<../Images/Water_routes.pdf, id=227, 760.36954pt x 741.68175pt>
 File: ../Images/Water_routes.pdf Graphic file (type pdf)
 <use ../Images/Water_routes.pdf>
 Package pdftex.def Info: ../Images/Water_routes.pdf  used on input line 8.
@@ -1635,7 +1664,7 @@ been already used, duplicate ignored
 l.18 ...s culinarias, desechos de lavanderÃ­a.\par
                                                    [3 <../Images/Water_routes.p
 df>]
-<../Images/DescargasTotales.pdf, id=286, 1011.78pt x 578.16pt>
+<../Images/DescargasTotales.pdf, id=284, 1011.78pt x 578.16pt>
 File: ../Images/DescargasTotales.pdf Graphic file (type pdf)
 <use ../Images/DescargasTotales.pdf>
 Package pdftex.def Info: ../Images/DescargasTotales.pdf  used on input line 46.
@@ -1659,7 +1688,7 @@ been already used, duplicate ignored
                    \relax 
 l.49 \end{figure}
                   [4]
-<../Images/AR_municipal_svg-tex.pdf, id=298, 867.24pt x 397.19592pt>
+<../Images/AR_municipal_svg-tex.pdf, id=296, 867.24pt x 397.19592pt>
 File: ../Images/AR_municipal_svg-tex.pdf Graphic file (type pdf)
 <use ../Images/AR_municipal_svg-tex.pdf>
 Package pdftex.def Info: ../Images/AR_municipal_svg-tex.pdf  used on input line
@@ -1693,7 +1722,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [6 <../Images/AR_municipal_svg-tex.pdf>]
-<../Images/AR_industrial.pdf, id=1521, 867.24pt x 397.19592pt>
+<../Images/AR_industrial.pdf, id=1511, 867.24pt x 397.19592pt>
 File: ../Images/AR_industrial.pdf Graphic file (type pdf)
 <use ../Images/AR_industrial.pdf>
 Package pdftex.def Info: ../Images/AR_industrial.pdf  used on input line 96.
@@ -1734,7 +1763,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [9]
-<../Images/Sewage_systems.pdf, id=1610, 743.88725pt x 198.95428pt>
+<../Images/Sewage_systems.pdf, id=1599, 743.88725pt x 198.95428pt>
 File: ../Images/Sewage_systems.pdf Graphic file (type pdf)
 <use ../Images/Sewage_systems.pdf>
 Package pdftex.def Info: ../Images/Sewage_systems.pdf  used on input line 141.
@@ -1762,7 +1791,7 @@ Underfull \hbox (badness 1635) in paragraph at lines 159--159
 li-dad y la na-tu-ra-le-za del agua
  []
 
-<../Images/Tuberia.pdf, id=1632, 820.35329pt x 732.5297pt>
+<../Images/Tuberia.pdf, id=1621, 820.35329pt x 732.5297pt>
 File: ../Images/Tuberia.pdf Graphic file (type pdf)
 <use ../Images/Tuberia.pdf>
 Package pdftex.def Info: ../Images/Tuberia.pdf  used on input line 163.
@@ -1779,16 +1808,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [11]
 
-pdfTeX warning: /usr/bin/pdflatex (file ../Images/Relacion_Solidos.pdf): PDF in
-clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Images/Relacion_Solidos.pdf, id=1645, 1005.7575pt x 1215.03937pt>
+pdfTeX warning: pdflatex.exe (file ../Images/Relacion_Solidos.pdf): PDF inclusi
+on: found PDF version <1.7>, but at most version <1.5> allowed
+<../Images/Relacion_Solidos.pdf, id=1634, 1005.7575pt x 1215.03937pt>
 File: ../Images/Relacion_Solidos.pdf Graphic file (type pdf)
 <use ../Images/Relacion_Solidos.pdf>
-Package pdftex.def Info: ../Images/Relacion_Solidos.pdf  used on input line 173
+Package pdftex.def Info: ../Images/Relacion_Solidos.pdf  used on input line 174
 .
 (pdftex.def)             Requested size: 251.43875pt x 303.7591pt.
-LaTeX Info: Redefining \. on input line 176.
-LaTeX Info: Redefining \% on input line 176.
+LaTeX Info: Redefining \. on input line 177.
+LaTeX Info: Redefining \% on input line 177.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1798,8 +1827,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [12 <../Images/Tuberia.pdf>]
-LaTeX Info: Redefining \. on input line 184.
-LaTeX Info: Redefining \% on input line 184.
+LaTeX Info: Redefining \. on input line 185.
+LaTeX Info: Redefining \% on input line 185.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1810,13 +1839,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [13 <../Images/Relacion_Solidos.pdf>]
-<../Images/cono-imhoff.jpg, id=1712, 301.125pt x 168.63pt>
+<../Images/cono-imhoff.jpg, id=1700, 301.125pt x 168.63pt>
 File: ../Images/cono-imhoff.jpg Graphic file (type jpg)
 <use ../Images/cono-imhoff.jpg>
-Package pdftex.def Info: ../Images/cono-imhoff.jpg  used on input line 191.
+Package pdftex.def Info: ../Images/cono-imhoff.jpg  used on input line 192.
 (pdftex.def)             Requested size: 240.90031pt x 134.90417pt.
-LaTeX Info: Redefining \. on input line 195.
-LaTeX Info: Redefining \% on input line 195.
+LaTeX Info: Redefining \. on input line 196.
+LaTeX Info: Redefining \% on input line 196.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1827,8 +1856,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [14 <../Images/cono-imhoff.jpg>]
-LaTeX Info: Redefining \. on input line 219.
-LaTeX Info: Redefining \% on input line 219.
+LaTeX Info: Redefining \. on input line 220.
+LaTeX Info: Redefining \% on input line 220.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1839,13 +1868,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [15]
-Underfull \hbox (badness 2189) in paragraph at lines 225--226
+Underfull \hbox (badness 2189) in paragraph at lines 226--227
 \T1/phv/m/n/12 (+20) in-for-ma-ción so-bre la car-ga inor-gá-ni-ca pre-sen-te e
 n la mues-tra y no son
  []
 
-LaTeX Info: Redefining \. on input line 238.
-LaTeX Info: Redefining \% on input line 238.
+LaTeX Info: Redefining \. on input line 239.
+LaTeX Info: Redefining \% on input line 239.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1855,13 +1884,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [16]
-<../Images/filtro-solidos.jpg, id=1749, 602.25pt x 602.25pt>
+<../Images/filtro-solidos.jpg, id=1737, 602.25pt x 602.25pt>
 File: ../Images/filtro-solidos.jpg Graphic file (type jpg)
 <use ../Images/filtro-solidos.jpg>
-Package pdftex.def Info: ../Images/filtro-solidos.jpg  used on input line 244.
+Package pdftex.def Info: ../Images/filtro-solidos.jpg  used on input line 245.
 (pdftex.def)             Requested size: 271.01pt x 271.01pt.
-LaTeX Info: Redefining \. on input line 251.
-LaTeX Info: Redefining \% on input line 251.
+LaTeX Info: Redefining \. on input line 252.
+LaTeX Info: Redefining \% on input line 252.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1872,13 +1901,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [17 <../Images/filtro-solidos.jpg>]
-<../Images/filtro.jpg, id=1761, 803.0pt x 635.37375pt>
+<../Images/filtro.jpg, id=1749, 803.0pt x 635.37375pt>
 File: ../Images/filtro.jpg Graphic file (type jpg)
 <use ../Images/filtro.jpg>
-Package pdftex.def Info: ../Images/filtro.jpg  used on input line 261.
+Package pdftex.def Info: ../Images/filtro.jpg  used on input line 262.
 (pdftex.def)             Requested size: 321.1943pt x 254.14499pt.
-LaTeX Info: Redefining \. on input line 265.
-LaTeX Info: Redefining \% on input line 265.
+LaTeX Info: Redefining \. on input line 266.
+LaTeX Info: Redefining \% on input line 266.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1889,8 +1918,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [18 <../Images/filtro.jpg>]
-LaTeX Info: Redefining \. on input line 283.
-LaTeX Info: Redefining \% on input line 283.
+LaTeX Info: Redefining \. on input line 284.
+LaTeX Info: Redefining \% on input line 284.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1901,8 +1930,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [19]
-LaTeX Info: Redefining \. on input line 296.
-LaTeX Info: Redefining \% on input line 296.
+LaTeX Info: Redefining \. on input line 297.
+LaTeX Info: Redefining \% on input line 297.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1913,8 +1942,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [20]
-LaTeX Info: Redefining \. on input line 302.
-LaTeX Info: Redefining \% on input line 302.
+LaTeX Info: Redefining \. on input line 303.
+LaTeX Info: Redefining \% on input line 303.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1925,13 +1954,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [21]
-Underfull \hbox (badness 1178) in paragraph at lines 307--307
+Underfull \hbox (badness 1178) in paragraph at lines 308--308
 []\T1/phv/m/n/12 (+20) La EC se ex-pre-sa ge-ne-ral-men-te en mi-cro-sie-mens p
 or cen-tí-me-tro (\TS1/phv/m/n/12 (+20) µ\T1/phv/m/n/12 (+20) S/cm) o
  []
 
-LaTeX Info: Redefining \. on input line 309.
-LaTeX Info: Redefining \% on input line 309.
+LaTeX Info: Redefining \. on input line 310.
+LaTeX Info: Redefining \% on input line 310.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1941,8 +1970,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [22]
-LaTeX Info: Redefining \. on input line 344.
-LaTeX Info: Redefining \% on input line 344.
+LaTeX Info: Redefining \. on input line 332.
+LaTeX Info: Redefining \% on input line 332.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1953,18 +1982,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [23]
-<../Images/PTARs_Lagos.png, id=1843, 522.753pt x 479.391pt>
-File: ../Images/PTARs_Lagos.png Graphic file (type png)
-<use ../Images/PTARs_Lagos.png>
-Package pdftex.def Info: ../Images/PTARs_Lagos.png  used on input line 365.
-(pdftex.def)             Requested size: 313.65422pt x 287.63681pt.
-<../Images/PTAR_Lagos.png, id=1846, 498.06075pt x 401.0985pt>
-File: ../Images/PTAR_Lagos.png Graphic file (type png)
-<use ../Images/PTAR_Lagos.png>
-Package pdftex.def Info: ../Images/PTAR_Lagos.png  used on input line 371.
-(pdftex.def)             Requested size: 249.02975pt x 200.54875pt.
-LaTeX Info: Redefining \. on input line 374.
-LaTeX Info: Redefining \% on input line 374.
+LaTeX Info: Redefining \. on input line 364.
+LaTeX Info: Redefining \% on input line 364.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1975,8 +1994,37 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [24]
-LaTeX Info: Redefining \. on input line 375.
-LaTeX Info: Redefining \% on input line 375.
+
+Package caption Warning: \label without proper reference on input line 369.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `tab:NOMmuestreo' on page 25 undefined on input line 3
+66.
+
+LaTeX Info: Redefining \. on input line 382.
+LaTeX Info: Redefining \% on input line 382.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[25]
+<../Images/PTARs_Lagos.png, id=1857, 522.753pt x 479.391pt>
+File: ../Images/PTARs_Lagos.png Graphic file (type png)
+<use ../Images/PTARs_Lagos.png>
+Package pdftex.def Info: ../Images/PTARs_Lagos.png  used on input line 396.
+(pdftex.def)             Requested size: 313.65422pt x 287.63681pt.
+<../Images/PTAR_Lagos.png, id=1860, 498.06075pt x 401.0985pt>
+File: ../Images/PTAR_Lagos.png Graphic file (type png)
+<use ../Images/PTAR_Lagos.png>
+Package pdftex.def Info: ../Images/PTAR_Lagos.png  used on input line 402.
+(pdftex.def)             Requested size: 249.02975pt x 200.54875pt.
+LaTeX Info: Redefining \. on input line 405.
+LaTeX Info: Redefining \% on input line 405.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1986,7 +2034,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[25 <../Images/PTARs_Lagos.png>])
+[26]
+LaTeX Info: Redefining \. on input line 406.
+LaTeX Info: Redefining \% on input line 406.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[27 <../Images/PTARs_Lagos.png>])
 LaTeX Info: Redefining \. on input line 133.
 LaTeX Info: Redefining \% on input line 133.
 
@@ -1998,11 +2058,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[26 <../Images/PTAR_Lagos.png>]
+[28 <../Images/PTAR_Lagos.png>]
 \openout2 = `Planteamiento.aux'.
 
- (./Planteamiento.tex
-<../Images/Sequia.pdf, id=1875, 985.80827pt x 685.77979pt>
+ (Planteamiento.tex
+<../Images/Sequia.pdf, id=1889, 985.80827pt x 685.77979pt>
 File: ../Images/Sequia.pdf Graphic file (type pdf)
 <use ../Images/Sequia.pdf>
 Package pdftex.def Info: ../Images/Sequia.pdf  used on input line 8.
@@ -2018,7 +2078,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[27
+[29
 
 
 
@@ -2034,11 +2094,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[28 <../Images/Sequia.pdf>]
+[30 <../Images/Sequia.pdf>]
 \openout2 = `Justificacion.aux'.
 
- (./Justificacion.tex
-<../Images/Costa22_sim.pdf, id=1907, 453.695pt x 228.855pt>
+ (Justificacion.tex
+<../Images/Costa22_sim.pdf, id=1918, 453.695pt x 228.855pt>
 File: ../Images/Costa22_sim.pdf Graphic file (type pdf)
 <use ../Images/Costa22_sim.pdf>
 Package pdftex.def Info: ../Images/Costa22_sim.pdf  used on input line 7.
@@ -2058,7 +2118,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-3.57593pt}.
 
-[29
+[31
 
 
 
@@ -2074,7 +2134,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-3.57593pt}.
 
-[30]
+[32]
 LaTeX Info: Redefining \. on input line 135.
 LaTeX Info: Redefining \% on input line 135.
 
@@ -2086,50 +2146,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-3.57593pt}.
 
-[31]
+[33]
 \openout2 = `Objetivos.aux'.
 
- (./Objetivos.tex)
+ (Objetivos.tex)
 LaTeX Info: Redefining \. on input line 136.
 LaTeX Info: Redefining \% on input line 136.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[32
-
-
-
-]
-\openout2 = `Materiales.aux'.
-
- (./Materiales.tex)
-LaTeX Info: Redefining \. on input line 137.
-LaTeX Info: Redefining \% on input line 137.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[33
-
-
-
-]
-\openout2 = `Resultados.aux'.
-
- (./Resultados.tex)
-LaTeX Info: Redefining \. on input line 138.
-LaTeX Info: Redefining \% on input line 138.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2144,30 +2166,30 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
-\openout2 = `Discusion.aux'.
+\openout2 = `Materiales.aux'.
 
- (./Discusion.tex)
-LaTeX Info: Redefining \. on input line 139.
-LaTeX Info: Redefining \% on input line 139.
+ (Materiales.tex)
+LaTeX Info: Redefining \. on input line 137.
+LaTeX Info: Redefining \% on input line 137.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.57593pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.57593pt}.
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.57593pt}.
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [35
 
 
 
 ]
-\openout2 = `Conclusiones.aux'.
+\openout2 = `Resultados.aux'.
 
- (./Conclusiones.tex)
-LaTeX Info: Redefining \. on input line 140.
-LaTeX Info: Redefining \% on input line 140.
+ (Resultados.tex)
+LaTeX Info: Redefining \. on input line 138.
+LaTeX Info: Redefining \% on input line 138.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2182,9 +2204,47 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
+\openout2 = `Discusion.aux'.
+
+ (Discusion.tex)
+LaTeX Info: Redefining \. on input line 139.
+LaTeX Info: Redefining \% on input line 139.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.57593pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.57593pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.57593pt}.
+
+[37
+
+
+
+]
+\openout2 = `Conclusiones.aux'.
+
+ (Conclusiones.tex)
+LaTeX Info: Redefining \. on input line 140.
+LaTeX Info: Redefining \% on input line 140.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[38
+
+
+
+]
 \openout2 = `Perspectivas.aux'.
 
- (./Perspectivas.tex)
+ (Perspectivas.tex)
 LaTeX Info: Redefining \. on input line 141.
 LaTeX Info: Redefining \% on input line 141.
 
@@ -2196,15 +2256,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[37
+[39
 
 
 
-] (./Documento_maestro.bbl
+] (Documento_maestro.bbl
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 7
 .
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+(C:\Users\luisr\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 Package microtype Info: Loading generic protrusion settings for font family
@@ -2219,20 +2279,20 @@ agua . gob . mx / tools / DATA / ClimatologÃ­a / SequÃ­a /
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 51--56
-[]\T1/phv/m/n/12 (+20) Cruz, O. and Juá-rez, D. (2024).  ¾va-cías o a to-pe? ve
-
+[]\T1/phv/m/n/12 (+20) Cruz, O. y Juá-rez, D. (2024).  ¾va-cías o a to-pe? ve e
+s-ta-do
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 51--56
-\T1/phv/m/n/12 (+20) es-ta-do ac-tual de las pre-sas más im-por-tan-tes de mé-x
-i-co tras
+\T1/phv/m/n/12 (+20) ac-tual de las pre-sas más im-por-tan-tes de mé-xi-co tras
+ úl-ti-mas
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 51--56
-\T1/phv/m/n/12 (+20) úl-ti-mas llu-vias.  Dis-po-ni-ble en: []$\T1/cmtt/m/n/12 
-https : / / www . unotv . com / nacional /
+\T1/phv/m/n/12 (+20) llu-vias.  Dis-po-ni-ble en: []$\T1/cmtt/m/n/12 https : / 
+/ www . unotv . com / nacional /
  []
 
 
@@ -2248,8 +2308,20 @@ Underfull \hbox (badness 1019) in paragraph at lines 70--75
 or cre-ci-mien-to in-dus-trial del
  []
 
-LaTeX Info: Redefining \. on input line 82.
-LaTeX Info: Redefining \% on input line 82.
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--81
+[]\T1/phv/m/n/12 (+20) Fabregas, J. (2021).  Tra-ta-mien-to y re-uti-li-za-ción
+ de aguas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--81
+\T1/phv/m/n/12 (+20) re-si-dua-les téx-ti-les.  Dis-po-ni-ble en: []$\T1/cmtt/m
+/n/12 https : / / sigmadafclarifiers . com /
+ []
+
+LaTeX Info: Redefining \. on input line 81.
+LaTeX Info: Redefining \% on input line 81.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2258,37 +2330,37 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[38
+[40
 
 
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
-Underfull \hbox (badness 1043) in paragraph at lines 104--109
+]
+Underfull \hbox (badness 1043) in paragraph at lines 110--115
 []\T1/phv/m/n/12 (+20) Hanchang, S. (2009).  In-dus-trial wastewater-types, amo
 unts and ef-fects.  \T1/phv/m/sl/12 (+20) Point
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--109
+Underfull \hbox (badness 10000) in paragraph at lines 110--115
 \T1/cmtt/m/n/12 / / books . google . com . mx / books ? hl = es & lr = &id = dq
 2kCwAAQBAJ & oi = fnd & pg = PA191 &
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--109
+Underfull \hbox (badness 10000) in paragraph at lines 110--115
 \T1/cmtt/m/n/12 dq = industrial + wastewater & ots = 4u-[]1QIXVDy & sig = LuS6k
 XBqh5CQn3A9yYQCozcckLA &
  []
 
 
-Overfull \hbox (499.19215pt too wide) in paragraph at lines 131--136
+Overfull \hbox (499.19215pt too wide) in paragraph at lines 137--142
 \T1/cmtt/m/n/12 papel-[]fibra-[]de-[]vidrio-[]y-[]de-[]cuarzo-[]filtro-[]de-[]f
 ibra-[]de-[]vidrio-[]grado-[]934-[]ah-[]whatman-[]de-[]cytiva-[]para-[]analisis
 -[]de-[]solidos-[]en-[]suspension-[]totales-[]-[]det-[]-[]WEBWH1827$[]\T1/phv/m
 /n/12 (-20) . 
  []
 
-LaTeX Info: Redefining \. on input line 154.
-LaTeX Info: Redefining \% on input line 154.
+LaTeX Info: Redefining \. on input line 150.
+LaTeX Info: Redefining \% on input line 150.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2297,9 +2369,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[39]
-LaTeX Info: Redefining \. on input line 225.
-LaTeX Info: Redefining \% on input line 225.
+[41]
+LaTeX Info: Redefining \. on input line 223.
+LaTeX Info: Redefining \% on input line 223.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2309,13 +2381,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[40]
-Underfull \hbox (badness 1259) in paragraph at lines 238--243
-[]\T1/phv/m/n/12 (+20) Wu, P., Jiang, L. Y., He, Z., and Song, Y. (2017).  Trea
-t-ment of me-ta-llur-gi-cal
- []
-
-)
+[42])
 LaTeX Info: Redefining \. on input line 146.
 LaTeX Info: Redefining \% on input line 146.
 
@@ -2327,11 +2393,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[41]
+[43]
 \openout2 = `Anexos.aux'.
 
- (./Anexos.tex
-<../Images/nmx-aa-008-scfi-2016_page-0001.jpg, id=2041, 614.7768pt x 607.068pt>
+ (Anexos.tex
+<../Images/nmx-aa-008-scfi-2016_page-0001.jpg, id=2054, 614.7768pt x 607.068pt>
 
 File: ../Images/nmx-aa-008-scfi-2016_page-0001.jpg Graphic file (type jpg)
 <use ../Images/nmx-aa-008-scfi-2016_page-0001.jpg>
@@ -2351,8 +2417,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 
- <../Images/NMX-AA-008-SCFI-2016_page-0001.jpg>]
-<Normas/NMX-AA-008-SCFI-2016.pdf, id=2049, 614.295pt x 794.97pt>
+ <../Images/nmx-aa-008-scfi-2016_page-0001.jpg>]
+<Normas/NMX-AA-008-SCFI-2016.pdf, id=2062, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-008-SCFI-2016.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-008-SCFI-2016.pdf>
 Package pdftex.def Info: Normas/NMX-AA-008-SCFI-2016.pdf  used on input line 9.
@@ -2363,7 +2429,7 @@ File: Normas/NMX-AA-008-SCFI-2016.pdf Graphic file (type pdf)
 Package pdftex.def Info: Normas/NMX-AA-008-SCFI-2016.pdf  used on input line 9.
 
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<Normas/NMX-AA-008-SCFI-2016.pdf, id=2052, page=1, 614.295pt x 794.97pt>
+<Normas/NMX-AA-008-SCFI-2016.pdf, id=2065, page=1, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-008-SCFI-2016.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-008-SCFI-2016.pdf, page 1>
 Package pdftex.def Info: Normas/NMX-AA-008-SCFI-2016.pdf , page1 used on input 
@@ -2401,7 +2467,7 @@ line 9.
 [2
 
  <./Normas/NMX-AA-008-SCFI-2016.pdf>]
-<Normas/NMX-AA-008-SCFI-2016.pdf, id=2070, page=2, 614.295pt x 794.97pt>
+<Normas/NMX-AA-008-SCFI-2016.pdf, id=2084, page=2, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-008-SCFI-2016.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-008-SCFI-2016.pdf, page 2>
 Package pdftex.def Info: Normas/NMX-AA-008-SCFI-2016.pdf , page2 used on input 
@@ -2427,7 +2493,7 @@ Package pdftex.def Info: Normas/NMX-AA-008-SCFI-2016.pdf , page2 used on input
 line 9.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [3 <./Normas/NMX-AA-008-SCFI-2016.pdf>]
-<Normas/NMX-AA-008-SCFI-2016.pdf, id=2075, page=3, 614.295pt x 794.97pt>
+<Normas/NMX-AA-008-SCFI-2016.pdf, id=2089, page=3, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-008-SCFI-2016.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-008-SCFI-2016.pdf, page 3>
 Package pdftex.def Info: Normas/NMX-AA-008-SCFI-2016.pdf , page3 used on input 
@@ -2453,7 +2519,7 @@ Package pdftex.def Info: Normas/NMX-AA-008-SCFI-2016.pdf , page3 used on input
 line 9.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [4 <./Normas/NMX-AA-008-SCFI-2016.pdf>]
-<../Images/NMX-AA-034-SCFI-2015_page-0001.jpg, id=2081, 614.7768pt x 564.1878pt
+<../Images/NMX-AA-034-SCFI-2015_page-0001.jpg, id=2094, 614.7768pt x 564.1878pt
 >
 File: ../Images/NMX-AA-034-SCFI-2015_page-0001.jpg Graphic file (type jpg)
 <use ../Images/NMX-AA-034-SCFI-2015_page-0001.jpg>
@@ -2470,7 +2536,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [5 <../Images/NMX-AA-034-SCFI-2015_page-0001.jpg>]
-<Normas/NMX-AA-034-SCFI-2015.pdf, id=2089, 614.295pt x 794.97pt>
+<Normas/NMX-AA-034-SCFI-2015.pdf, id=2102, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-034-SCFI-2015.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-034-SCFI-2015.pdf>
 Package pdftex.def Info: Normas/NMX-AA-034-SCFI-2015.pdf  used on input line 17
@@ -2481,7 +2547,7 @@ File: Normas/NMX-AA-034-SCFI-2015.pdf Graphic file (type pdf)
 Package pdftex.def Info: Normas/NMX-AA-034-SCFI-2015.pdf  used on input line 17
 .
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<Normas/NMX-AA-034-SCFI-2015.pdf, id=2092, page=1, 614.295pt x 794.97pt>
+<Normas/NMX-AA-034-SCFI-2015.pdf, id=2105, page=1, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-034-SCFI-2015.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-034-SCFI-2015.pdf, page 1>
 Package pdftex.def Info: Normas/NMX-AA-034-SCFI-2015.pdf , page1 used on input 
@@ -2519,7 +2585,7 @@ line 17.
 [6
 
  <./Normas/NMX-AA-034-SCFI-2015.pdf>]
-<Normas/NMX-AA-034-SCFI-2015.pdf, id=2113, page=2, 614.295pt x 794.97pt>
+<Normas/NMX-AA-034-SCFI-2015.pdf, id=2125, page=2, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-034-SCFI-2015.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-034-SCFI-2015.pdf, page 2>
 Package pdftex.def Info: Normas/NMX-AA-034-SCFI-2015.pdf , page2 used on input 
@@ -2545,7 +2611,7 @@ Package pdftex.def Info: Normas/NMX-AA-034-SCFI-2015.pdf , page2 used on input
 line 17.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [7 <./Normas/NMX-AA-034-SCFI-2015.pdf>]
-<Normas/NMX-AA-034-SCFI-2015.pdf, id=2118, page=3, 614.295pt x 794.97pt>
+<Normas/NMX-AA-034-SCFI-2015.pdf, id=2130, page=3, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-034-SCFI-2015.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-034-SCFI-2015.pdf, page 3>
 Package pdftex.def Info: Normas/NMX-AA-034-SCFI-2015.pdf , page3 used on input 
@@ -2571,7 +2637,7 @@ Package pdftex.def Info: Normas/NMX-AA-034-SCFI-2015.pdf , page3 used on input
 line 17.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [8 <./Normas/NMX-AA-034-SCFI-2015.pdf>]
-<../Images/NMX-AA-028-SCFI-2001(DBO5)_page-0020.jpg, id=2123, 614.295pt x 399.4
+<../Images/NMX-AA-028-SCFI-2001(DBO5)_page-0020.jpg, id=2136, 614.295pt x 399.4
 122pt>
 File: ../Images/NMX-AA-028-SCFI-2001(DBO5)_page-0020.jpg Graphic file (type jpg
 )
@@ -2593,7 +2659,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [9 <../Images/NMX-AA-028-SCFI-2001(DBO5)_page-0020.jpg>]
-<Normas/NMX-AA-028-SCFI-2001.pdf, id=2131, 614.295pt x 794.97pt>
+<Normas/NMX-AA-028-SCFI-2001.pdf, id=2144, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-028-SCFI-2001.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-028-SCFI-2001.pdf>
 Package pdftex.def Info: Normas/NMX-AA-028-SCFI-2001.pdf  used on input line 25
@@ -2604,7 +2670,7 @@ File: Normas/NMX-AA-028-SCFI-2001.pdf Graphic file (type pdf)
 Package pdftex.def Info: Normas/NMX-AA-028-SCFI-2001.pdf  used on input line 25
 .
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<Normas/NMX-AA-028-SCFI-2001.pdf, id=2134, page=1, 614.295pt x 794.97pt>
+<Normas/NMX-AA-028-SCFI-2001.pdf, id=2147, page=1, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-028-SCFI-2001.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-028-SCFI-2001.pdf, page 1>
 Package pdftex.def Info: Normas/NMX-AA-028-SCFI-2001.pdf , page1 used on input 
@@ -2642,7 +2708,7 @@ line 25.
 [10
 
  <./Normas/NMX-AA-028-SCFI-2001.pdf>]
-<Normas/NMX-AA-028-SCFI-2001.pdf, id=2149, page=2, 614.295pt x 794.97pt>
+<Normas/NMX-AA-028-SCFI-2001.pdf, id=2161, page=2, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-028-SCFI-2001.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-028-SCFI-2001.pdf, page 2>
 Package pdftex.def Info: Normas/NMX-AA-028-SCFI-2001.pdf , page2 used on input 
@@ -2668,7 +2734,7 @@ Package pdftex.def Info: Normas/NMX-AA-028-SCFI-2001.pdf , page2 used on input
 line 25.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [11 <./Normas/NMX-AA-028-SCFI-2001.pdf>]
-<Normas/NMX-AA-028-SCFI-2001.pdf, id=2154, page=3, 614.295pt x 794.97pt>
+<Normas/NMX-AA-028-SCFI-2001.pdf, id=2166, page=3, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-028-SCFI-2001.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-028-SCFI-2001.pdf, page 3>
 Package pdftex.def Info: Normas/NMX-AA-028-SCFI-2001.pdf , page3 used on input 
@@ -2694,7 +2760,7 @@ Package pdftex.def Info: Normas/NMX-AA-028-SCFI-2001.pdf , page3 used on input
 line 25.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [12 <./Normas/NMX-AA-028-SCFI-2001.pdf>]
-<Normas/NMX-AA-028-SCFI-2001.pdf, id=2159, page=4, 614.295pt x 794.97pt>
+<Normas/NMX-AA-028-SCFI-2001.pdf, id=2171, page=4, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-028-SCFI-2001.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-028-SCFI-2001.pdf, page 4>
 Package pdftex.def Info: Normas/NMX-AA-028-SCFI-2001.pdf , page4 used on input 
@@ -2720,7 +2786,7 @@ Package pdftex.def Info: Normas/NMX-AA-028-SCFI-2001.pdf , page4 used on input
 line 25.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [13 <./Normas/NMX-AA-028-SCFI-2001.pdf>]
-<../Images/NMX-AA-026-SCFI-2010.jpg, id=2164, 590.205pt x 356.0803pt>
+<../Images/NMX-AA-026-SCFI-2010.jpg, id=2176, 590.205pt x 356.0803pt>
 File: ../Images/NMX-AA-026-SCFI-2010.jpg Graphic file (type jpg)
 <use ../Images/NMX-AA-026-SCFI-2010.jpg>
 Package pdftex.def Info: ../Images/NMX-AA-026-SCFI-2010.jpg  used on input line
@@ -2740,7 +2806,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [14 <../Images/NMX-AA-026-SCFI-2010.jpg>]
-<Normas/NMX-AA-026-SCFI-2010.pdf, id=2172, 614.295pt x 794.97pt>
+<Normas/NMX-AA-026-SCFI-2010.pdf, id=2185, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-026-SCFI-2010.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-026-SCFI-2010.pdf>
 Package pdftex.def Info: Normas/NMX-AA-026-SCFI-2010.pdf  used on input line 33
@@ -2751,7 +2817,7 @@ File: Normas/NMX-AA-026-SCFI-2010.pdf Graphic file (type pdf)
 Package pdftex.def Info: Normas/NMX-AA-026-SCFI-2010.pdf  used on input line 33
 .
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<Normas/NMX-AA-026-SCFI-2010.pdf, id=2175, page=1, 614.295pt x 794.97pt>
+<Normas/NMX-AA-026-SCFI-2010.pdf, id=2188, page=1, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-026-SCFI-2010.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-026-SCFI-2010.pdf, page 1>
 Package pdftex.def Info: Normas/NMX-AA-026-SCFI-2010.pdf , page1 used on input 
@@ -2789,7 +2855,7 @@ line 33.
 [15
 
  <./Normas/NMX-AA-026-SCFI-2010.pdf>]
-<Normas/NMX-AA-026-SCFI-2010.pdf, id=2189, page=2, 614.295pt x 794.97pt>
+<Normas/NMX-AA-026-SCFI-2010.pdf, id=2202, page=2, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-026-SCFI-2010.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-026-SCFI-2010.pdf, page 2>
 Package pdftex.def Info: Normas/NMX-AA-026-SCFI-2010.pdf , page2 used on input 
@@ -2815,7 +2881,7 @@ Package pdftex.def Info: Normas/NMX-AA-026-SCFI-2010.pdf , page2 used on input
 line 33.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [16 <./Normas/NMX-AA-026-SCFI-2010.pdf>]
-<../Images/NMX-AA-030-2-SCFI-2011.jpg, id=2195, 590.205pt x 356.0803pt>
+<../Images/NMX-AA-030-2-SCFI-2011.jpg, id=2207, 590.205pt x 356.0803pt>
 File: ../Images/NMX-AA-030-2-SCFI-2011.jpg Graphic file (type jpg)
 <use ../Images/NMX-AA-030-2-SCFI-2011.jpg>
 Package pdftex.def Info: ../Images/NMX-AA-030-2-SCFI-2011.jpg  used on input li
@@ -2835,7 +2901,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [17 <../Images/NMX-AA-030-2-SCFI-2011.jpg>]
-<Normas/NMX-AA-030-2-SCFI-2011.pdf, id=2203, 614.295pt x 794.97pt>
+<Normas/NMX-AA-030-2-SCFI-2011.pdf, id=2215, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-030-2-SCFI-2011.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-030-2-SCFI-2011.pdf>
 Package pdftex.def Info: Normas/NMX-AA-030-2-SCFI-2011.pdf  used on input line 
@@ -2846,7 +2912,7 @@ File: Normas/NMX-AA-030-2-SCFI-2011.pdf Graphic file (type pdf)
 Package pdftex.def Info: Normas/NMX-AA-030-2-SCFI-2011.pdf  used on input line 
 41.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<Normas/NMX-AA-030-2-SCFI-2011.pdf, id=2206, page=1, 614.295pt x 794.97pt>
+<Normas/NMX-AA-030-2-SCFI-2011.pdf, id=2218, page=1, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-030-2-SCFI-2011.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-030-2-SCFI-2011.pdf, page 1>
 Package pdftex.def Info: Normas/NMX-AA-030-2-SCFI-2011.pdf , page1 used on inpu
@@ -2884,7 +2950,7 @@ t line 41.
 [18
 
  <./Normas/NMX-AA-030-2-SCFI-2011.pdf>]
-<Normas/NMX-AA-030-2-SCFI-2011.pdf, id=2220, page=2, 614.295pt x 794.97pt>
+<Normas/NMX-AA-030-2-SCFI-2011.pdf, id=2232, page=2, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-030-2-SCFI-2011.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-030-2-SCFI-2011.pdf, page 2>
 Package pdftex.def Info: Normas/NMX-AA-030-2-SCFI-2011.pdf , page2 used on inpu
@@ -2910,7 +2976,7 @@ Package pdftex.def Info: Normas/NMX-AA-030-2-SCFI-2011.pdf , page2 used on inpu
 t line 41.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [19 <./Normas/NMX-AA-030-2-SCFI-2011.pdf>]
-<../Images/NMX-AA-012-SCFI-2001.jpg, id=2225, 557.08125pt x 317.68687pt>
+<../Images/NMX-AA-012-SCFI-2001.jpg, id=2237, 557.08125pt x 317.68687pt>
 File: ../Images/NMX-AA-012-SCFI-2001.jpg Graphic file (type jpg)
 <use ../Images/NMX-AA-012-SCFI-2001.jpg>
 Package pdftex.def Info: ../Images/NMX-AA-012-SCFI-2001.jpg  used on input line
@@ -2926,7 +2992,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [20 <../Images/NMX-AA-012-SCFI-2001.jpg>]
-<Normas/NMX-AA-012-SCFI-2001.pdf, id=2233, 614.295pt x 794.97pt>
+<Normas/NMX-AA-012-SCFI-2001.pdf, id=2246, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-012-SCFI-2001.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-012-SCFI-2001.pdf>
 Package pdftex.def Info: Normas/NMX-AA-012-SCFI-2001.pdf  used on input line 49
@@ -2937,7 +3003,7 @@ File: Normas/NMX-AA-012-SCFI-2001.pdf Graphic file (type pdf)
 Package pdftex.def Info: Normas/NMX-AA-012-SCFI-2001.pdf  used on input line 49
 .
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<Normas/NMX-AA-012-SCFI-2001.pdf, id=2236, page=1, 614.295pt x 794.97pt>
+<Normas/NMX-AA-012-SCFI-2001.pdf, id=2249, page=1, 614.295pt x 794.97pt>
 File: Normas/NMX-AA-012-SCFI-2001.pdf Graphic file (type pdf)
 <use Normas/NMX-AA-012-SCFI-2001.pdf, page 1>
 Package pdftex.def Info: Normas/NMX-AA-012-SCFI-2001.pdf , page1 used on input 
@@ -2974,7 +3040,7 @@ line 49.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 [21
 
- <./Normas/NMX-AA-012-SCFI-2001.pdf>]) (./Documento_maestro.acr)
+ <./Normas/NMX-AA-012-SCFI-2001.pdf>]) (Documento_maestro.acr)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2988,7 +3054,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 
-] (./Documento_maestro.gls
+] (Documento_maestro.gls
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3017,25 +3083,29 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[25] (./Documento_maestro.aux (./Portada.aux
+[25] (Documento_maestro.aux (Portada.aux
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
-) (./Dedicatoria.aux)
+) (Dedicatoria.aux)
 LaTeX Info: Redefining \. on input line 34.
 LaTeX Info: Redefining \% on input line 34.
 
-(./Agradecimientos.aux) (./Resumen.aux) (./Abstract.aux) (./Introduccion.aux)
-(./Antecedentes.aux) (./Planteamiento.aux) (./Justificacion.aux)
-(./Objetivos.aux) (./Materiales.aux) (./Resultados.aux) (./Discusion.aux)
-(./Conclusiones.aux) (./Perspectivas.aux) (./Anexos.aux)) ) 
+(Agradecimientos.aux) (Resumen.aux) (Abstract.aux) (Introduccion.aux)
+(Antecedentes.aux) (Planteamiento.aux) (Justificacion.aux) (Objetivos.aux)
+(Materiales.aux) (Resultados.aux) (Discusion.aux) (Conclusiones.aux)
+(Perspectivas.aux) (Anexos.aux))
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 28401 strings out of 476034
- 494592 string characters out of 5792853
- 1877388 words of memory out of 6000000
- 47616 multiletter control sequences out of 15000+600000
- 580407 words of font info for 318 fonts, out of 8000000 for 9000
- 1137 hyphenation exceptions out of 8191
- 94i,21n,90p,2261b,809s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 28464 strings out of 476331
+ 504058 string characters out of 5787765
+ 1877660 words of memory out of 5000000
+ 47649 multiletter control sequences out of 15000+600000
+ 580658 words of font info for 320 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 94i,21n,90p,2263b,809s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{glo:EC} has been referenced but does not exist, rep
 laced by a fixed one
@@ -3048,20 +3118,21 @@ placed by a fixed one
 pdfTeX warning (dest): name{glo:ASM} has been referenced but does not exist, re
 placed by a fixed one
 
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/cm-super/sftt1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/h
-elvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb
-o8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on Documento_maestro.pdf (76 pages, 6870420 bytes).
+ <C:\Users\luisr\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt12
+00.pk><C:/Users/luisr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmmi12.pfb><C:/Users/luisr/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmmi8.pfb><C:/Users/luisr/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmr12.pfb><C:/Users/luisr/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/luisr/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/luisr/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/luisr/AppData/
+Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/luisr/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/luisr/A
+ppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/luis
+r/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on Documento_maestro.pdf (78 pages, 7095238 bytes).
 PDF statistics:
- 2588 PDF objects out of 2984 (max. 8388607)
- 1934 compressed objects within 20 object streams
- 243 named destinations out of 1000 (max. 500000)
+ 2668 PDF objects out of 2984 (max. 8388607)
+ 249 named destinations out of 1000 (max. 500000)
  87259 words of extra memory for PDF output out of 89155 (max. 10000000)
 

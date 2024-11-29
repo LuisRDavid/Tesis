@@ -165,6 +165,7 @@ Algunas de las características que se mencionaran enseguida se ven influenciada
 	\caption{Vista transversal de una tubería de alcantarillado, donde se aprecia de manera general las condiciones de corrosión y generación de gases a las que es sometida habitualmente}\label{fig:tba}
 \end{figure}
 Un ejemplo práctico de esto es el caudal de las aguas residuales, que es la cantidad de agua que fluye en un período específico, es una característica clave que determina la capacidad de carga de los sistemas de tratamiento. Este parámetro, medido en unidades como litros por segundo o metros cúbicos por segundo, es fundamental para dimensionar infraestructuras y garantizar un manejo efectivo de las aguas residuales en sistemas urbanos e industriales~\citep{crites2000}. Al ser un sistema dinámico, se infiere que las condiciones dentro de los sistemas de alcantarillado pueden pasar de un extremo a otro en cuestión de segundos (sobre todo teniendo en cuenta que en los sistemas centralizados de alcantarillado suelen mezclarse los distintos tipos de aguas residuales ya mencionados anteriormente en el presente texto), por tal motivo las tuberías deben resistir condiciones de altas presiones, taponamientos por acumulación de residuos, generación de gases tóxicos, vibraciones y desplazamientos del terreno, entre un largo etcétera de factores ambientales (ver figura \ref{fig:tba}).
+Entre este tipo de componentes podemos destacar los expuestos enseguida:
 \subsubsection{Sólidos}
 Uno de los principales componentes físicos presentes en las aguas residuales son los materiales sólidos dispersos por todo el afluente. El tamaño de estas partículas puede variar desde cabellos hasta materiales coloidales~\citep{metcalf2003}. 
 La clasificación de los distintos sólidos se realiza tomando en cuenta el estado y la naturaleza de los componentes de la muestra a analizar, además, varios de estos se pueden agrupar en varios subgrupos en común según la fracción en la que se encuentran y el método por el cual se pueden determinar (ver figura~\ref{fig:solrelcn}); entre los que se identifican:
@@ -315,7 +316,9 @@ Donde:
 	\item $EC$ es la conductividad eléctrica de la muestra expresada en decisiemens por metro o micromhos por centímetro (dS/m o µmho/cm)
 \end{itemize}
 \subsection{Características Químicas}
-Por regla general, los componentes químicos de las aguas residuales se dividen en orgánicos e inorgánicos. Los componentes orgánicos 
+Por regla general, los componentes químicos de las aguas residuales se dividen en orgánicos e inorgánicos.  Debido a esta mezcla, resulta indispensable el desarrollo de distintas técnicas para la evaluación empírica de la concentraciones de tales contaminantes.La composición química dependerá del origen de las aguas, así como las condiciones ambientales del entorno donde son desechadas, no contendrán los mismos componentes las aguas producidas por una industria textil que los generados por una fabrica de alimentos lácteos. Mientras que una contendrá un mayor numero de componentes inorgánicos como sales y metales pesados, también contendrá trazas de colorantes, fijadores, detergentes y tensoactivos que resultan dañinos para los ecosistemas acuáticos si son vertidos sin tratamiento o con uno deficiente, incapaz de  eliminar tales contaminantes recalcitrantes \citep{Fabregas2021}. Del otro lado, en el ejemplo de la producción de lácteos, gran parte de los contaminantes presentes son compuestos orgánicos biodegradables, los que resultan más fáciles de eliminar (en comparación con los del ejemplo anterior) \citep{RodriguezGuerra2020}.\par
+Con el anterior ejemplo que da claro la importancia de realizar una correcta caracterización química del agua al momento de elegir el tipo de tratamiento que ésta recibirá, reduciendo costos operativos y tiempos en el desarrollo del proyecto.\par
+A continuación se presentan las principales características químicas presentes en el agua: \par
 \subsubsection{Componentes Orgánicos}
 \begin{enumerate}[label=\textbf{\alph*{.-}}]
 	\item \textbf{Demanda bioquímica de oxígeno}\par
@@ -344,6 +347,34 @@ Por regla general, los componentes químicos de las aguas residuales se dividen 
 \end{enumerate}
 \subsection{Características Biológicas}
 \subsection{Muestreo}
+El muestreo de aguas residuales se puede clasificar en 2 tipos principales:
+\begin{itemize}
+	\item Muestra simple, siendo usada principalmente cuando el flujo y la composición del agua a analizar se mantienen constantes durante la mayor parte del tiempo, cuando el flujo es intermitente; y cuando se tengan presentes condiciones extremas como lo son el \acrshort{pH} y la temperatura. El resultado corresponde a las condiciones del instante en el que es tomada la muestra y el volumen mínimo para este muestreo debe estar entre 1 y 2 litros de muestra.
+	\item Muestra compuesta, la cual se forma por la mezcla de distintas muestras simples individuales recolectadas en distintos intervalos de tiempo. El número de estas muestras y el volumen se verá determinado por el caudal de salida del sistema al momento de realizar la campaña de muestreo (ver ecuación \ref{eq:muestreo}).
+	\begin{equation} \label{eq:muestreo}
+	\begin{split}
+		&\;\qquad\qquad\qquad\qquad\;\frac{V_{i}}{Q_{i}} = \frac{V}{nQ_{m}}\\
+		\text{Donde:} \\
+			V_{i} =& \text{ es el volumen de cada muestra individual i de la muestra compuesta}\\
+			Q_{i} =& \text{ es el  caudal instantáneo en el momento en que la muestra i es tomada}\\
+			V =& \text{ es el volumen total de la muestra compuesta que hay que tomar}\\
+			n =& \text{ es el número de muestras  que deben ser	mezcladas}\\
+			Q_{m} =& \text{ es el caudal medio}
+	\end{split}
+	\end{equation}
+\end{itemize}
+El tipo de muestreo se ve determinado por los datos requeridos por el tipo de PTAR, las normativas vigentes (ver cuadro \ref{tab:NOMmuestreo}), información documental requerida diariamente para el control operativo de la planta y como medida de evaluación de equipos y/o procesos mejorados o nuevos dentro de la planta \citep{metcalf2003,Ramalho2003}.\par
+\begin{table}[H]
+	contenidos...
+	\label{tab:NOMmuestreo}
+\end{table}
+Para cualquiera de los dos tipos, el muestreo siempre tiene que cumplir con ciertas características:
+\begin{itemize}
+	\item Deben ser representativas, esto quiere decir que los resultados deben representar en su totalidad el sistema analizado.
+	\item Deben ser replicables, lo que implica que los resultados obtenidos por otras personas deben ser similares, aplicando la misma metodología de análisis y muestreo.
+	\item 
+	\item Útil, 
+\end{itemize}
 \subsection{Límites máximos permisibles}\label{NOM2021}
 \subsection{Tratamiento de aguas residuales}
 Cada año se vierten a los cuerpos de agua millones de metros cúbicos de aguas residuales, descargas municipales, industriales y agrícolas tratadas de forma inadecuada o sin tratamiento alguno.

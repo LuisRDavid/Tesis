@@ -1,80 +1,100 @@
-This is BibTeX, Version 0.99d (TeX Live 2023/Fedora 39)
+This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Documento_maestro.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
 A level-1 auxiliary file: Portada.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
 A level-1 auxiliary file: Dedicatoria.aux
+Reallocating 'name_of_file' (item size: 1) to 20 items.
 A level-1 auxiliary file: Agradecimientos.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
 A level-1 auxiliary file: Resumen.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
 A level-1 auxiliary file: Abstract.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
 A level-1 auxiliary file: Introduccion.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
 A level-1 auxiliary file: Antecedentes.aux
+Reallocating 'name_of_file' (item size: 1) to 18 items.
 A level-1 auxiliary file: Planteamiento.aux
+Reallocating 'name_of_file' (item size: 1) to 18 items.
 A level-1 auxiliary file: Justificacion.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
 A level-1 auxiliary file: Objetivos.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
 A level-1 auxiliary file: Materiales.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
 A level-1 auxiliary file: Resultados.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
 A level-1 auxiliary file: Discusion.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
 A level-1 auxiliary file: Conclusiones.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
 A level-1 auxiliary file: Perspectivas.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
 The style file: apalike.bst
+Reallocating 'name_of_file' (item size: 1) to 31 items.
+Reallocating 'name_of_file' (item size: 1) to 11 items.
 A level-1 auxiliary file: Anexos.aux
 Database file #1: ../Bibliography/References.bib
 Warning--entry type for "Maps" isn't style-file defined
---line 387 of file ../Bibliography/References.bib
+--line 773 of file ../Bibliography/References.bib
 Warning--entry type for "aquafish" isn't style-file defined
---line 397 of file ../Bibliography/References.bib
+--line 793 of file ../Bibliography/References.bib
 Warning--entry type for "Wiggens" isn't style-file defined
---line 406 of file ../Bibliography/References.bib
+--line 811 of file ../Bibliography/References.bib
 Warning--entry type for "Lobov" isn't style-file defined
---line 415 of file ../Bibliography/References.bib
+--line 829 of file ../Bibliography/References.bib
 Warning--entry type for "CEAJ24" isn't style-file defined
---line 434 of file ../Bibliography/References.bib
+--line 867 of file ../Bibliography/References.bib
 Warning--entry type for "Cruz2024" isn't style-file defined
---line 443 of file ../Bibliography/References.bib
+--line 885 of file ../Bibliography/References.bib
 Warning--entry type for "CNA2024" isn't style-file defined
---line 453 of file ../Bibliography/References.bib
+--line 905 of file ../Bibliography/References.bib
+Warning--entry type for "Fabregas2021" isn't style-file defined
+--line 1031 of file ../Bibliography/References.bib
 Warning--empty journal in CEAJ2015
 Warning--empty journal in MSASA
 Warning--empty journal in ODS23
-You've used 40 entries,
+You've used 42 entries,
             1935 wiz_defined-function locations,
-            733 strings with 12302 characters,
-and the built_in function-call counts, 12393 in all, are:
-= -- 1196
-> -- 449
-< -- 34
-+ -- 144
-- -- 142
-* -- 916
-:= -- 2316
-add.period$ -- 132
-call.type$ -- 40
-change.case$ -- 261
-chr.to.int$ -- 40
-cite$ -- 43
-duplicate$ -- 520
-empty$ -- 864
-format.name$ -- 192
-if$ -- 2365
+            754 strings with 12899 characters,
+and the built_in function-call counts, 13056 in all, are:
+= -- 1264
+> -- 469
+< -- 36
++ -- 150
+- -- 148
+* -- 969
+:= -- 2436
+add.period$ -- 139
+call.type$ -- 42
+change.case$ -- 274
+chr.to.int$ -- 42
+cite$ -- 45
+duplicate$ -- 544
+empty$ -- 911
+format.name$ -- 202
+if$ -- 2493
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 44
-newline$ -- 213
-num.names$ -- 120
-pop$ -- 237
+missing$ -- 45
+newline$ -- 224
+num.names$ -- 126
+pop$ -- 243
 preamble$ -- 1
-purify$ -- 271
+purify$ -- 284
 quote$ -- 0
-skip$ -- 402
+skip$ -- 422
 stack$ -- 0
-substring$ -- 590
-swap$ -- 35
+substring$ -- 641
+swap$ -- 36
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 212
+type$ -- 224
 warning$ -- 3
-while$ -- 84
+while$ -- 89
 width$ -- 0
-write$ -- 523
-(There were 10 warnings)
+write$ -- 550
+(There were 11 warnings)
